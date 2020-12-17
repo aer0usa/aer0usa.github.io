@@ -408,24 +408,42 @@ In Order of Acquisition
     * Shipped November 22, 2020
     * [Israel Post Tracking](https://t.17track.net/en#nums=LX066325395IL)
         * [Israelpost](https://mypost.israelpost.co.il/itemtrace) LX066325395IL
+    * Arrived December 3, 2020
 
-    > Number: LX066325395IL  
-    > Package status: In transit  
-    > Country: Israel -> United States  
-    > Destination:  
-    > 2020-11-23 18:40, ISRAEL, TEL AVIV YAFO, Processed Through Facility -> Your item has been processed through a facility in TEL AVIV YAFO, ISRAEL at 6:40 pm on November 23, 2020.  
-    > 2020-11-22 10:32, Origin Post is Preparing Shipment  
-    > 2020-11-22 10:32, ISRAEL, Acceptance  
-    > Origin:  
-    > 2020-11-23 00:00, Sent to The United States  
-    > 2020-11-22 00:00, Tzabar Center, Kiryat Bialik, Received for mailing and was forwarded for processing  
-    > ======================================  
-    > Powered by www.17track.net  
+> Number: LX066325395IL
+> Package status: Pick up
+> Country: Israel -> United States
+> Destination:
+> 2020-12-03 05:53, MARSHVILLE, NC 28103, Available for Pickup -> Your item arrived at the MARSHVILLE, NC 28103 post office at 5:53 am on December 3, 2020 and is ready for pickup.
+> 2020-12-03 05:51, MARSHVILLE, NC 28103, Arrived at Unit
+> 2020-12-02 03:10, MID CAROLINA-CHARLOTTE NC DISTRIBUTION CENTER, Departed USPS Regional Facility
+> 2020-12-01 07:43, MID CAROLINA-CHARLOTTE NC DISTRIBUTION CENTER, Arrived at USPS Regional Facility
+> 2020-12-01 02:51, ATLANTA, GA 30354, Departed USPS Facility
+> 2020-11-30 02:59, ATLANTA, GA 30354, Arrived at USPS Facility
+> 2020-11-29 03:16, QUEENS NY DISTRIBUTION CENTER, Departed USPS Regional Facility
+> 2020-11-28 18:04, QUEENS NY DISTRIBUTION CENTER, Arrived at USPS Regional Facility
+> 2020-11-28 08:17, ISC NEW YORK NY(USPS), Processed Through Facility
+> 2020-11-23 18:40, ISRAEL, TEL AVIV YAFO, Processed Through Facility
+> 2020-11-22 10:32, Origin Post is Preparing Shipment
+> 2020-11-22 10:32, ISRAEL, Acceptance
+> Origin:
+> 2020-11-28 00:00, Received in The United States
+> 2020-11-23 00:00, Sent to The United States
+> 2020-11-22 00:00, Tzabar Center, Kiryat Bialik, Received for mailing and was forwarded for processing
+> ======================================
+> Powered by www.17track.net
 
 * Scales;
-    * Front: 27cm || L, A [B, CI, C] D, P || S, T
+    * Front: 27cm || L, K, A [B, CI, C] D, P || S, T
+        * Scales not labeled except for D (SIN) and P (COS)
+        * S and T on front edge as SIN / COS and tg / Ctg
+        * Reverse scales (CI, COS, Ctg, but not P) in Red
     * Rear: [L, LL1, LL2, LL3]
         * [lg x, e^0.01x, e^0.1x, e^x]
     * Back: Conversions
 * Date Code "OC"
-    * Manufactured March 1964
+    * Manufactured March, 1964
+* Includes cardboard box/case
+    * "SUN HEMMI Bamboo Slide Rule"
+    * Box does not have ends
+    * Stars drawn on box
