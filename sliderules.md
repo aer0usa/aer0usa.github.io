@@ -15,6 +15,7 @@ In Order of Acquisition
 * [ KL-1 Circular Slide Rule](#kl1)
 * [ Frederick Post 1457 Mannheim Trig](#post1457)
 * [ Sun Hemmi No. 130 System Darmstadt](#hemmi130)
+* [ Pickett Model 200](#pickett200)
 
 -----
 
@@ -451,3 +452,18 @@ In Order of Acquisition
     * "SUN HEMMI Bamboo Slide Rule"
     * Box does not have ends
     * Stars drawn on box
+
+---
+
+<a name="pickett200"></a>
+## Pickett Model 200
+### [Pickett Page on ISRM](https://www.sliderulemuseum.com/Pickett.htm)
+### [Pickett Reference Image on ISRM](https://www.sliderulemuseum.com/Manuals/Pickett_Chronology.jpg)
+
+![Like this one on ISRM, but without RCA branding](https://www.sliderulemuseum.com/Pickett/Pickett_Model_200_c1949_RCA_DonatedByDavidHecht.jpg)
+
+* Purchased January 11, 2021
+    * Ebay
+    * $17.83 Shipped
+
+* Includes leather case
