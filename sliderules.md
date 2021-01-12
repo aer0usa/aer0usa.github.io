@@ -20,7 +20,7 @@ In Order of Acquisition
 
 <a name="concise552"></a>
 ## Concise Model CTCS-552
-### [Concise Page on ISRM](https://www.sliderulemuseum.com/Concise.htm)
+[Concise Page on ISRM](https://www.sliderulemuseum.com/Concise.htm)
 
 * From Dad, 1976?
 
@@ -85,7 +85,6 @@ In Order of Acquisition
     * Written inside flap:
         * "Mrs. J. S. Payte 322 Dennis St. Nacodoches Texas"
 
-
 [Return to Top](#top)
 
 -----
@@ -112,7 +111,6 @@ In Order of Acquisition
 * Fair condition. Plastic on slide delaminating from wood slightly at ends.
 * Compare to [Frederick Post 1457 Mannheim Trig](https://www.sliderulemuseum.com/Post/S076_Post_1457.jpg) ISRM S076
 * Also compare to [Frederick Post 1457](#post1457) below.
-
 
 [Return to Top](#top)
 
@@ -154,7 +152,6 @@ In Order of Acquisition
     * No Slide Tension Springs
 * Includes Case with Conversions and Formulas
 * Good condition.
-
 
 [Return to Top](#top)
 
@@ -202,7 +199,7 @@ In Order of Acquisition
     * Serial Number 209763
 * Excellent Condition
 
-[Return to Top](#top)
+    [Return to Top](#top)
 
 ---
 
@@ -451,3 +448,22 @@ In Order of Acquisition
     * "SUN HEMMI Bamboo Slide Rule"
     * Box does not have ends
     * Stars drawn on box
+
+---
+
+<a name="pickett200"></a>
+## Pickett Model 200
+### [Pickett Page on ISRM](https://www.sliderulemuseum.com/Pickett.htm)
+### [Pickett Reference Image on ISRM](https://www.sliderulemuseum.com/Manuals/Pickett_Chronology.jpg)
+
+![Like this one on ISRM, but without RCA branding](https://www.sliderulemuseum.com/Pickett/Pickett_Model_200_c1949_RCA_DonatedByDavidHecht.jpg)
+
+* Purchased January 11, 2021
+    * Ebay
+    * $17.83 Shipped
+    * Seller accidentally shipped me the wrong slide rule, so he is shipping this one the next day and letting me keep the extra rule!
+
+* Scales:
+    * Front: K, A [ B, CI, C ] D, L
+    * Back: Blank [ S, ST, T ] Blank
+* Includes leather case
