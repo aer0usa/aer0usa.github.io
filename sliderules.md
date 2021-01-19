@@ -76,8 +76,8 @@ In Order of Acquisition
 * Good condition
 * Includes leatherette case
     * No markings on case
-        * Maybe the case is for a different slide rule?
-        * This seems to be the same size and design as the case that came with the Post 1457, except with smooth leather
+        * Maybe the case is for [a different slide rule](#roos109)?
+        * This seems to be the same size and design as the case that came with the [Post 1457](#post1457), except with smooth leather
     * Flap torn off
         * When I got it, the flap wasn't torn off yet, but it was close
     * Written inside flap:
@@ -495,6 +495,12 @@ In Order of Acquisition
     * Printing at right end of scales is worn
     * Smooth operation
     * "V.L.M" written on back
+* Unusual?
+    * Does not have the "window" on the back of the rule to read the S, L, and T scales.
+    * There is a rounded finger cutout at the right end of the back of the rule, but no window.
+    * Rounded cutout seems irregular. Added by an owner?
+    * Clearly labeled "N4058W" on back. The model without the window that is closest is labeled "4058D"
+    * Emailed Clark McCoy
 
 [Return to Top](#top)
 
