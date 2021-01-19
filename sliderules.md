@@ -4,18 +4,19 @@
 
 In Order of Acquisition
 
-* [ Concise Model CTCS-552](#concise552)
-* [ Pickett 902-T Simplex Trig](#pickett902)
-* [ Roos Company No. SR-109](#roos109)
-* [ Pickett Model 700 A-2](#pickett700)
-* [ Pickett Model 520 A-1](#pickett520)
-* [ Aristo 0903LL Scholar](#aristo09903ll)
-* [ Aristo 867U Darmstadt](#aristo867u)
-* [ Pickett N4-ES](#pickettn4)
-* [ KL-1 Circular Slide Rule](#kl1)
-* [ Frederick Post 1457 Mannheim Trig](#post1457)
-* [ Sun Hemmi No. 130 System Darmstadt](#hemmi130)
-* [ Pickett Model 200](#pickett200)
+* [Concise Model CTCS-552](#concise552)
+* [Pickett 902-T Simplex Trig](#pickett902)
+* [Roos Company No. SR-109](#roos109)
+* [Pickett Model 700 A-2](#pickett700)
+* [Pickett Model 520 A-1](#pickett520)
+* [Aristo 0903LL Scholar](#aristo09903ll)
+* [Aristo 867U Darmstadt](#aristo867u)
+* [Pickett N4-ES](#pickettn4)
+* [KL-1 Circular Slide Rule](#kl1)
+* [Frederick Post 1457 Mannheim Trig](#post1457)
+* [Sun Hemmi No. 130 System Darmstadt](#hemmi130)
+* [Pickett Model 200](#pickett200)
+* [K&E N4058W Beginner’s Slide Rule](#ke4058)
 
 -----
 
@@ -151,7 +152,7 @@ In Order of Acquisition
     * Grooved Rails
     * Male Slide
     * No Slide Tension Springs
-* Includes Case with Conversions and Formulas
+* Includes Case with Conversions and Formulas and pocket clip
 * Good condition.
 
 [Return to Top](#top)
@@ -462,9 +463,52 @@ In Order of Acquisition
 * Purchased January 11, 2021
     * Ebay
     * $17.83 Shipped
-    * Seller accidentally shipped me the wrong slide rule, so he is shipping this one the next day and letting me keep the extra rule!
-
+    * Seller accidentally shipped me the wrong slide rule, so he is shipping this one the next day and letting me keep [the extra rule](#ke4058)!
+    * Arrived January 18, 2021
+* [Pickett Metal Slide Rules Chronology](https://osgalleries.org/journal/displayarticle.cgi?match=1.1/V1.1P5.pdf)
+* [Pickett Metal Slide Rules - A Brief Update](https://osgalleries.org/journal/displayarticle.cgi?match=3.2/V3.2P47a.pdf)
+* Manufactured Early 1950s
+    * Aluminum
+        * Shiny edges, not corroded or dark
+    * Logo Style 3
+        * "38" Above Logo
+    * Stamped Aluminum Posts
+        * "Smooth Stamped Posts Contoured to Finger Tip"
+    * Plain Flat Lens
+    * Machined Metal Cursor Bars
+    * Grooved Rails
+    * Male Slide
+    * No Slide Tension Springs
 * Scales:
     * Front: K, A [ B, CI, C ] D, L
     * Back: Blank [ S, ST, T ] Blank
+* Includes leather case with pocket clip
+    * Initials "J.C.P." written below clip
+* Good condition
+    * Smooth operation
+    * One small crack in each cursor lens
+
+---
+
+<a name="ke4058"></a>
+## K&E N4058W Beginner’s Slide Rule
+### [K&E Page on ISRM](https://www.sliderulemuseum.com/KE_Standard.htm)
+### [Clark McCoy's K&E N4058W Page](https://www.mccoys-kecatalogs.com/KEModels/ke4058family.htm)
+
+![N4058W on ISRM](https://www.sliderulemuseum.com/KE/KE_N4058W_BeginnersSlideRule_PlasticCursor.jpg)
+
+* [Clark McCoy's K&E N4058W Scans Page](https://www.mccoys-kecatalogs.com/KECollection/4058/keN4058W_2_1.htm)
+* Sent to me accidentally when I ordered the [Pickett Model 200](#pickett200), so the seller let me keep it!
+    * Arrived January 18, 2021
+* [Manual](https://www.mccoys-kecatalogs.com/KEManuals/4058-1944/4058manual.pdf)
 * Includes leather case
+* Manufactured 1954-1960
+    * One-piece clear plastic cursor
+* Scales:
+    * Front: A [ B, CI, C ] D, K
+    * Back: Equivalents [ S, L, T ]
+* Fair condition
+    * Printing at right end of scales is worn
+    * Smooth operation
+    * "V.L.M" written on back
+
