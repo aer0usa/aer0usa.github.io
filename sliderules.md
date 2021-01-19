@@ -24,10 +24,9 @@ In Order of Acquisition
 ## Concise Model CTCS-552
 [Concise Page on ISRM](https://www.sliderulemuseum.com/Concise.htm)
 
-* From Dad, 1976?
-
 ![CTCS-552 on ISRM, different imprint](https://www.sliderulemuseum.com/Circular/SamaAndEtana_Concise_CTCS-552_GiftOfArthurAnderson.jpg)
 
+* From Dad, 1976?
 * Scales: 4in || D ( C, CI, L, A, K) || 10cm
 * Table of the Elements and Temperature Conversion Chart on back
 * Insert ©1966
@@ -39,7 +38,6 @@ In Order of Acquisition
 * Poor condition, but complete and functional. Taped together.
     * I played with it like a toy and left it exposed to sunlight in a window sill. If I remember correctly, the sunlight is what hurt it worst.
 
-
 [Return to Top](#top)
 
 -----
@@ -50,15 +48,13 @@ In Order of Acquisition
 ### [Pickett Reference Image on ISRM](https://www.sliderulemuseum.com/Manuals/Pickett_Chronology.jpg)
 ### [Just like this one on Greg's Slide Rules](http://sliderule.ozmanor.com/rules/sr-0128-pick902t-01.html)
 
+![902-T on ISRM, later model](https://www.sliderulemuseum.com/Pickett/Pickett_Model_902-T_SimplexTrig_DieCastBracesCursorBars_c1957.jpg)
+
 * Lys got me this!
     * Lot of two (with Roos SR-109 below) for ~$20
     * ~2010?
-
-![902-T on ISRM, later model](https://www.sliderulemuseum.com/Pickett/Pickett_Model_902-T_SimplexTrig_DieCastBracesCursorBars_c1957.jpg)
-
 * [Pickett Metal Slide Rules Chronology](https://osgalleries.org/journal/displayarticle.cgi?match=1.1/V1.1P5.pdf)
 * [Pickett Metal Slide Rules - A Brief Update](https://osgalleries.org/journal/displayarticle.cgi?match=3.2/V3.2P47a.pdf)
-
 * Manufactured 1955 - 1957
     * Aluminum
         * Shiny edges, not corroded or dark
@@ -128,13 +124,10 @@ In Order of Acquisition
 * Purchased June 12, 2020
     * Ebay
     * $32 Shipped
-
 * [Manual](https://www.sliderulemuseum.com/Manuals/M184_P232_Pickett_USAF_AerialPhoto_M520-700.pdf)
     * Working on a better copy: I am performing OCR and Proofreading on [this older version of the manual found on this page](http://sliderule.ozmanor.com/man/man-download.html)
-
 * [Pickett Metal Slide Rules Chronology](https://osgalleries.org/journal/displayarticle.cgi?match=1.1/V1.1P5.pdf)
 * [Pickett Metal Slide Rules - A Brief Update](https://osgalleries.org/journal/displayarticle.cgi?match=3.2/V3.2P47a.pdf)
-
 * Manufactured Early 1950s
     * Aluminum
         * Shiny edges, not corroded or dark
@@ -168,12 +161,9 @@ In Order of Acquisition
 * Purchased June 25, 2020
     * Ebay
     * $48 Shipped
-
 * [Manual](https://www.sliderulemuseum.com/Manuals/M184_P232_Pickett_USAF_AerialPhoto_M520-700.pdf)
-
 * [Pickett Metal Slide Rules Chronology](https://osgalleries.org/journal/displayarticle.cgi?match=1.1/V1.1P5.pdf)
 * [Pickett Metal Slide Rules - A Brief Update](https://osgalleries.org/journal/displayarticle.cgi?match=3.2/V3.2P47a.pdf)
-
 * Manufactured 1962 - 1966
     * Aluminum
         * Shiny edges, not corroded or dark
@@ -201,7 +191,7 @@ In Order of Acquisition
     * Serial Number 209763
 * Excellent Condition
 
-    [Return to Top](#top)
+[Return to Top](#top)
 
 ---
 
@@ -215,9 +205,7 @@ In Order of Acquisition
     * Ebay
     * $19.25 Shipped
     * Arrived July 12, 2020
-
 * [Manual](https://www.sliderulemuseum.com/Manuals/ISRM_M316_Aristo_Scholar_0903LL_VS-2_GiftOfEdwardWright.pdf)
-
 * Scales:
     * Front: L, K, A [ B, CI, C ] D, S, ST, T
     * Rear: 25cm [ S, LL2, LL3] 8 inch(bi-directional)
@@ -244,7 +232,6 @@ In Order of Acquisition
     * Ebay
     * $17.12 Shipped
     * Arrived July 24, 2020
-
 * Scales:
     * Front: K, A [B, BI, CI, C] D, P, S, T
         * x^3, x^2 [x(z)^2, 1/x^2, 1/x, x(z)] x, √(1 - x^2), sin, tg
@@ -284,16 +271,13 @@ In Order of Acquisition
 
 * [Manual on ISRM Site](https://www.sliderulemuseum.com/Manuals/M76_Pickett_HowToUseLogLogSR_1953.pdf)
 ...or at least the only one I could find that discusses the TWO Tangent scales
-
 * Purchased September 24, 2020
     * Ebay
     * $42.70 Shipped
     * Arrived October 1, 2020
-
 * Scales
     * Front: LL1+.00D/-.00D, LL2+.0D/-.0D, DF/m [ CF/m, TH, SH, Ln, L, CI, C ] D, LL3+.D/-.D, LL4+D./-D.
     * Rear: ∛ #1, ∛ #2, ∛ #3, DF [ CF, CIF, T1, T2, ST, S Cos,  CI, C ] D, DI, √ #1, √  #2
-
 * Manufactured 1962 - 1964
     * Aluminum
     * Logo Style 4
@@ -337,7 +321,6 @@ In Order of Acquisition
         * Uzbekistan Post tracking [RQ109507591UZ](https://www.pochta.uz/en/2014-06-09-08-50-39/track-trace.html)
     * Arrived October 15, 2020
     * Came with a post card from Moscow
-
 * Scales
     * Front: A, D
     * Back: DI, S, T
@@ -372,7 +355,6 @@ In Order of Acquisition
     * $20.07 Shipped
     * USPS Tracking [9400108205497440590447](https://tools.usps.com/go/TrackConfirmAction?tRef=fullpage&tLc=3&text28777=&tLabels=9400108205497440590447%2C%2C&tABt=false)
     * Arrived October 15, 2020
-
 * Same as Roos SR-109
 * Manufactured 1941 - 1945
     * Material: Wood stock with plastic laminate, plastic end pieces
@@ -442,14 +424,14 @@ In Order of Acquisition
     * Rear: [L, LL1, LL2, LL3]
         * [lg x, e^0.01x, e^0.1x, e^x]
     * Back: Conversions
-
 * Date Code "OC"
     * Manufactured March, 1964
-
 * Includes cardboard box/case
     * "SUN HEMMI Bamboo Slide Rule"
     * Box does not have ends
     * Stars drawn on box
+
+[Return to Top](#top)
 
 ---
 
@@ -488,6 +470,8 @@ In Order of Acquisition
     * Smooth operation
     * One small crack in each cursor lens
 
+[Return to Top](#top)
+
 ---
 
 <a name="ke4058"></a>
@@ -511,4 +495,6 @@ In Order of Acquisition
     * Printing at right end of scales is worn
     * Smooth operation
     * "V.L.M" written on back
+
+[Return to Top](#top)
 
