@@ -1,3 +1,4 @@
+<a name="top"></a>
 # My Slide Rules
 
 ## Table of Contents
@@ -17,6 +18,14 @@ In Order of Acquisition
 * [Sun Hemmi No. 130 System Darmstadt](#hemmi130)
 * [Pickett Model 200](#pickett200)
 * [K&E N4058W Beginner’s Slide Rule](#ke4058)
+
+## Wish List
+
+* [Pickett Model 14](#pickett14)
+* [Pickett Model 300](#pickett300)
+* [Pickett Model 600](#pickett600)
+* [Concise Model 270](#concise270)
+* [Concise Model 300](#concise300)
 
 -----
 
@@ -504,3 +513,64 @@ In Order of Acquisition
 
 [Return to Top](#top)
 
+---
+
+<a name="pickett14"></a>
+
+## Pickett Model 14 Military Ranging
+![Pickett Model 14 on ISRM](https://sliderulemuseum.com/Pickett/Pickett_Model_14_USMilitaryArtilleryRanging_GiftOfLeroyHauslerCollection.jpg)
+* Scales
+    * Front Scale: LL1+/-, LL2+/-, A [ B, T Cot, ST, S Cos, K,  C ] D, LL3+/-, LL4+/-
+    * Back Scale: Opposite angle Deg, Deg,  Mils, Mils [ Apex angle, Tan CoTan, Sin-Tan, Sin CoSin, Base C ], Distance D, A
+
+[Return to Top](#top)
+
+---
+
+<a name="pickett300"></a>
+## Pickett Model 300
+![Pickett Model 300 on ISRM](https://www.sliderulemuseum.com/Pickett/Pickett_Model_300_c1949_DonatedByDavidHecht.jpg)
+* Scales
+    * Front Scale: LL1, A [ B, T cot, S Cos, C ] D, LL2
+    * Back Scale: LL3, DF [ CF, CIF, CI, C ] D, L
+
+[Return to Top](#top)
+
+---
+
+<a name="pickett600"></a>
+## Pickett Model 600
+![Pickett Model 600 on ISRM](https://www.sliderulemuseum.com/Pickett/Pickett_600_Magnesium_TriangleLogo_1949_GiftOfLeroyHauslerCollection.jpg)
+* Scales
+    * Front Scale(Artwork 53): LL1, LL1, A [ B, T, ST, S Cos, T Cot, C ] D, DI, K
+    * Back Scale: LL2, LL2, DF [ CF, CIF, CI, L, C ] D, LL3, LL3
+
+[Return to Top](#top)
+
+---
+
+<a name="concise270"></a>
+## Concise Model 270
+![Concise 270 on ISRM](https://www.sliderulemuseum.com/Circular/C32_Lafayette_F-383_Concise_270.jpg)
+* Scales:
+    * Front Scale: L, D ( C, CI, A, K )
+    * Back Scale: DI, D ( S, T1, T2, ST )
+
+### Concise Model 271
+![Concise 271 on ISRM](https://www.sliderulemuseum.com/Circular/Concise_271_CircularSlideRule_GiftOfSusanJacksonForJimRodgers.jpg)
+* Scales
+    * Front Scale: L, D ( C, CI, A, K )
+    * Back Scale: DI, D ( S Cos, T1 Cot1, T2 Cot2, ST )
+
+[Return to Top](#top)
+
+---
+
+<a name="concise300"></a>
+## Concise Model 300
+![Concise Model 300 on ISRM](https://www.sliderulemuseum.com/Archive/XXX_Concise_300.jpg)
+* Scales
+    * Front Scale: K, A, D ( C, CI, B, L )
+    * Back Scale: LL3, LL2, D ( C, S Cos, T1 Cot1, T2 Cot2, ST )
+
+[Return to Top](#top)
