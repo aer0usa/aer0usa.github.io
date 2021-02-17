@@ -2,6 +2,12 @@
 
 * They looked interesting to me
 * What problems were they meant to solve?
+    * Designed by Amrom H. Katz
+        * [Contributions to the Theory and Mechanics of Photo-Interpretation From Vertical and Oblique Photographs](https://www.asprs.org/wp-content/uploads/pers/1950journal/jun/1950_jun_339-386.pdf)[@katz01 Katz, Amrom H. Contributions to the theory and mechanics of photo-interpretation from vertical and oblique photographs. 1950.]
+        * [@katz02 https://apps.dtic.mil/sti/pdfs/AD0417337.pdf][Katz, Amrom H. On the informal history of image evaluation techniques and practice. RAND CORP SANTA MONICA CA, 1963.]
+        * [@katz03 https://apps.dtic.mil/sti/pdfs/AD0405302.pdf][Katz, Amrom. The Soviets and the U-2 Photos-an Heuristic Argument. RAND CORP SANTA MONICA CA, 1963.]
+        * [@katz04 https://apps.dtic.mil/sti/pdfs/AD0402285.pdf][Katz, Amrom H. Some Ramblings and Musings on Tactical Reconnaissance. RAND CORP SANTA MONICA CA, 1963.]
+        * [Available for purchase:](https://www.osapublishing.org/josa/abstract.cfm?uri=josa-38-7-604) [@katz05 Katz, Amrom H. "Aerial photographic equipment and applications to reconnaissance." JOSA 38.7 (1948): 604-610.]
     * “Front” of rule:
     * Simple problem: proportions
         * Altitude : Focal Length :: Actual Size : Image Size
