@@ -18,10 +18,10 @@ In Order of Acquisition
 * [Sun Hemmi No. 130 System Darmstadt](#hemmi130)
 * [Pickett Model 200](#pickett200)
 * [K&E N4058W Beginner’s Slide Rule](#ke4058)
+* [Pickett Model 14](#pickett14)
 
 ## Wish List
 
-* [Pickett Model 14](#pickett14)
 * [Pickett Model 300](#pickett300)
 * [Pickett Model 600](#pickett600)
 * [Concise Model 270](#concise270)
@@ -304,6 +304,7 @@ In Order of Acquisition
         * Pickett moved to California in 1964
 * Plastic Cursor
     * Dirty and cloudy. Cleaned up well.
+    * Slightly Yellowed
 * Includes Leather Case
     * "FRANK BUSH" stamped inside case flap
     * There has been a sticker on the front and back of the case, like price tags?
@@ -514,20 +515,43 @@ In Order of Acquisition
 [Return to Top](#top)
 
 ---
-# Wish List
-
 <a name="pickett14"></a>
 
-## Pickett Model 14 Military Ranging
+## Pickett Model N14 ES Military Ranging
 ![Pickett Model 14 on ISRM](https://sliderulemuseum.com/Pickett/Pickett_Model_14_USMilitaryArtilleryRanging_GiftOfLeroyHauslerCollection.jpg)
 
+* Birthday present from Lys
+    * She got it from Ebay
+    * She gave it to me March 20, 2021
+* Includes
+    * Cardboard box
+    * Leather case with slot for instruction slip
+    * Plastic instruction slip
+    * Belt loop
+    * Warranty card
+    * Rule in original plastic bag
 * Scales
     * Front Scale: LL1+/-, LL2+/-, A [ B, T Cot, ST, S Cos, K,  C ] D, LL3+/-, LL4+/-
     * Back Scale: Opposite angle Deg, Deg,  Mils, Mils [ Apex angle, Tan CoTan, Sin-Tan, Sin CoSin, Base C ], Distance D, A
+* Manufactured 1958 -1962
+    * Aluminum
+    * Logo style 4
+    * Stamped Aluminum Posts
+        * "Grooved Stamped Posts Contoured to Finger Tip"
+    * Grooved Convex Lens
+    * Extended Nylon Cursor Bars
+    * No Grooves in Rails for Cursor
+    * Grooved Slide
+    * Slide Tension Springs
+* Like-New condition
+    * Clean and Shiny
+    * Complete
+    * Operates smoothly
 
 [Return to Top](#top)
 
 ---
+# Wish List
 
 <a name="pickett300"></a>
 ## Pickett Model 300
