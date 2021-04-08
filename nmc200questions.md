@@ -1,7 +1,43 @@
 # New Members Class "Messianic Foundations"
 ## Chapter Questions
 
-1. Describe three aspects/attributes of G-d's everlasting love (including scripture references): (1) Personal, (2), Perpetual, and (3) Powerful.
+1. Describe three aspects/attributes of G-d's everlasting love (including scripture references):
+
+    1) Personal
+
+    G-d's love is **Personal**.
+    G-d is not an impersonal "force of the universe" nor a tyrant.
+    He cares for His chosen people, and for His entire creation.
+    He loves us enough to correct us and enough to make sacrifices for our benefit.
+
+    *For G-d so loved the world that He gave His only begotten Son, that whoever believes in Him should not perish but have everlasting life.* -John 3:16
+
+    *The Lord is not slack concerning His promise, as some count slackness, but is longsuffering toward us, not willing that any should perish but that all should come to repentance.* - 2 Peter 3:9
+
+    2) Perpetual
+
+    G-d's love is **Perpetual**.
+    G-d is eternal.
+    G-d does not change.
+    So if G-d loves us, He has always loved us, and always will.
+
+    *The LORD has appeared of old to me, saying: "Yes, I have loved you with an everlasting love; Therefore with lovingkindness I have drawn you."* - Jeremiah 31:3
+
+    *"Come near to Me, hear this: I have not spoken in secret from the beginning; From the time that it was, I was there. And now the Lord GOD and His Spirit Have sent Me."* - Isaiah 48:16
+
+    G-d's love does not change.
+    He does not get "fed up" with us.
+
+    *I say then, has G-d cast away His people? Certainly not! For I also am an Israelite, of the seed of Abraham, of the tribe of Benjamin. G-d has not cast away His people whom He foreknew.…* - Romans 11:1-2
+
+    3) Powerful
+
+    G-d's love is **Powerful**.
+    His love saves us, spiritually and physically.
+
+    *"And because He loved your fathers, therefore He chose their descendants after them; and He brought you out of Egypt with His Presence, with His mighty power,* - Deuteronomy 4:37
+
+    *For G-d so loved the world that He gave His only begotten Son, that whoever believes in Him should not perish but have everlasting life.* -John 3:16
 
 2. …
 
