@@ -488,6 +488,7 @@ In Order of Acquisition
 ## K&E N4058W Beginner’s Slide Rule
 ### [K&E Page on ISRM](https://www.sliderulemuseum.com/KE_Standard.htm)
 ### [Clark McCoy's K&E N4058W Page](https://www.mccoys-kecatalogs.com/KEModels/ke4058family.htm)
+### [K&E N4058W on Smithsonian Museum web page](https://americanhistory.si.edu/collections/search/object/nmah_1214624)
 
 ![N4058W on ISRM](https://www.sliderulemuseum.com/KE/KE_N4058W_BeginnersSlideRule_PlasticCursor.jpg)
 
@@ -511,6 +512,7 @@ In Order of Acquisition
     * Rounded cutout seems irregular. Added by an owner?
     * Clearly labeled "N4058W" on back. The model without the window that is closest is labeled "4058D"
     * Emailed Clark McCoy
+    * Same as [K&E N4058W on Smithsonian Museum web page](https://americanhistory.si.edu/collections/search/object/nmah_1214624)
 
 [Return to Top](#top)
 
