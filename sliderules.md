@@ -527,11 +527,20 @@ In Order of Acquisition
     * She gave it to me March 20, 2021
 * Includes
     * Cardboard box
+        * "138" written on one side and one end of box
     * Leather case with slot for instruction slip
+        * "US" embossed in gold on front, partly worn off
+        * "138" writtin inside flap
     * Plastic instruction slip
     * Belt loop
-    * Warranty card
+    * Slide Rule Guarantee Registration Card
+        * Serial Number 863398
     * Rule in original plastic bag
+    * Receipt from "Northeast Technical Institute"
+        * $10.00
+        * October 15, 1975
+        * Pam Betteys
+        * For "Slide Rule #138"
 * Scales
     * Front Scale: LL1+/-, LL2+/-, A [ B, T Cot, ST, S Cos, K,  C ] D, LL3+/-, LL4+/-
     * Back Scale: Opposite angle Deg, Deg,  Mils, Mils [ Apex angle, Tan CoTan, Sin-Tan, Sin CoSin, Base C ], Distance D, A
@@ -540,6 +549,7 @@ In Order of Acquisition
     * Logo style 4
     * Stamped Aluminum Posts
         * "Grooved Stamped Posts Contoured to Finger Tip"
+        * "138" engraved on front left post
     * Grooved Convex Lens
     * Extended Nylon Cursor Bars
     * No Grooves in Rails for Cursor
