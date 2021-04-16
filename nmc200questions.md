@@ -1,49 +1,60 @@
 # New Members Class "Messianic Foundations"
 ## Chapter Questions
 
-1. Describe three aspects/attributes of G-d's everlasting love (including scripture references):
+1. Describe three aspects/attributes of G-d's **everlasting love** (including scripture references):
 
-    1) Personal
+    a. **Personal**
 
-    G-d's love is **Personal**.
-    G-d is not an impersonal "force of the universe" nor a tyrant.
-    He cares for His chosen people, and for His entire creation.
-    He loves us enough to correct us and enough to make sacrifices for our benefit.
+        G-d's love is **Personal**.
+        G-d is not an impersonal "force of the universe" nor a tyrant.
+        He cares for His chosen people, and for His entire creation.
+        He loves us enough to correct us and enough to make sacrifices for our benefit.
 
-    *For G-d so loved the world that He gave His only begotten Son, that whoever believes in Him should not perish but have everlasting life.* -John 3:16
+        *For G-d so loved the world that He gave His only begotten Son, that whoever believes in Him should not perish but have everlasting life.* -John 3:16
 
-    *The Lord is not slack concerning His promise, as some count slackness, but is longsuffering toward us, not willing that any should perish but that all should come to repentance.* - 2 Peter 3:9
+        *The Lord is not slack concerning His promise, as some count slackness, but is longsuffering toward us, not willing that any should perish but that all should come to repentance.* - 2 Peter 3:9
 
-    2) Perpetual
+    b. **Perpetual**
 
-    G-d's love is **Perpetual**.
-    G-d is eternal.
-    G-d does not change.
-    So if G-d loves us, He has always loved us, and always will.
+        G-d's love is **Perpetual**.
+        G-d is eternal.
+        G-d does not change.
+        So if G-d loves us, He has always loved us, and always will.
 
-    *The LORD has appeared of old to me, saying: "Yes, I have loved you with an everlasting love; Therefore with lovingkindness I have drawn you."* - Jeremiah 31:3
+        *The LORD has appeared of old to me, saying: "Yes, I have loved you with an everlasting love; Therefore with lovingkindness I have drawn you."* - Jeremiah 31:3
 
-    *"Come near to Me, hear this: I have not spoken in secret from the beginning; From the time that it was, I was there. And now the Lord GOD and His Spirit Have sent Me."* - Isaiah 48:16
+        *"Come near to Me, hear this: I have not spoken in secret from the beginning; From the time that it was, I was there. And now the Lord GOD and His Spirit Have sent Me."* - Isaiah 48:16
 
-    G-d's love does not change.
-    He does not get "fed up" with us.
+        G-d's love does not change.
+        He does not get "fed up" with us.
 
-    *I say then, has G-d cast away His people? Certainly not! For I also am an Israelite, of the seed of Abraham, of the tribe of Benjamin. G-d has not cast away His people whom He foreknew.…* - Romans 11:1-2
+        *I say then, has G-d cast away His people? Certainly not! For I also am an Israelite, of the seed of Abraham, of the tribe of Benjamin. G-d has not cast away His people whom He foreknew.…* - Romans 11:1-2
 
-    3) Powerful
+    c. **Powerful**
 
-    G-d's love is **Powerful**.
-    His love saves us, spiritually and physically.
+        G-d's love is **Powerful**.
+        His love saves us, spiritually and physically.
 
-    *"And because He loved your fathers, therefore He chose their descendants after them; and He brought you out of Egypt with His Presence, with His mighty power,* - Deuteronomy 4:37
+        *"And because He loved your fathers, therefore He chose their descendants after them; and He brought you out of Egypt with His Presence, with His mighty power,* - Deuteronomy 4:37
 
-    *For G-d so loved the world that He gave His only begotten Son, that whoever believes in Him should not perish but have everlasting life.* -John 3:16
+        *For G-d so loved the world that He gave His only begotten Son, that whoever believes in Him should not perish but have everlasting life.* -John 3:16
 
-2. …
+2. **To the Jew First…**
 
     a. Define "to the Jew first" in context of G-d's Word (i.e., what does this phrase mean)
 
+        "To the Jew first" means *primarily* to the Jew, and **not** first *chronologically*.
+        The Jewish people are first in G-d's *priority*, as G-d's chosen people.
+
     b. Explain why this directive is still applicable/necessary to demonstrate G-d's faithfulness.
+
+        The directive "to the Jew first" is necessary as testimony of G-d's faithfulness and constancy.
+        G-d has **not** nullified nor forgotten His promises to the Jewish people.
+        The Good News of Messiah "to the Jew first" is testimony that He keeps His promises.
+        He did not change his mind and remove His covenant.
+
+        I liked the idea of G-d's promises being "irreducably complex".
+        Either **ALL** of His promises are true, or **none** of it is true.
 
 3. Explain why Messianic Congregations are a necessary testimony of G-d (faithful, effective, and fulfilling).
 
