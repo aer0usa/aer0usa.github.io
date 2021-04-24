@@ -58,6 +58,24 @@ Either **ALL** of His promises are true, or **none** of it is true.
 
 ### 3. Explain why Messianic Congregations are a necessary testimony of G-d (faithful, effective, and fulfilling).
 
+Messianic Congregations are an expression of God's *faithfulness*.
+If God was not faithful, the Jews might not be God's chosen people any more.
+However, God has kept His people with His faithfulness and power.
+God wants His chosen people to remain Jewish *in Messiah*.
+Messianic Congregations are a demonstration that God's chosen people are still extant and still relevant, and that the Gentiles' salvation is *through* the Jews.
+
+Messianic Congregations are *effective*, not in the sense of adding to the number of people converted or saved, but in the communication of God's plan to Jews and Gentiles.
+God keeps a *remnant* for His testimony of faithfulness.
+
+Psalm 137:5
+
+Romans 15:25-27 God's program: "To the Jew first..."
+
+Messianic are a *fulfillment* of God's Great Commission in Matthew 8:18-28.
+Your *faith* in Messiah Yeshua saves you.
+Discipleship doesn't save you, but faithfulness is a *result* of discipleship.
+Discipleship makes you *functional* in faithfulness.
+
 ### 4. Describe at least three characteristics of Biblical faith.
 
 ### 5. Discuss how faith relates to salvation.
