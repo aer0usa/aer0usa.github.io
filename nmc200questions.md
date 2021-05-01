@@ -3,7 +3,7 @@
 
 ### 1. Describe three aspects/attributes of G-d's **everlasting love** (including scripture references):
 
-a. **Personal**
+#### Personal
 
 G-d's love is **Personal**.
 G-d is not an impersonal "force of the universe" nor a tyrant.
@@ -14,7 +14,7 @@ He loves us enough to correct us and enough to make sacrifices for our benefit.
 
 *The Lord is not slack concerning His promise, as some count slackness, but is longsuffering toward us, not willing that any should perish but that all should come to repentance.* - 2 Peter 3:9
 
-b. **Perpetual**
+#### Perpetual
 
 G-d's love is **Perpetual**.
 G-d is eternal.
@@ -30,7 +30,7 @@ He does not get "fed up" with us.
 
 *I say then, has G-d cast away His people? Certainly not! For I also am an Israelite, of the seed of Abraham, of the tribe of Benjamin. G-d has not cast away His people whom He foreknew.…* - Romans 11:1-2
 
-c. **Powerful**
+#### Powerful
 
 G-d's love is **Powerful**.
 His love saves us, spiritually and physically.
@@ -41,12 +41,12 @@ His love saves us, spiritually and physically.
 
 ### 2. **To the Jew First…**
 
-a. Define "to the Jew first" in context of G-d's Word (i.e., what does this phrase mean)
+#### Define "to the Jew first" in context of G-d's Word (i.e., what does this phrase mean)
 
 "To the Jew first" means *primarily* to the Jew, and **not** first *chronologically*.
 The Jewish people are first in G-d's *priority*, as G-d's chosen people.
 
-b. Explain why this directive is still applicable/necessary to demonstrate G-d's faithfulness.
+#### Explain why this directive is still applicable/necessary to demonstrate G-d's faithfulness.
 
 The directive "to the Jew first" is necessary as testimony of G-d's faithfulness and constancy.
 G-d has **not** nullified nor forgotten His promises to the Jewish people.
@@ -67,9 +67,12 @@ Messianic Congregations are a demonstration that God's chosen people are still e
 Messianic Congregations are *effective*, not in the sense of adding to the number of people converted or saved, but in the communication of God's plan to Jews and Gentiles.
 God keeps a *remnant* for His testimony of faithfulness.
 
-Psalm 137:5
+Psalm 137:5 *If I forget you, O Jerusalem, Let my right hand forget its skill!*
 
 Romans 15:25-27 God's program: "To the Jew first..."
+*But now I am going to Jerusalem to minister to the saints.
+For it pleased those from Macedonia and Achaia to make a certain contribution for the poor among the saints who are in Jerusalem.
+It pleased them indeed, and they are their debtors. For if the Gentiles have been partakers of their spiritual things, their duty is also to minister to them in material things.*
 
 Messianic are a *fulfillment* of God's Great Commission in Matthew 8:18-28.
 Your *faith* in Messiah Yeshua saves you.
@@ -78,41 +81,43 @@ Discipleship makes you *functional* in faithfulness.
 
 ### 4. Describe at least three characteristics of Biblical faith.
 
+* Faith is RELIANCE upon God's promises
+* Faith is RECKONED by God's perspective
+* Faith is RIGHTEOUSNESS as God's provision
+* Abraham's faith was PERSONAL: He believed IN God, not just ABOUT God.
+* Abraham's faith was PROPOSITIONAL: Believing in the PERSON of God means faith in the PROMISES of God.
+* Abraham's faith was PRACTICAL: Belief necessitated action.
+
 ### 5. Discuss how faith relates to salvation.
 
 ### 6. What is the Gentile calling and how is it practically accomplished?
 
 ### 7. Describe the symbolic elements of the "olive tree" (e.g., roots, natural branches, wild branches, and pruned/cut-off branches) and explain the redemptive purpose of the Gentiles in G-d's plan, as shown symbolically with the olive tree.
 
-### 8. …
+### 8. The Fullness of the Gentiles
 
-    a. Explain what is meant by "the fullness of the Gentiles" (Romans 11:25)
+a. Explain what is meant by "the fullness of the Gentiles" (Romans 11:25)
 
-    b. Explain how it relates to faithfulness
+b. Explain how it relates to faithfulness
 
-    c. Explain how it is accomplished
+c. Explain how it is accomplished
 
 ### 9. Does our Messianic unity equate to uniformity? Please explain your answer.
 
 ### 10. Explain how Gentiles are included in "the commonwealth of Israel" and explain how this relates to the Body of Messiah becoming G-d's holy residence.
 
-### 11. …
+### 11. New Covenant
 
-    a. Summarize G-d's purpose for 
-
+a. Summarize G-d's purpose for 
     1. the Mosaic Covenant
-
     2. the New Covenant
-
-    b. Describe how these Covenants are different from each other.
+b. Describe how these Covenants are different from each other.
 
 ### 12. Summarize each of the three provisions (internal, miraculous, and universal) promised in the New Covenant.
 
 ### 13. …
 
-    a. Explain the impact of faith (in Yeshua) on the Law's Parameters, Authority, and Glory.
-
-    b. Also, describe how Messianic believers might fall into the trap of "legalism"
-
-    c. Explain how we can avoid legalism to live a heavenly life here on Earth.
+a. Explain the impact of faith (in Yeshua) on the Law's Parameters, Authority, and Glory.
+b. Also, describe how Messianic believers might fall into the trap of "legalism"
+c. Explain how we can avoid legalism to live a heavenly life here on Earth.
 
