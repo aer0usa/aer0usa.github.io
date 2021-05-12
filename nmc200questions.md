@@ -90,6 +90,23 @@ Discipleship makes you *functional* in faithfulness.
 
 ### 5. Discuss how faith relates to salvation.
 
+No one can achieve salvation on their own.
+
+Faith in Messiah Yeshua is the only way to "heaven" **and** to eternal life.
+Romans 3:21-31
+
+The Law only shows our sin and contrasts it with God's righteousness.
+It cannot save us.
+
+Pride and Boasting are *opposite* to faith: Trusting in yourself and your own works.
+
+Romans 1:17:
+Torah is a Torah of **faith**.
+Torah didn't save anyone.
+Sacrifices and confessions pointed to a *need* for salvation, *humility* to ask for it, and *faith* in the righteous, loving God.
+
+Romans 3:29-30
+
 ### 6. What is the Gentile calling and how is it practically accomplished?
 
 ### 7. Describe the symbolic elements of the "olive tree" (e.g., roots, natural branches, wild branches, and pruned/cut-off branches) and explain the redemptive purpose of the Gentiles in G-d's plan, as shown symbolically with the olive tree.
