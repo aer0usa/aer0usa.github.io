@@ -18,7 +18,8 @@ In Order of Acquisition
 * [Sun Hemmi No. 130 System Darmstadt](#hemmi130)
 * [Pickett Model 200](#pickett200)
 * [K&E N4058W Beginner’s Slide Rule](#ke4058)
-* [Pickett Model 14](#pickett14)
+* [Pickett Model N14 ES Military Ranging](#pickett14)
+* [Pickett Model 500 Ortho Phase Log Log](#pickett500)
 
 ## Wish List
 
@@ -559,6 +560,30 @@ In Order of Acquisition
     * Clean and Shiny
     * Complete
     * Operates smoothly
+
+[Return to Top](#top)
+
+<a name="pickett500"></a>
+## Pickett Model 500 Ortho Phase Log Log
+![Pickett Model 500 on ISRM](https://www.sliderulemuseum.com/Pickett/S377_Pickett_500_OrthoPhase.jpg)
+
+* Purchased May 18, 2021
+    * Ebay
+    * $21.34
+* Scales
+    * Front Scale (artwork: G-10): LL0, LL00, A [ B, T Cos, ST, S Cos ] D, K
+    * Back Scale (artwork: H-10): L, LL1, DF [ CF, CIF, CI, C ] D, LL3, LL2
+* Manufactured 1948-1950
+    * Magnesium
+    * Logo Style 1 "P&E"
+    * Grooved Rails
+    * Male Slide
+    * Stamped Aluminum(?) Posts
+        * "Smooth Stamped Posts Contoured to Finger Tip"
+    * Plain Flat Lens
+    * Machined Metal Cursor Bars
+    * No Slide Tension Springs
+* Felt slip cover
 
 [Return to Top](#top)
 
