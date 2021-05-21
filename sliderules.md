@@ -570,18 +570,27 @@ In Order of Acquisition
 * Purchased May 18, 2021
     * Ebay
     * $21.34
+    * Shipped via USPS
+    * Arrived May 21, 2021
 * Scales
-    * Front Scale (artwork: G-10): LL0, LL00, A [ B, T Cos, ST, S Cos ] D, K
+    * Front Scale (artwork: G-10): LL0, LL00, A [ B, T, ST, S ] D, K
     * Back Scale (artwork: H-10): L, LL1, DF [ CF, CIF, CI, C ] D, LL3, LL2
-* Manufactured 1948-1950
+* Manufactured 1945-1950
     * Magnesium
+        * Edges corroded and dark
+        * Slide and Cursor slide easily and smoothly
     * Logo Style 1 "P&E"
+    * "U.S.A. COPYRIGHT 1948" on back of slide, left end.
+        * So, Manufactured 1948-1950 ?
     * Grooved Rails
     * Male Slide
-    * Stamped Aluminum(?) Posts
+    * Stamped Stainless Steel(?) Posts
         * "Smooth Stamped Posts Contoured to Finger Tip"
     * Plain Flat Lens
     * Machined Metal Cursor Bars
+        * Stainless Steel?
+        * Very Shiny!
+        * Serial Number stamped on top bar: B060316
     * No Slide Tension Springs
 * Felt slip cover
 
