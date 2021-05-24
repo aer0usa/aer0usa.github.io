@@ -225,7 +225,7 @@ In Order of Acquisition
     * Geretsried
     * Lot 28
 * Includes Plastic Box
-    * "Dieter Engel..."
+    * “Dieter Engel…” written in pencil
 * Excellent Condition
 
 [Return to Top](#top)
@@ -280,7 +280,7 @@ In Order of Acquisition
 ![Like this Pickett N4-ES on ISRM](https://www.sliderulemuseum.com/Pickett/Pickett_N4-ES_c1960_DonatedbyAndyKeller.jpg)
 
 * [Manual on ISRM Site](https://www.sliderulemuseum.com/Manuals/M76_Pickett_HowToUseLogLogSR_1953.pdf)
-...or at least the only one I could find that discusses the TWO Tangent scales
+…or at least the only one I could find that discusses the TWO Tangent scales
 * Purchased September 24, 2020
     * Ebay
     * $42.70 Shipped
@@ -292,22 +292,22 @@ In Order of Acquisition
     * Aluminum
     * Logo Style 4
         * No Artwork Mark
-        * "MADE IN U.S.A." under logo like Style 5
+        * “MADE IN U.S.A.” under logo like Style 5
     * Stamped Aluminum Posts
-        * "Grooved Stamped Posts Contoured to Finger Tip"
+        * “Grooved Stamped Posts Contoured to Finger Tip”
         * Dull, not shiny
     * Grooved Convex Lens
     * Nylon Cursor Bars
     * No Grooves in Rails for Cursor
     * Grooved Slide
     * Slide Tension Springs
-    * Slide has "PICKETT & ECKEL INC. CHICAGO ILL. U.S.A."
+    * Slide has “PICKETT & ECKEL INC. CHICAGO ILL. U.S.A.”
         * Pickett moved to California in 1964
 * Plastic Cursor
     * Dirty and cloudy. Cleaned up well.
     * Slightly Yellowed
 * Includes Leather Case
-    * "FRANK BUSH" stamped inside case flap
+    * “FRANK BUSH” stamped inside case flap
     * There has been a sticker on the front and back of the case, like price tags?
     * There is still some adhesive remaining from each sticker. Still sticky, so probably recent.
     * There are scratches on the case where someone removed the stickers. They are not deep scratches.
@@ -401,32 +401,6 @@ In Order of Acquisition
     * [Israel Post Tracking](https://t.17track.net/en#nums=LX066325395IL)
         * [Israelpost](https://mypost.israelpost.co.il/itemtrace) LX066325395IL
     * Arrived December 3, 2020
-
-    ```
-    Number: LX066325395IL
-    Package status: Pick up
-    Country: Israel -> United States
-    Destination:
-    2020-12-03 05:53, MARSHVILLE, NC 28103, Available for Pickup -> Your item arrived at the MARSHVILLE, NC 28103 post office at 5:53 am on December 3, 2020 and is ready for pickup.
-    2020-12-03 05:51, MARSHVILLE, NC 28103, Arrived at Unit
-    2020-12-02 03:10, MID CAROLINA-CHARLOTTE NC DISTRIBUTION CENTER, Departed USPS Regional Facility
-    2020-12-01 07:43, MID CAROLINA-CHARLOTTE NC DISTRIBUTION CENTER, Arrived at USPS Regional Facility
-    2020-12-01 02:51, ATLANTA, GA 30354, Departed USPS Facility
-    2020-11-30 02:59, ATLANTA, GA 30354, Arrived at USPS Facility
-    2020-11-29 03:16, QUEENS NY DISTRIBUTION CENTER, Departed USPS Regional Facility
-    2020-11-28 18:04, QUEENS NY DISTRIBUTION CENTER, Arrived at USPS Regional Facility
-    2020-11-28 08:17, ISC NEW YORK NY(USPS), Processed Through Facility
-    2020-11-23 18:40, ISRAEL, TEL AVIV YAFO, Processed Through Facility
-    2020-11-22 10:32, Origin Post is Preparing Shipment
-    2020-11-22 10:32, ISRAEL, Acceptance
-    Origin:
-    2020-11-28 00:00, Received in The United States
-    2020-11-23 00:00, Sent to The United States
-    2020-11-22 00:00, Tzabar Center, Kiryat Bialik, Received for mailing and was forwarded for processing
-    ======================================
-    Powered by www.17track.net
-    ```
-
 * Scales:
     * Front: 27cm || L, K, A [B, CI, C] D, P || S, T
         * Scales not labeled except for D (SIN) and P (COS)
@@ -436,7 +410,7 @@ In Order of Acquisition
         * [lg x, e^0.01x, e^0.1x, e^x]
     * Back: Conversions
 * Date Code "OC"
-    * Manufactured March, 1964
+    * Manufactured March 1964
 * Includes cardboard box/case
     * "SUN HEMMI Bamboo Slide Rule"
     * Box does not have ends
@@ -476,7 +450,7 @@ In Order of Acquisition
     * Front: K, A [ B, CI, C ] D, L
     * Back: Blank [ S, ST, T ] Blank
 * Includes leather case with pocket clip
-    * Initials "J.C.P." written below clip
+    * Initials “J.C.P.” written below clip
 * Good condition
     * Smooth operation
     * One small crack in each cursor lens
@@ -575,11 +549,13 @@ In Order of Acquisition
 * Scales
     * Front Scale (artwork: G-10): LL0, LL00, A [ B, T, ST, S ] D, K
     * Back Scale (artwork: H-10): L, LL1, DF [ CF, CIF, CI, C ] D, LL3, LL2
-* Manufactured 1945-1950
+* Manufactured 1948-1950
+    * "Period 1"
     * Magnesium
         * Edges corroded and dark
         * Slide and Cursor slide easily and smoothly
     * Logo Style 1 "P&E"
+        * This logo used 1945-1950
     * "U.S.A. COPYRIGHT 1948" on back of slide, left end.
         * So, Manufactured 1948-1950 ?
     * Grooved Rails
@@ -589,7 +565,7 @@ In Order of Acquisition
     * Plain Flat Lens
     * Machined Metal Cursor Bars
         * Stainless Steel?
-        * Very Shiny!
+        * Shiny!
         * Serial Number stamped on top bar: B060316
     * No Slide Tension Springs
 * Felt slip cover
