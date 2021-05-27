@@ -1,4 +1,5 @@
 # New Members Class "Messianic Foundations"
+
 ## Chapter Questions
 
 ### 1. Describe three aspects/attributes of G-d's **everlasting love** (including scripture references):
@@ -109,7 +110,31 @@ Romans 3:29-30
 
 ### 6. What is the Gentile calling and how is it practically accomplished?
 
+The Gentile calling is to make the Jews *jealous* of the Gentiles’ relationship with God in Messiah Yeshua, in order to bring the Jews to Him.
+
+Rom 11:11 NKJV - *I say then, have they stumbled that they should fall? Certainly not! But through their fall, to provoke them to jealousy, salvation [has come] to the Gentiles.*
+
+Rom 11:14 NKJV - *if by any means I may provoke to jealousy [those who are] my flesh and save some of them.*
+
+There must be *two* witnesses of God’s faithfulness: Jew and Gentile.
+The Jews are called to be a blessing to the Nations in Messiah’s name.
+The Gentiles are called to be a blessing to Israel.
+
+The calling of the Gentiles is accomplished through their acceptance through faith in Messiah and their testimony and service.
+
 ### 7. Describe the symbolic elements of the "olive tree" (e.g., roots, natural branches, wild branches, and pruned/cut-off branches) and explain the redemptive purpose of the Gentiles in G-d's plan, as shown symbolically with the olive tree.
+
+The Olive Tree is a picture of our Future Service.
+The Root of the Tree is the promises made to the Fathers.
+
+Israel is the Natural Branches.
+The Natural Branches broken off means that they are *removed from service*.
+
+The Gentiles are the “Wild Branches” grafted in AMONG the Natural Branches, not INSTEAD of the Natural Branches.
+
+The Gentiles are meant to provoke the National Redemption of Israel by making Israel jealous of their position in the Tree and their relationship with Messiah.
+
+Rom 11:14 NKJV - *if by any means I may provoke to jealousy [those who are] my flesh and save some of them.*
 
 ### 8. The Fullness of the Gentiles
 
