@@ -1,4 +1,4 @@
-# New Members Class "Messianic Foundations"
+# New Members Class “Messianic Foundations”
 
 ## Chapter Questions
 
