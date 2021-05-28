@@ -3,20 +3,24 @@
 * They looked interesting to me
 * What problems were they meant to solve?
     * Designed by Amrom H. Katz
-        * [Contributions to the Theory and Mechanics of Photo-Interpretation From Vertical and Oblique Photographs](https://www.asprs.org/wp-content/uploads/pers/1950journal/jun/1950_jun_339-386.pdf)[@katz01 Katz, Amrom H. Contributions to the theory and mechanics of photo-interpretation from vertical and oblique photographs. 1950.]
-        * [@katz02 https://apps.dtic.mil/sti/pdfs/AD0417337.pdf][Katz, Amrom H. On the informal history of image evaluation techniques and practice. RAND CORP SANTA MONICA CA, 1963.]
-        * [@katz03 https://apps.dtic.mil/sti/pdfs/AD0405302.pdf][Katz, Amrom. The Soviets and the U-2 Photos-an Heuristic Argument. RAND CORP SANTA MONICA CA, 1963.]
-        * [@katz04 https://apps.dtic.mil/sti/pdfs/AD0402285.pdf][Katz, Amrom H. Some Ramblings and Musings on Tactical Reconnaissance. RAND CORP SANTA MONICA CA, 1963.]
-        * [Available for purchase:](https://www.osapublishing.org/josa/abstract.cfm?uri=josa-38-7-604) [@katz05 Katz, Amrom H. "Aerial photographic equipment and applications to reconnaissance." JOSA 38.7 (1948): 604-610.]
+        * [Katz, Amrom H. Contributions to the theory and mechanics of photo-interpretation from vertical and oblique photographs. 1950.](https://www.asprs.org/wp-content/uploads/pers/1950journal/jun/1950_jun_339-386.pdf)
+        * [Title:Interpretation Of Military Installations From Aerial Photographs Author: Thad Jones Photogrammetric Engineering & Remote Sensing Vol. 14 No.4 December 1948 pp.496-506 © 1948 American Society for Photogrammetry and Remote Sensing](https://www.asprs.org/wp-content/uploads/pers/1948journal/dec/1948_dec_496-506.pdf)
+        * [Katz, Amrom H. On the informal history of image evaluation techniques and practice. RAND CORP SANTA MONICA CA, 1963.](https://apps.dtic.mil/sti/pdfs/AD0417337.pdf)
+        * [Katz, Amrom. The Soviets and the U-2 Photos-an Heuristic Argument. RAND CORP SANTA MONICA CA, 1963.](https://apps.dtic.mil/sti/pdfs/AD0405302.pdf)
+        * [Katz, Amrom H. Some Ramblings and Musings on Tactical Reconnaissance. RAND CORP SANTA MONICA CA, 1963.](https://apps.dtic.mil/sti/pdfs/AD0402285.pdf)
+        * [Katz, Amrom H. "Aerial photographic equipment and applications to reconnaissance." JOSA 38.7 (1948): 604-610.](https://www.osapublishing.org/josa/abstract.cfm?uri=josa-38-7-604) (Available for purchase)
     * “Front” of rule:
     * Simple problem: proportions
         * Altitude : Focal Length :: Actual Size : Image Size
 * Altitude: what aircraft were they thinking of? Max Altitude 250,000’
     * Higher than contemporary aerial photography. 40,000’ +
-    * Too low and early for orbital platforms.
+    * Too low and too early for orbital platforms.
         * Old “Edge of Space” was 50 mi = 264,000’
         * Kármán line: 100km = 330,000’
         * Sputnik 1: 1957, 134mi x 583mi, 707,520’ x 3,078,240’
+    * V-2?
+        * 55 mi = 291,000’
+        * The V-2 wasn't used for this, but could be representative of suborbital photo platform
     * Balloons?
         * Max altitude about 100,000’
         * [Project Genetrix](https://en.wikipedia.org/wiki/Project_Genetrix)
