@@ -134,15 +134,25 @@ The Gentiles are the “Wild Branches” grafted in AMONG the Natural Branches, 
 
 The Gentiles are meant to provoke the National Redemption of Israel by making Israel jealous of their position in the Tree and their relationship with Messiah.
 
-Rom 11:14 NKJV - *if by any means I may provoke to jealousy [those who are] my flesh and save some of them.*
+Romans 11:14 NKJV - *if by any means I may provoke to jealousy [those who are] my flesh and save some of them.*
 
 ### 8. The Fullness of the Gentiles
 
-a. Explain what is meant by "the fullness of the Gentiles" (Romans 11:25)
+a. Explain what is meant by “the fullness of the Gentiles” (Romans 11:25)
+
+The “fullness of the Gentiles” means the Gentiles completing *their own ministry*.
+Gentiles’ fullness is their faithfulness to enter a *ministry of service* to Israel.
 
 b. Explain how it relates to faithfulness
 
+Faithfulness of Gentile believers obediently ministering to Israel.
+To Faithfully do God’s will in making Israel jealous.
+
 c. Explain how it is accomplished
+
+The fullness of the Gentiles is accomplished by the Gentile's receiving the blessings of God through faith, and in turn letting His blessings bless Israel.
+
+John 7:37-38 NKJV - *On the last day, that great [day] of the feast, Jesus stood and cried out, saying, "If anyone thirsts, let him come to Me and drink. "He who believes in Me, as the Scripture has said, out of his heart will flow rivers of living water."*
 
 ### 9. Does our Messianic unity equate to uniformity? Please explain your answer.
 
