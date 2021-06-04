@@ -156,6 +156,21 @@ John 7:37-38 NKJV - *On the last day, that great [day] of the feast, Jesus stood
 
 ### 9. Does our Messianic unity equate to uniformity? Please explain your answer.
 
+Jews’ and Gentiles’ *unity* in Messiah does not equate to *uniformity*.
+Our *unity* in Messiah is in our common goal: *To glorify God in Messiah.*
+
+However, we are **not** *uniform* because Jews and Gentiles have *separate* and *complementary* missions and roles.
+
+The Jews’ mission to Gentiles is in the blessing of Messiah coming through Messiah.
+
+Rom 15:12 NKJV - *And again, Isaiah says: “There shall be a root of Jesse; And He who shall rise to reign over the Gentiles, In Him the Gentiles shall hope.”*
+
+The Gentiles’ mission to Jews is to make Israel jealous of their relationship with God, to bring them to Messiah.
+
+Rom 11:11 NKJV - *I say then, have they stumbled that they should fall? Certainly not! But through their fall, to provoke them to jealousy, salvation [has come] to the Gentiles.*
+
+Romans 11:14 NKJV - *if by any means I may provoke to jealousy [those who are] my flesh and save some of them.*
+
 ### 10. Explain how Gentiles are included in "the commonwealth of Israel" and explain how this relates to the Body of Messiah becoming G-d's holy residence.
 
 ### 11. New Covenant
