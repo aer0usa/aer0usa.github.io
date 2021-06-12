@@ -1,4 +1,4 @@
-# New Members Class “Messianic Foundations”
+﻿# New Members Class “Messianic Foundations”
 
 ## Chapter Questions
 
@@ -171,20 +171,38 @@ Rom 11:11 NKJV - *I say then, have they stumbled that they should fall? Certainl
 
 Romans 11:14 NKJV - *if by any means I may provoke to jealousy [those who are] my flesh and save some of them.*
 
-### 10. Explain how Gentiles are included in "the commonwealth of Israel" and explain how this relates to the Body of Messiah becoming G-d's holy residence.
+### 10. “The Commonwealth of Israel”
+
+#### How Are Gentiles Included in “The Commonwealth of Israel”?
+
+Since Gentiles have been grafted in to the Olive Tree, Gentiles are involved in “the well-being of the community” of Israel.
+Jews and Gentiles in Messiah Yeshua share the same rights, values, and relationship with the living God.
+Jews and Gentiles in Messiah Yeshua share in fellowship, a common set of values, and way of life.
+
+Eph 2:14-15 NKJV - *For He Himself is our peace, who has made both one, and has broken down the middle wall of separation, having abolished in His flesh the enmity, [that is], the law of commandments [contained] in ordinances, so as to create in Himself one new man [from] the two, [thus] making peace*
+
+Eph 2:19 NKJV - *Now, therefore, you are no longer strangers and foreigners, but fellow citizens with the saints and members of the household of God*
+
+#### How Does This Relate to the Body of Messiah Becoming G-d’s Holy Residence?
+
+Eph 2:20-22 NKJV - *having been built on the foundation of the apostles and prophets, Jesus Christ Himself being the chief corner[stone], in whom the whole building, being fitted together, grows into a holy temple in the Lord, in whom you also are being built together for a dwelling place of God in the Spirit.*
 
 ### 11. New Covenant
 
-a. Summarize G-d's purpose for 
-    1. the Mosaic Covenant
-    2. the New Covenant
+a. Summarize G-d's purpose for
+
+1. The Mosaic Covenant
+2. The New Covenant
+
 b. Describe how these Covenants are different from each other.
 
 ### 12. Summarize each of the three provisions (internal, miraculous, and universal) promised in the New Covenant.
 
-### 13. …
+### 13. The Law
 
 a. Explain the impact of faith (in Yeshua) on the Law's Parameters, Authority, and Glory.
+
 b. Also, describe how Messianic believers might fall into the trap of "legalism"
+
 c. Explain how we can avoid legalism to live a heavenly life here on Earth.
 
