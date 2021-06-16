@@ -13,6 +13,7 @@
     * Simple problem: proportions
         * Altitude : Focal Length :: Actual Size : Image Size
 * Altitude: what aircraft were they thinking of? Max Altitude 250,000’
+    * “...to permit the use of this slide rule in oblique photography computations”
     * Higher than contemporary aerial photography. 40,000’ +
     * Too low and too early for orbital platforms.
         * Old “Edge of Space” was 50 mi = 264,000’
@@ -90,6 +91,24 @@
     * CF / DF / CIF
     * T & S scales on slide
     * A, K, and L on stators
+
+* Design Decisions
+
+#### Katz, p. 350
+
+* Altitude: “extended to about 250,000 to permit the use of this slide rule in oblique photography computations”
+* “Various arrows and marks for
+    * image speed
+    * cycling time computations
+* Indices added for 96, 144, 240 inch lenses
+* Additional considerations for aerial photographers and staff photo officers (not just aerial photo interpreters
+* Reverse side to have “the normal, folded, and inverted scales”
+    * C, D, CF, DF, DIF, DI, A & K, S & T, and L
+
+#### Katz, p. 366
+
+* Discusses calculating √(A² + B²) “on a slide rule like the K & E Log Log Deci-trig”.
+    * “The key to success with this method depends on the photo-interpreter's having a suitable slide rule. He doesn't have it yet, but will in the future”
 
 * Errors in manual?
 * U2 / Aerial photography sites
