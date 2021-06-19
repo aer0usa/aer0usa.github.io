@@ -187,14 +187,45 @@ Eph 2:19 NKJV - *Now, therefore, you are no longer strangers and foreigners, but
 
 Eph 2:20-22 NKJV - *having been built on the foundation of the apostles and prophets, Jesus Christ Himself being the chief corner[stone], in whom the whole building, being fitted together, grows into a holy temple in the Lord, in whom you also are being built together for a dwelling place of God in the Spirit.*
 
-### 11. New Covenant
+### 11. New Covenant Orientation
 
-a. Summarize G-d's purpose for
+#### Summarize G-d's purpose for:
 
-1. The Mosaic Covenant
-2. The New Covenant
+##### The Mosaic Covenant
 
-b. Describe how these Covenants are different from each other.
+To demonstrate God's holiness, our need to repent, and our need for God's grace and forgiveness.
+
+##### The New Covenant
+
+Unity:
+
+> This is the fulfillment of the Abrahamic Covenant that brings the blessing of the seed of Abraham to all nations: Genesis 12:3, Ephesians 2:15  
+> This is a new unity that is not based on ethnicity, but the Spirit: Galatians 6:15
+
+*Messianic Foundations*, page 161
+
+#### Describe how these Covenants are different from each other.
+
+The New Covenant is a **NEW** covenant, *not* a **renewal** of the Mosaic covenant.
+
+
+##### The Mosaic Covenant
+
+* Conditional: We must meet conditions to receive the blessings
+* The problem is not the Covenant, but our inability to keep it
+* *Condemns* us
+
+The Mosaic Covenant did not set up Israel for failure in a covenant that God knew they couldn't keep.
+Israel already had their promise through the Abrahamic covenant.
+The Mosaic Covenant was a demonstration of our need for God's grace.
+
+##### The New Covenant
+
+* Unconditional: The responsibilities are God's
+* A demonstration of God's *faithfulness*
+* Removes all remembrance of sin: Jeremiah 31:34
+* Combines offices of Priest and King in Messiah Yeshua: Zecheriah 6:12-14
+* Promises a place for foreigners and eunuchs who join themselves to the Lord: Isaiah 56:3-7
 
 ### 12. Summarize each of the three provisions (internal, miraculous, and universal) promised in the New Covenant.
 
