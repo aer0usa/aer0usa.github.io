@@ -45,8 +45,8 @@ The next question that came to my mind was, “How did Katz arrive at a maximum 
 As it appeared this rule would have been designed around 1950, what aircraft would have been used for aerial photo reconnaissance?
 This question by itself captured my imagination for a few weeks, searching for aircraft and aerial reconnaissance practices in late World War II through the early Fifties.
 
-The U2 and SR-71 were still years away from their introductions.
-Even if the Aerial Reconnaissance rule were designed with those future aircraft in mind, the maximum altitude of the U2 and SR-71 is 70,000 feet and 85,000 feet respectively, depending on your source of information.
+The U-2 and A-12 / SR-71 were still years away from their introductions.
+Even if the Aerial Reconnaissance rule were designed with those future aircraft in mind, the maximum altitude of the U-2 and SR-71 is 70,000 feet and 85,000 feet respectively, depending on your source of information.
 
 1950 was much too early for orbital spy satellites.
 Sputnik did not orbit the Earth until 1957, and its perigee was over 700,000 feet, so the altitude doesn't work either.
@@ -146,7 +146,7 @@ Cameras with 24- to 36-inch focal lengths were much more common.
             * 1956 - 1964
             * Two K-38 and two KC-1 cameras
             * [https://web.archive.org/web/20120616093424/http://www.nationalmuseum.af.mil/factsheets/factsheet.asp?id=2724](https://web.archive.org/web/20120616093424/http://www.nationalmuseum.af.mil/factsheets/factsheet.asp?id=2724)
-        * U2 still a few years away. 60,000’ +
+        * U-2 still a few years away. 60,000’ +
             * Introduced 1956
             * K-38 (A-1); 24” Focal length
             * A-2 Camera
@@ -160,7 +160,7 @@ Cameras with 24- to 36-inch focal lengths were much more common.
 
 * Focal lengths: what cameras were they thinking of?
 
-    * Max 240” Focal Length: U2 or SR-71
+    * Max 240” Focal Length: U-2 or SR-71
     * [K-42 “Boston Camera”](https://en.wikipedia.org/wiki/Boston_Camera)
         * Focal length: 240”
         * 18”x36” negative
@@ -206,6 +206,6 @@ Cameras with 24- to 36-inch focal lengths were much more common.
     * “The key to success with this method depends on the photo-interpreter's having a suitable slide rule. He doesn't have it yet, but will in the future”
 
 * Errors in manual?
-* U2 / Aerial photography sites
+* U-2 / Aerial photography sites
 * [*https://www.nzeldes.com/HOC/Cornell.htm*](https://www.nzeldes.com/HOC/Cornell.htm)
 
