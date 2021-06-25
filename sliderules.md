@@ -20,6 +20,7 @@ In Order of Acquisition
 * [K&E N4058W Beginner’s Slide Rule](#ke4058)
 * [Pickett Model N14 ES Military Ranging](#pickett14)
 * [Pickett Model 500 Ortho Phase Log Log](#pickett500)
+* [Pickett Model N200-T Trig](#pickettN200T)
 
 ## Wish List
 
@@ -569,6 +570,39 @@ In Order of Acquisition
         * Serial Number stamped on top bar: B060316
     * No Slide Tension Springs
 * Felt slip cover
+
+[Return to Top](#top)
+
+<a name="pickettN200T"></a>
+## Pickett Model N20-T Trig
+
+![Like this one on ISRM, but without Sola Basic Industries branding](https://sliderulemuseum.com/Pickett/Pickett_N200-T_SolaBasicIndustriesAd_DonatedByCarleeHeit.jpg)
+
+* Purchased June 18, 2021
+    * Ebay
+    * $26.69 Shipped
+    * Shipped via USPS
+    * Arrived June 24, 2021
+* Manufactured 1964-1975
+    * Logo Style 6
+        * No Artwork Mark
+    * Aluminum
+        * Shiny edges, not corroded or dark
+    * Stamped Aluminum Posts
+        * Posts with "Hooked" finger contour
+        * Circular machine marks on posts
+    * Grooved Convex Lens
+    * Nylon Cursor Bars
+    * No Grooves in Rails for Cursor
+    * Grooved Slide
+    * No Slide Tension Springs
+* Scales:
+    * Front: K, A [ B, CI, C ] D, L
+    * Back: Blank [ S, ST, T, C ] D
+* Includes leather case with top flap
+    * Pull flap to pull rule out of case
+* Good condition
+    * Smooth operation
 
 [Return to Top](#top)
 
