@@ -84,9 +84,10 @@ The Smithsonian National Air and Space Museum has a prototype, dated 1949, donat
 I found the answer to this question as I was researching likely aircraft.
 In his article, Katz mentions the K-24 and other cameras with a focal length from 24 to 36 inches.
 These were often carried by the F-5 and F-6, and Katz refers to them in examples in his article. (reference)
-However, why a maximum 240 inch focal length?
 
-While reading about the RB-26D, I read about the “Boston Camera”.
+The question remains: why a maximum 240 inch focal length?
+
+While reading about the RB-36D, I read about the “Boston Camera”.
 The Boston Camera had a focal length of 240 inches, and:
 “a photo interpreter could detect a golf ball from an altitude of 45,000 feet (14,000 m)” (reference)
 
@@ -94,6 +95,20 @@ However, the Boston Camera was not manufactured until 1951, and was used sparing
 Cameras with 24- to 36-inch focal lengths were much more common.
 
 ## Ground Speed
+
+## Other Functions
+
+* Ground speed & Shutter Intervals
+* 60% Overlap: Stereoscopic Analysis
+
+## Rear of the Rule
+
+* Katz’s suggestions vs. Pickett’s choices
+    * Other rules
+
+---
+
+# Notes
 
 * They looked interesting to me
 * What problems were they meant to solve?
