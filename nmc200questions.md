@@ -229,11 +229,39 @@ The Mosaic Covenant was a demonstration of our need for God's grace.
 
 ### 12. Summarize each of the three provisions (internal, miraculous, and universal) promised in the New Covenant.
 
+* **Internal:** New Covenant has written Torah *on our hearts*.
+* **Miraculous:** *“And I will be their God, and they shall be My people.”* - Jeremiah 31:33b  
+Provision of Relationship with God by His mercy and grace.
+* **Universal:** The knowledge of God *“they will all know Me…”* - Jeremiah 31:34  
+*“…My people are destroyed for lack of knowledge.”* - Hosea 4:6  
+*“And their sin I will remember no more”* - Jeremiah 31:34
+
+An Eternal God makes Eternal Covenants.
+Each covenant is determined by its commandments/instructions/torah.
+The Adamic Covenant had **one** law, which Adam broke.
+The Abrahamic Covenant didn't have too many laws.
+Abraham kept the Abrahamic Covenant.
+
+Deuteronomy 5:3: The Mosaic Covenant was not made with Abraham, Jacob, Isaac.
+Different Covenants, Different Commandments.
+
+Yeshua set up the New Covenant at His last Pesach: “New Covenant in My blood.”
+
+The Law has *jurisdiction* over you as long as you live.
+However, in Yeshua, you died and are a New Creation.
+Therefore, we are under *New Jurisdiction*.  
+*“…new way of the Ruach, and not in the old way of the letter.”* - Romans 7:6
+
+**All Scripture Has Been Made Profitable By the New Covenant**
+
+In the Mosaic Covenant, Holiness was a **command**.
+In the New Covenant, “You SHALL be holy” is a **promise**.
+
 ### 13. The Law
 
 a. Explain the impact of faith (in Yeshua) on the Law's Parameters, Authority, and Glory.
 
-b. Also, describe how Messianic believers might fall into the trap of "legalism"
+b. Also, describe how Messianic believers might fall into the trap of “legalism”
 
 c. Explain how we can avoid legalism to live a heavenly life here on Earth.
 
