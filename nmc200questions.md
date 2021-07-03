@@ -261,7 +261,29 @@ In the New Covenant, “You SHALL be holy” is a **promise**.
 
 a. Explain the impact of faith (in Yeshua) on the Law's Parameters, Authority, and Glory.
 
+Faith **Establishes** the Law’s Parameters.
+By our faith in Yeshua, we acknowledge our need for salvation.
+We don’t need salvation from the Law, but salvation from sin.
+The Law demonstrates our sin.
+Faith in Yeshua **establishes us** in our responsibilities, obligations, and commitments.
+
+The Law’s **Authority** is Nullified by Faith.
+
+We *were* “married” to the Law, so we *were* under its jurisdiction and authority.
+We died to the Mosaic Torah, and now we are the bride of Messiah Yeshua, so we are under the jurisdiction and authority of the New Covenant in Messiah’s blood.
+
+The Law’s **Glory** is Nullified by Faith.
+
 b. Also, describe how Messianic believers might fall into the trap of “legalism”
 
+A Messianic believer might fall into legalism in one of two ways.
+
+A Messianic believer might believe that he is under the authority of the Mosaic Covenant, and that keeping the Mosaic Torah will save him.
+
+A Messianic believer might also believe that Yeshua “did away with the Law”, and rebel against it as a demonstration of the liberty Yeshua provides.
+
 c. Explain how we can avoid legalism to live a heavenly life here on Earth.
+
+We don’t follow Torah to gain God’s acceptance, but we follow Torah because we ARE accepted by God.
+We want to identify with Him and follow the guidelines He gave us, but it doesn’t save us.
 
