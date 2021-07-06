@@ -51,7 +51,7 @@ Even if the Aerial Reconnaissance rule were designed with those future aircraft 
 1950 was much too early for orbital spy satellites.
 Sputnik did not orbit the Earth until 1957, and its perigee was over 700,000 feet, so the altitude doesn't work either.
 
-Maybe a sub-orbital platform?
+Maybe a sub-orbital platform launched via rocket?
 The most likely example of this would be the German V-2 rocket.
 Its maximum altitude was around 291,000’.
 I found one photo taken from a V-2, but no evidence that they were used for this purpose, either by the Germans or Americans.
@@ -105,6 +105,28 @@ Cameras with 24- to 36-inch focal lengths were much more common.
 
 * Katz’s suggestions vs. Pickett’s choices
     * Other rules
+
+## Precision & Accuracy
+
+> Briefly stated, precision refers to the reproducibility of the measurement operation, whereas accuracy refers to the essential truth of the measurement, i.e. its nearness to the true value.  
+Katz, page 351 (reference)
+
+> The logarithmic cycle on the interpreter's side of the rule will be 2.5 inches long, for four of these cycles are needed to cover the range 10⁴ to 1.
+> A ten inch logarithmic scale, such as the C scale on a standard 10 inch slide rule, can be read to approximately 0.1 %; hence the 2.5 inch log cycle can be read to about O.4%-one part in 250.
+> It will become clear in the next section that such precision, if accompanied by the expected accuracy in manufacture, is at least ten times better than the accuracy of most photo-interpretation.  
+Katz, page 350 (reference)
+
+> It is a serious and pernicious fallacy to believe that because computations are made with a modern electric calculator, "answers" can be written down embodying all the figures cast up by the machinations of the calculator.  
+Katz, page 351 (reference)
+
+> It is clear from all of the foregoing material that:  
+> (a) In a truly vertical photograph dI/I may be 4%.  
+> (b) In a slightly tilted photograph, assumed to be vertical, the scale may easily vary by several per cent from one side to the other.  
+> (c) Focal plane shutters may easily contribute about one per cent distortion.  
+> In the absence of non-availability of probability (or frequency) distributions for each of the quantities contributing to final error, it is impossible to estimate the probability of errors of a given size.
+> It can be stated that under some easily realized circumstances, errors of 8% to 10% are not impossible.
+> More important it can be stated that accuracies of 1% or less (such as the photo-interpreter's one part in 300) are extremely improbable.  
+Katz, page 355 (reference)
 
 ---
 
