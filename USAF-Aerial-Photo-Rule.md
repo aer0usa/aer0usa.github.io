@@ -108,6 +108,9 @@ Cameras with 24- to 36-inch focal lengths were much more common.
 
 ## Precision & Accuracy
 
+Some notes about what sizes of things they were looking for: foxholes vs missile launch sites, so you just needed to tell if something was 7 feet or 25 feet long, for example.
+From Some Notes on the History of Aerial Reconnaissance (reference)
+
 > Briefly stated, precision refers to the reproducibility of the measurement operation, whereas accuracy refers to the essential truth of the measurement, i.e. its nearness to the true value.  
 Katz, page 351 (reference)
 
@@ -137,10 +140,12 @@ Katz, page 355 (reference)
     * Designed by Amrom H. Katz
         * [Katz, Amrom H. Contributions to the theory and mechanics of photo-interpretation from vertical and oblique photographs. PHOTOGRAMMETRIC ENGINEERING, 1950.](https://www.asprs.org/wp-content/uploads/pers/1950journal/jun/1950_jun_339-386.pdf)
         * [Title:Interpretation Of Military Installations From Aerial Photographs Author: Thad Jones Photogrammetric Engineering & Remote Sensing Vol. 14 No.4 December 1948 pp.496-506 © 1948 American Society for Photogrammetry and Remote Sensing](https://www.asprs.org/wp-content/uploads/pers/1948journal/dec/1948_dec_496-506.pdf)
+        * [Author, Amrom H. Katz, RAND CORP](https://www.rand.org/pubs/authors/k/katz_amrom_h.html)
         * [Katz, Amrom H. On the informal history of image evaluation techniques and practice. RAND CORP SANTA MONICA CA, 1963.](https://apps.dtic.mil/sti/pdfs/AD0417337.pdf)
-        * [Katz, Amrom. The Soviets and the U-2 Photos-an Heuristic Argument. RAND CORP SANTA MONICA CA, 1963.](https://apps.dtic.mil/sti/pdfs/AD0405302.pdf)
-        * [Katz, Amrom H. Some Ramblings and Musings on Tactical Reconnaissance. RAND CORP SANTA MONICA CA, 1963.](https://apps.dtic.mil/sti/pdfs/AD0402285.pdf)
+        * Katz, Amrom H., The Soviets and the U-2 Photos — An Heuristic Argument. Santa Monica, CA: RAND Corporation, 1963. https://www.rand.org/pubs/research_memoranda/RM3584.html. Also available in print form.
+        * Katz, Amrom H., Some Ramblings and Musings on Tactical Reconnaissance. Santa Monica, CA: RAND Corporation, 1963. https://www.rand.org/pubs/papers/P2722.html. Also available in print form.
         * [Katz, Amrom H. “Aerial photographic equipment and applications to reconnaissance.” JOSA 38.7 (1948): 604-610.](https://www.osapublishing.org/josa/abstract.cfm?uri=josa-38-7-604) (Available for purchase)
+        * Katz, Amrom H., Some Notes on the History of Aerial Reconnaissance. Santa Monica, CA: RAND Corporation, 1966. https://www.rand.org/pubs/papers/P3310.html. Also available in print form.
     * “Front” of rule:
     * Simple problem: proportions
         * Altitude : Focal Length :: Actual Size : Image Size
