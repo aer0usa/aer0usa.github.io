@@ -108,14 +108,30 @@ Cameras with 24- to 36-inch focal lengths were much more common.
 
 ## Precision & Accuracy
 
-Some notes about what sizes of things they were looking for: foxholes vs missile launch sites, so you just needed to tell if something was 7 feet or 25 feet long, for example.
+I wondered about whether the calculations done with the rule would be accurate enough to provide useful intelligence for the photo interpreter.
+Katz discusses this in some of his articles.
+
+First, the photo interpreter does not need to find the dimensions of a ground object down to fractions of an inch.
+The question is one of whether the object on the ground is a foxhole, a missile launch site, or an airfield, for example.
 From Some Notes on the History of Aerial Reconnaissance (reference)
+
+Second, there are other sources of error in the process of obtaining the aerial photographs.
+These sources include whether the film lies flat in the camera, the motion of the shutter with respect to the airplane's path, errors in the stated focal length of the camera, and whether the photo is actually vertical.
+Katz states that these errors can be as much as 10%, whereas the “Ground Size” scale can be read within 0.1% on the 10” rule.
+So, the Aerial Photography rule provides plenty of accuracy for the job at hand.
+Katz, page 355 (reference)
+
+It is interesting to note that once the enemy became aware of aerial photography, he would camouflage the sites to hide what was there.
+However, the photo interpreter would make educated guesses based on the size of the camouflaged area, combined with other sources of intelligence.
+(reference)
+
+### Quotes
 
 > Briefly stated, precision refers to the reproducibility of the measurement operation, whereas accuracy refers to the essential truth of the measurement, i.e. its nearness to the true value.  
 Katz, page 351 (reference)
 
 > The logarithmic cycle on the interpreter's side of the rule will be 2.5 inches long, for four of these cycles are needed to cover the range 10⁴ to 1.
-> A ten inch logarithmic scale, such as the C scale on a standard 10 inch slide rule, can be read to approximately 0.1 %; hence the 2.5 inch log cycle can be read to about O.4%-one part in 250.
+> A ten inch logarithmic scale, such as the C scale on a standard 10 inch slide rule, can be read to approximately 0.1 %; hence the 2.5 inch log cycle can be read to about 0.4%-one part in 250.
 > It will become clear in the next section that such precision, if accompanied by the expected accuracy in manufacture, is at least ten times better than the accuracy of most photo-interpretation.  
 Katz, page 350 (reference)
 
@@ -123,9 +139,9 @@ Katz, page 350 (reference)
 Katz, page 351 (reference)
 
 > It is clear from all of the foregoing material that:  
-> (a) In a truly vertical photograph dI/I may be 4%.  
-> (b) In a slightly tilted photograph, assumed to be vertical, the scale may easily vary by several per cent from one side to the other.  
-> (c) Focal plane shutters may easily contribute about one per cent distortion.  
+> a) In a truly vertical photograph dI/I may be 4%.  
+> b) In a slightly tilted photograph, assumed to be vertical, the scale may easily vary by several per cent from one side to the other.  
+> c) Focal plane shutters may easily contribute about one per cent distortion.  
 > In the absence of non-availability of probability (or frequency) distributions for each of the quantities contributing to final error, it is impossible to estimate the probability of errors of a given size.
 > It can be stated that under some easily realized circumstances, errors of 8% to 10% are not impossible.
 > More important it can be stated that accuracies of 1% or less (such as the photo-interpreter's one part in 300) are extremely improbable.  
