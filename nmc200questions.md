@@ -140,7 +140,7 @@ Romans 11:14 NKJV - *if by any means I may provoke to jealousy [those who are] m
 
 a. Explain what is meant by “the fullness of the Gentiles” (Romans 11:25)
 
-The “fullness of the Gentiles” means the Gentiles completing *their own ministry*.
+The “fullness of the Gentiles” means the Gentiles completing *their own ministry.*
 Gentiles’ fullness is their faithfulness to enter a *ministry of service* to Israel.
 
 b. Explain how it relates to faithfulness
@@ -249,7 +249,7 @@ Yeshua set up the New Covenant at His last Pesach: “New Covenant in My blood.�
 
 The Law has *jurisdiction* over you as long as you live.
 However, in Yeshua, you died and are a New Creation.
-Therefore, we are under *New Jurisdiction*.  
+Therefore, we are under *New Jurisdiction.*  
 *“…new way of the Ruach, and not in the old way of the letter.”* - Romans 7:6
 
 **All Scripture Has Been Made Profitable By the New Covenant**
@@ -286,4 +286,3 @@ A Messianic believer might also believe that Yeshua “did away with the Law”,
 
 We don’t follow Torah to gain God’s acceptance, but we follow Torah because we ARE accepted by God.
 We want to identify with Him and follow the guidelines He gave us, but it doesn’t save us.
-
