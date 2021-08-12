@@ -75,19 +75,32 @@ Romans 15:25-27 God's program: "To the Jew first..."
 For it pleased those from Macedonia and Achaia to make a certain contribution for the poor among the saints who are in Jerusalem.
 It pleased them indeed, and they are their debtors. For if the Gentiles have been partakers of their spiritual things, their duty is also to minister to them in material things.*
 
-Messianic are a *fulfillment* of God's Great Commission in Matthew 8:18-28.
+Messianic are a *fulfillment* of God’s Great Commission in Matthew 8:18-28.
 Your *faith* in Messiah Yeshua saves you.
-Discipleship doesn't save you, but faithfulness is a *result* of discipleship.
+Discipleship doesn’t save you, but faithfulness is a *result* of discipleship.
 Discipleship makes you *functional* in faithfulness.
 
 ### 4. Describe at least three characteristics of Biblical faith.
 
-* Faith is RELIANCE upon God's promises
-* Faith is RECKONED by God's perspective
-* Faith is RIGHTEOUSNESS as God's provision
-* Abraham's faith was PERSONAL: He believed IN God, not just ABOUT God.
-* Abraham's faith was PROPOSITIONAL: Believing in the PERSON of God means faith in the PROMISES of God.
-* Abraham's faith was PRACTICAL: Belief necessitated action.
+#### Faith is RELIANCE upon God’s promises
+
+Faith is reliance upon God’s promises **alone**.
+Faith is based on **God’s** will, not **your** will.
+Faith is based on what **God** wants, not what **you** want.
+Faith is based on what **God** does, not what **you** do.
+Faith is **not** based on your understanding.
+
+#### Faith is RECKONED by God’s perspective
+
+**God** judges your faith.
+It is not a matter of your own judgment or how you feel about God or about yourself.
+
+When you accept Yeshua as Messiah, God attributes that you you as faith and righteousness.
+
+#### Faith is RIGHTEOUSNESS as God’s provision
+
+Faith in Yeshua is imputed to the believer in Him as righteousness.
+Righteousness is provided to you by God by faith in Messiah Yeshua.
 
 ### 5. Discuss how faith relates to salvation.
 
