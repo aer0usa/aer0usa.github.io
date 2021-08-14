@@ -1,5 +1,7 @@
 ﻿# New Members Class “Messianic Foundations”
 
+Eric Rinehart
+
 ## Chapter Questions
 
 ### 1. Describe three aspects/attributes of G-d's **everlasting love** (including scripture references):
