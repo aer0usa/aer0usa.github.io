@@ -21,11 +21,12 @@ In Order of Acquisition
 * [Pickett Model N14 ES Military Ranging](#pickett14)
 * [Pickett Model 500 Ortho Phase Log Log](#pickett500)
 * [Pickett Model N200-T Trig](#pickettN200T)
+* [Pickett Model 300](#pickett300)
+* [Pickett Model 600](#pickett600)
+* [Pickett Model 1000](#pickett1000)
 
 ## Wish List
 
-* [Pickett Model 300](#pickett300)
-* [Pickett Model 600](#pickett600)
 * [Concise Model 270](#concise270)
 * [Concise Model 300](#concise300)
 
@@ -606,9 +607,6 @@ In Order of Acquisition
 
 [Return to Top](#top)
 
----
-# Wish List
-
 <a name="pickett300"></a>
 ## Pickett Model 300
 ![Pickett Model 300 on ISRM](https://www.sliderulemuseum.com/Pickett/Pickett_Model_300_c1949_DonatedByDavidHecht.jpg)
@@ -618,8 +616,6 @@ In Order of Acquisition
     * Back Scale: LL3, DF [ CF, CIF, CI, C ] D, L
 
 [Return to Top](#top)
-
----
 
 <a name="pickett600"></a>
 ## Pickett Model 600
@@ -632,6 +628,7 @@ In Order of Acquisition
 [Return to Top](#top)
 
 ---
+# Wish List
 
 <a name="concise270"></a>
 ## Concise Model 270
