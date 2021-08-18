@@ -620,6 +620,9 @@ In Order of Acquisition
     * Front Scale(Artwork 42): LL1, A [ B, T cot, S Cos, C ] D, LL2
     * Back Scale: LL3, DF [ CF, CIF, CI, C ] D, L
 * Manufactured 1950?
+    * Magnesium?
+        * Edges corroded and dark
+        * Slide and Cursor slide easily and smoothly
     * "Period 2"
     * Logo Style 3
     * Grooved Rails
@@ -646,6 +649,9 @@ In Order of Acquisition
         * "SYNCHRO SCALE"
     * Back Scale: LL2, LL2, DF [ CF, CIF, CI, L, C ] D, LL3, LL3
 * Manufactured 1950?
+    * Magnesium?
+        * Edges corroded and dark
+        * Slide and Cursor slide easily and smoothly
     * "Period 2"
     * Logo Style 3
     * Grooved Rails
@@ -653,6 +659,7 @@ In Order of Acquisition
     * Stamped Aluminum Posts
         * "Smooth Stamped Posts Contoured to Finger Tip"
     * Plain Flat Lens
+        * Missing two screws
     * Machined Metal Cursor Bars
 * Includes leather case with pocket clip
 
