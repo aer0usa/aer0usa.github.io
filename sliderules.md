@@ -611,9 +611,24 @@ In Order of Acquisition
 ## Pickett Model 300
 ![Pickett Model 300 on ISRM](https://www.sliderulemuseum.com/Pickett/Pickett_Model_300_c1949_DonatedByDavidHecht.jpg)
 
+* Purchased August 4, 2021
+    * CT Auctions; "Caring Transitions" Estate Sale
+    * $100 Shipped, with Pickett Model 300, 600, 1000
+    * Shipped via USPS
+    * Arrived August 17, 2021
 * Scales
-    * Front Scale: LL1, A [ B, T cot, S Cos, C ] D, LL2
+    * Front Scale(Artwork 42): LL1, A [ B, T cot, S Cos, C ] D, LL2
     * Back Scale: LL3, DF [ CF, CIF, CI, C ] D, L
+* Manufactured 1950?
+    * "Period 2"
+    * Logo Style 3
+    * Grooved Rails
+    * Male Slide
+    * Stamped Aluminum Posts
+        * "Smooth Stamped Posts Contoured to Finger Tip"
+    * Plain Flat Lens
+    * Machined Metal Cursor Bars
+* Includes leather case without pocket clip
 
 [Return to Top](#top)
 
@@ -621,9 +636,60 @@ In Order of Acquisition
 ## Pickett Model 600
 ![Pickett Model 600 on ISRM](https://www.sliderulemuseum.com/Pickett/Pickett_600_Magnesium_TriangleLogo_1949_GiftOfLeroyHauslerCollection.jpg)
 
+* Purchased August 4, 2021
+    * CT Auctions; "Caring Transitions" Estate Sale
+    * $100 Shipped, with Pickett Model 300, 600, 1000
+    * Shipped via USPS
+    * Arrived August 17, 2021
 * Scales
-    * Front Scale(Artwork 53): LL1, LL1, A [ B, T, ST, S Cos, T Cot, C ] D, DI, K
+    * Front Scale(Artwork 81): LL1, LL1, A [ B, T, ST, S Cos, T Cot, C ] D, DI, K
+        * "SYNCHRO SCALE"
     * Back Scale: LL2, LL2, DF [ CF, CIF, CI, L, C ] D, LL3, LL3
+* Manufactured 1950?
+    * "Period 2"
+    * Logo Style 3
+    * Grooved Rails
+    * Male Slide
+    * Stamped Aluminum Posts
+        * "Smooth Stamped Posts Contoured to Finger Tip"
+    * Plain Flat Lens
+    * Machined Metal Cursor Bars
+* Includes leather case with pocket clip
+
+[Return to Top](#top)
+
+<a name="pickett1000"></a>
+## Pickett Model 1000
+![Pickett Model 1000 on ISRM](https://www.sliderulemuseum.com/Pickett/Pickett_and_Eckel_1000_Orthophase_DonaldSBachelorCollection.jpg)
+
+* Purchased August 4, 2021
+    * CT Auctions; "Caring Transitions" Estate Sale
+    * $100 Shipped, with Pickett Model 300, 600, 1000
+    * Shipped via USPS
+    * Arrived August 17, 2021
+* Scales
+    * Front Scale(Artwork 26): A [ B, T Cot , ST, S Cos] D, K
+        * Note the CI scale with the numbers circled
+    * Back Scale(Artwork 27): DF [ CF, CIF, CI, C ] D, L
+* Manufactured 1948-1950
+    * "Period 1"
+    * Magnesium
+        * Edges corroded and dark
+        * Slide and Cursor slide easily and smoothly
+    * "U.S.A. COPYRIGHT 1948" on back of slide, left end.
+    * Logo Style 2
+        * This logo used 1949-1950
+        * So, Manufactured 1949-1950 ?
+    * Grooved Rails
+    * Male Slide
+    * Stamped Aluminum Posts
+        * "Smooth Stamped Posts Contoured to Finger Tip"
+    * Plain Flat Lens
+    * Machined Metal Cursor Bars
+        * Serial Number stamped on top bar: 
+    * No Slide Tension Springs
+* Felt slip cover
+    * Dirty with ink marks
 
 [Return to Top](#top)
 
