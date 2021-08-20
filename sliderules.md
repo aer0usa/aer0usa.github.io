@@ -23,7 +23,7 @@ In Order of Acquisition
 * [Pickett Model N200-T Trig](#pickettN200T)
 * [Pickett Model 300](#pickett300)
 * [Pickett Model 600](#pickett600)
-* [Pickett Model 1000](#pickett1000)
+* [Pickett MODEL NO. 1000 ORTHO-PHASE DUPLEX](#pickett1000)
 
 ## Wish List
 
@@ -562,7 +562,7 @@ In Order of Acquisition
         * So, Manufactured 1948-1950 ?
     * Grooved Rails
     * Male Slide
-    * Stamped Stainless Steel(?) Posts
+    * Stamped Stainless Steel Posts
         * "Smooth Stamped Posts Contoured to Finger Tip"
     * Plain Flat Lens
     * Machined Metal Cursor Bars
@@ -575,7 +575,7 @@ In Order of Acquisition
 [Return to Top](#top)
 
 <a name="pickettN200T"></a>
-## Pickett Model N20-T Trig
+## Pickett Model N200-T Trig
 
 ![Like this one on ISRM, but without Sola Basic Industries branding](https://sliderulemuseum.com/Pickett/Pickett_N200-T_SolaBasicIndustriesAd_DonatedByCarleeHeit.jpg)
 
@@ -619,18 +619,22 @@ In Order of Acquisition
 * Scales
     * Front Scale(Artwork 42): LL1, A [ B, T cot, S Cos, C ] D, LL2
     * Back Scale: LL3, DF [ CF, CIF, CI, C ] D, L
+    * "Inverse" scales marked with <
+    * Trig scales marked with < and >
 * Manufactured 1950?
-    * Magnesium?
+    * Magnesium
+        * Feels lighter than the Model 200 and 700
         * Edges corroded and dark
-        * Slide and Cursor slide easily and smoothly
+        * Slide and Cursor slide unevenly
     * "Period 2"
     * Logo Style 3
     * Grooved Rails
     * Male Slide
-    * Stamped Aluminum Posts
+    * Stamped Stainless Steel Posts
         * "Smooth Stamped Posts Contoured to Finger Tip"
     * Plain Flat Lens
     * Machined Metal Cursor Bars
+        * Stainless Steel
 * Includes leather case without pocket clip
 
 [Return to Top](#top)
@@ -649,9 +653,10 @@ In Order of Acquisition
         * "SYNCHRO SCALE"
     * Back Scale: LL2, LL2, DF [ CF, CIF, CI, L, C ] D, LL3, LL3
 * Manufactured 1950?
-    * Magnesium?
+    * Magnesium
+        * Feels lighter than the Model 200 and 700
         * Edges corroded and dark
-        * Slide and Cursor slide easily and smoothly
+        * Slide and Cursor slide unevenly
     * "Period 2"
     * Logo Style 3
     * Grooved Rails
@@ -666,7 +671,7 @@ In Order of Acquisition
 [Return to Top](#top)
 
 <a name="pickett1000"></a>
-## Pickett Model 1000
+## Pickett MODEL NO. 1000 ORTHO-PHASE DUPLEX
 ![Pickett Model 1000 on ISRM](https://www.sliderulemuseum.com/Pickett/Pickett_and_Eckel_1000_Orthophase_DonaldSBachelorCollection.jpg)
 
 * Purchased August 4, 2021
@@ -689,11 +694,13 @@ In Order of Acquisition
         * So, Manufactured 1949-1950 ?
     * Grooved Rails
     * Male Slide
-    * Stamped Aluminum Posts
+    * Stamped Stainless Steel Posts
         * "Smooth Stamped Posts Contoured to Finger Tip"
     * Plain Flat Lens
     * Machined Metal Cursor Bars
-        * Serial Number stamped on top bar: 
+        * Stainless Steel?
+        * Shiny!
+        * Serial Number stamped on top bar: A117221
     * No Slide Tension Springs
 * Felt slip cover
     * Dirty with ink marks
