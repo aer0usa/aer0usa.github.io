@@ -618,9 +618,9 @@ In Order of Acquisition
     * Arrived August 17, 2021
 * Scales
     * Front Scale(Artwork 42): LL1, A [ B, T cot, S Cos, C ] D, LL2
+        * Trig scales marked with < and >
     * Back Scale: LL3, DF [ CF, CIF, CI, C ] D, L
-    * "Inverse" scales marked with <
-    * Trig scales marked with < and >
+        * Inverse scales marked with <
 * Manufactured 1950?
     * Magnesium
         * Feels lighter than the Model 200 and 700
@@ -681,8 +681,8 @@ In Order of Acquisition
     * Arrived August 17, 2021
 * Scales
     * Front Scale(Artwork 26): A [ B, T Cot , ST, S Cos] D, K
-        * Note the CI scale with the numbers circled
     * Back Scale(Artwork 27): DF [ CF, CIF, CI, C ] D, L
+        * Note the CI and CIF scales with the numbers circled
 * Manufactured 1948-1950
     * "Period 1"
     * Magnesium
