@@ -1,4 +1,4 @@
-.pdf
-.odt
-.doc
-.docx
+*.pdf
+*.odt
+*.doc
+*.docx
