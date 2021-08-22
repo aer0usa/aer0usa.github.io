@@ -113,6 +113,12 @@ Katz made a recommendation about what scales should be on the “Rear” of the 
 Pickett’s selection of scales for the “Rear” of the Model 520/700 is close to Katz’s recommendation: 
 L, A, DF | CF, CIF, T, S, C | D, DI, K
 
+James Bready shared images of some Aerial Photography rules that he has, and the BRL 54 rule has the following scales on its rear:
+S&T, A | B, S, T, C | D
+
+* No standard for rear of rule
+* Would it make sense to have an ST scale to calculate small angles for “slightly oblique” aerial photos? Like the scales of the Model 14 Artillery rule?
+
 ## Precision & Accuracy
 
 I wondered about whether the calculations done with the rule would be accurate enough to provide useful intelligence for the photo interpreter.
