@@ -30,7 +30,7 @@ These problems are just proportions.
 Proportions are right in Slide Rules’ wheelhouse.
 
 The R.A.F. had published a set of tables of Representative Fractions, image sizes, and resulting ground object sizes for Aerial Photography Interpreters.
-First, the Photo-interpreter had to calculate the Representative Fraction, then look up the image and ground object sizes.
+First, the Photo-interpreter had to calculate the Representative Fraction manually, then look up the image and ground object sizes in the tables.
 These tables had many thousands of entries (maybe millions?), and were cumbersome.
 
 Before designing the Aerial Photo Slide Rule, Katz constructed a nomograph to help solve Representative Fractions, but he soon found that “even a nomograph is somewhat clumsy to use” (reference), so he constructed an experimental Aerial Photo Slide Rule.
@@ -59,7 +59,7 @@ I found one photo taken from a V-2, but no evidence that they were used for this
 What about a balloon?
 I found information about a “Project Genetrix”, but it seems the maximum altitude for that project was about 100,000’.
 
-I found an interesting web site called Air Recce (reference) that shares information about Aerial Reconnaissance as it was done during World War II.
+I found an interesting web site called **Air Recce** (reference) that shares information about Aerial Reconnaissance as it was done during World War II.
 This was exactly what I needed.
 Air Recce and Wikipedia both seem to show that the aircraft used most for Aerial Reconnaissance during and just after World War II were versions of the North American P-51 Mustang known as the F-6, and the Lockheed P-38 Lightning known as the F-4 and F-5.
 The F-4 and F-5, “...as a reconnaissance aircraft, obtained 90 percent of the aerial film captured over Europe” (reference)
@@ -106,6 +106,13 @@ Cameras with 24- to 36-inch focal lengths were much more common.
 * Katz’s suggestions vs. Pickett’s choices
     * Other rules
 
+Katz made a recommendation about what scales should be on the “Rear” of the Aerial Photography rule.
+
+> The reverse side of the rule will be a newly arranged standard 10 inch rule, having the normal, folded and inverted scales (C, D, CF, DF, DIF, DI), the square and cube scales (A & K), the sine and tangent scales (S & T), and the log scale (L). (reference, Katz, p350)
+
+Pickett’s selection of scales for the “Rear” of the Model 520/700 is close to Katz’s recommendation: 
+L, A, DF | CF, CIF, T, S, C | D, DI, K
+
 ## Precision & Accuracy
 
 I wondered about whether the calculations done with the rule would be accurate enough to provide useful intelligence for the photo interpreter.
@@ -116,7 +123,7 @@ The question is one of whether the object on the ground is a foxhole, a missile 
 From Some Notes on the History of Aerial Reconnaissance (reference)
 
 Second, there are other sources of error in the process of obtaining the aerial photographs.
-These sources include whether the film lies flat in the camera, the motion of the shutter with respect to the airplane's path, errors in the stated focal length of the camera, and whether the photo is actually vertical.
+These sources include whether the film lies flat in the camera, the motion of the shutter with respect to the airplane's path, errors in measurement of the airplane’s altitude, errors in the stated focal length of the camera, and whether the photo is actually vertical.
 Katz states that these errors can be as much as 10%, whereas the “Ground Size” scale can be read within 0.1% on the 10” rule.
 So, the Aerial Photography rule provides plenty of accuracy for the job at hand.
 Katz, page 355 (reference)
