@@ -263,7 +263,7 @@ In Order of Acquisition
 * Manufacturing Code Stamp "5328"
     * Not the later alphanumeric Aristo date code
     * Oughtred Society Journal Article: [DENNERT & PAPE and ARISTO Slide Rules 1872 - 1978](https://osgalleries.org/journal/displayarticle.cgi?match=6.1/V6.1P4.pdf)
-    * Old enough to have the "circle and angle" symbol at the right end of the scale, Figure 16 in the above article, which supposedly ended in 1952, with "Nr. 867U" catalogue number.
+    * Old enough to have the "circle and angle" symbol at the right end of the scale, Figure 16 in the above article, which supposedly ended in 1952, with "Nr. 867U" catalog number.
     * 1953, Lot 28
 * Good Condition
     * Crack in body at left end of K scale
