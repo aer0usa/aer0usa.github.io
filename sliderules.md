@@ -246,8 +246,7 @@ In Order of Acquisition
     * Arrived July 24, 2020
 * Scales:
     * Front: K, A [B, BI, CI, C] D, P, S, T
-        * x^3, x^2 [x(z)^2, 1/x^2, 1/x, x(z)] x, √(1 - x^2), sin, tg
-        * x³(K), x²(A) [ x²(B), 1/x²(BI), 1/x(CI), x(C) ] x(D), √(1-x²)(P), sin, tg
+        * x³, x² [ x², 1/x², 1/x, x ] x, √(1-x²), sin, tg
         * Top: Transparent Centimeter Scale
         * Bottom: Transparent Inch Scale
     * Rear: [L, LL1, LL2, LL3]
@@ -636,6 +635,8 @@ In Order of Acquisition
     * Machined Metal Cursor Bars
         * Stainless Steel
 * Includes leather case without pocket clip
+    * “JIMERSON” stamped on case
+    * Triangle Pickett logo on both sides of case
 
 [Return to Top](#top)
 
