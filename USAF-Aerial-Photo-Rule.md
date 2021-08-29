@@ -70,7 +70,8 @@ Also of interest is the RB-36D, a Photo Reconnaissance version of the Convair B-
 This could fly over 50,000 feet, carry multiple cameras, and had a long range.
 The RB-36D becomes important in the discussion about Aerial Reconnaissance cameras.
 
-So, why a maximum of 250,000 feet?
+I seemed no closer to finding the answer to my question: why a maximum of 250,000 feet?
+
 I finally found the answer in Katz’s article in **Photogrammetric Engineering**:
 “...to permit the use of this slide rule in oblique photography computations”. (reference)
 The manual states that “the problems associated with oblique photography are much more difficult than the corresponding problems in vertical photography” and that “This slide rule can be used in conjunction with other aids for oblique photography; these are now under development…”.
@@ -85,14 +86,14 @@ I found the answer to this question as I was researching likely aircraft.
 In his article, Katz mentions the K-24 and other cameras with a focal length from 24 to 36 inches.
 These were often carried by the F-5 and F-6, and Katz refers to them in examples in his article. (reference)
 
-The question remains: why a maximum 240 inch focal length?
-
-While reading about the RB-36D, I read about the “Boston Camera”.
+However, while reading about the RB-36D, I read about the “Boston Camera”.
 The Boston Camera had a focal length of 240 inches, and:
 “a photo interpreter could detect a golf ball from an altitude of 45,000 feet (14,000 m)” (reference)
 
-However, the Boston Camera was not manufactured until 1951, and was used sparingly.
+The Boston Camera was not manufactured until 1951, and was used sparingly.
 Cameras with 24- to 36-inch focal lengths were much more common.
+
+The Pickett Model 520/700 has handy gauge marks for what are probably common focal lengths: 24”, 36”, 48”, 72”, 96”, and 144”.
 
 ## Ground Speed
 
@@ -102,9 +103,6 @@ Cameras with 24- to 36-inch focal lengths were much more common.
 * 60% Overlap: Stereoscopic Analysis
 
 ## Rear of the Rule
-
-* Katz’s suggestions vs. Pickett’s choices
-    * Other rules
 
 Katz made a recommendation about what scales should be on the “Rear” of the Aerial Photography rule.
 
@@ -116,8 +114,10 @@ L, A, DF | CF, CIF, T, S, C | D, DI, K
 James Bready shared images of some Aerial Photography rules that he has, and the BRL 54 rule has the following scales on its rear:
 S&T, A | B, S, T, C | D
 
-* No standard for rear of rule
-* Would it make sense to have an ST scale to calculate small angles for “slightly oblique” aerial photos? Like the scales of the Model 14 Artillery rule?
+So it appears that there is no “standard” for the scales on the rear of the rule, but Pickett’s rules seem to reflect the scale set that Katz had in mind.
+
+I wondered if it would make sense to have an ST scale to calculate small angles for “slightly oblique” aerial photos.
+Or maybe other scales for triangles with small apex angles, like the scales of the Model 14 Artillery rule?
 
 ## Precision & Accuracy
 
