@@ -99,8 +99,23 @@ The Pickett Model 520/700 has handy gauge marks for what are probably common foc
 
 ## Other Functions
 
-* Ground speed & Shutter Intervals
-* 60% Overlap: Stereoscopic Analysis
+There are scales on the rule to calculate “image speed” arising from forward aircraft speed.
+
+There are scales to calculate the shutter interval to obtain aerial photos with a 60% overlap for stereoscopic analysis.
+
+The manual also discusses functions valuable for **planning** aerial reconnaissance flights.
+The Aerial Photo rule can be used to determine how many exposures are required to survey a given area, the required altitude to photograph an object of a given ground size at a desired image size, and a minimum altitude given a flight speed and requirement for 60% image overlap on a given size of film.
+
+## Rule Orientation
+
+In our correspondence, James Bready noted to me that when switching from one side of the rule to the other, on most rules, you would rotate the rule along its long axis, and the rule is still oriented correctly.
+However, the Aerial Photography Rule seems to be set up to flip end-for-end to switch sides of the rule.
+James pointed out that that seems to be the case for all of the different makes of Aerial Photography rules that he has.
+I had noticed the same thing, though I had not given it much thought until then.
+
+Page 8 of the manual states, “When the Aerial Photo side of the slide rule is used, the rule must be held vertically.”
+When the rule is held vertically for Aerial Photo use, in the left hand, palm up, switching to the “rear” of the rule is easy to accomplish by rolling the left wrist to the right, presenting the rear of the rule in its correct orientation.
+I think this is how the rule is meant to be used.
 
 ## Rear of the Rule
 
@@ -136,20 +151,24 @@ Katz, page 355 (reference)
 
 It is interesting to note that once the enemy became aware of aerial photography, he would camouflage the sites to hide what was there.
 However, the photo interpreter would make educated guesses based on the size of the camouflaged area, combined with other sources of intelligence.
-(reference)
+Interpretation Of Military Installations From Aerial Photographs, Jones, p. 498 (reference)
 
 ### Quotes
 
 > Briefly stated, precision refers to the reproducibility of the measurement operation, whereas accuracy refers to the essential truth of the measurement, i.e. its nearness to the true value.  
 Katz, page 351 (reference)
 
+> It is a serious and pernicious fallacy to believe that because computations are made with a modern electric calculator, "answers" can be written down embodying all the figures cast up by the machinations of the calculator.  
+Katz, page 351 (reference)
+
+> If anyone wants to argue with this definition, let him write his own paper.
+Katz, Some Ramblings and Musings on Tactical Reconnaissance, page 1 (reference)
+
+
 > The logarithmic cycle on the interpreter's side of the rule will be 2.5 inches long, for four of these cycles are needed to cover the range 10⁴ to 1.
 > A ten inch logarithmic scale, such as the C scale on a standard 10 inch slide rule, can be read to approximately 0.1 %; hence the 2.5 inch log cycle can be read to about 0.4%-one part in 250.
 > It will become clear in the next section that such precision, if accompanied by the expected accuracy in manufacture, is at least ten times better than the accuracy of most photo-interpretation.  
 Katz, page 350 (reference)
-
-> It is a serious and pernicious fallacy to believe that because computations are made with a modern electric calculator, "answers" can be written down embodying all the figures cast up by the machinations of the calculator.  
-Katz, page 351 (reference)
 
 > It is clear from all of the foregoing material that:  
 > a) In a truly vertical photograph dI/I may be 4%.  
