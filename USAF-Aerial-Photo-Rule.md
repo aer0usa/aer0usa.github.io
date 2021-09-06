@@ -97,6 +97,10 @@ The Pickett Model 520/700 has handy gauge marks for what are probably common foc
 
 ## Ground Speed
 
+The Ground Speed scale reads up to 1,000 MPH / Knots.
+I didn't find any aircraft likely to be used for aerial reconnaissance around 1950 with such a high top speed.
+It is my guess that 1,000 MPH was a “nice, round figure” that allowed for future developments.
+
 ## Other Functions
 
 There are scales on the rule to calculate “image speed” arising from forward aircraft speed.
@@ -117,6 +121,31 @@ Page 8 of the manual states, “When the Aerial Photo side of the slide rule is 
 When the rule is held vertically for Aerial Photo use, in the left hand, palm up, switching to the “rear” of the rule is easy to accomplish by rolling the left wrist to the right, presenting the rear of the rule in its correct orientation.
 I think this is how the rule is meant to be used.
 
+## Precision & Accuracy
+
+> Briefly stated, precision refers to the reproducibility of the measurement operation, whereas accuracy refers to the essential truth of the measurement, i.e. its nearness to the true value.  
+Katz, PHOTOGRAMMETRIC ENGINEERING, 1950. page 351 (reference)
+
+> It is a serious and pernicious fallacy to believe that because computations are made with a modern electric calculator, "answers" can be written down embodying all the figures cast up by the machinations of the calculator.  
+Katz, PHOTOGRAMMETRIC ENGINEERING, 1950. page 351 (reference)
+
+I wondered about whether the calculations done with the rule would be accurate enough to provide useful intelligence for the photo interpreter.
+Katz discusses this in some of his articles.
+
+First, the photo interpreter does not need to find the dimensions of a ground object down to fractions of an inch.
+The question is one of whether the object on the ground is a foxhole, a missile launch site, or an airfield, for example.
+From Some Notes on the History of Aerial Reconnaissance (reference)
+
+Second, there are other sources of error in the process of obtaining the aerial photographs.
+These sources include whether the film lies flat in the camera, the motion of the shutter with respect to the airplane's path, errors in measurement of the airplane’s altitude, errors in the stated focal length of the camera, and whether the photo is actually vertical.
+Katz states that these errors can be as much as 10%, whereas the “Ground Size” scale can be read within 0.1% on the 10” rule.
+So, the Aerial Photography rule provides plenty of accuracy for the job at hand.
+Katz, PHOTOGRAMMETRIC ENGINEERING, 1950. page 355 (reference)
+
+It is interesting to note that once the enemy became aware of aerial photography, he would camouflage the sites to hide what was there.
+However, the photo interpreter would make educated guesses based on the size of the camouflaged area, combined with other sources of intelligence.
+Interpretation Of Military Installations From Aerial Photographs, Jones, p. 498 (reference)
+
 ## Rear of the Rule
 
 Katz made a recommendation about what scales should be on the “Rear” of the Aerial Photography rule.
@@ -134,24 +163,13 @@ So it appears that there is no “standard” for the scales on the rear of the 
 I wondered if it would make sense to have an ST scale to calculate small angles for “slightly oblique” aerial photos.
 Or maybe other scales for triangles with small apex angles, like the scales of the Model 14 Artillery rule?
 
-## Precision & Accuracy
+## Conclusion
 
-I wondered about whether the calculations done with the rule would be accurate enough to provide useful intelligence for the photo interpreter.
-Katz discusses this in some of his articles.
+As a tool designed to solve an interesting problem, and as a cold war artifact, the USAF Aerial Photo Slide Rule is an interesting addition to my slide rule collection.
+Exploring its origins has been fun, and I find this aspect of the slide rule hobby one of the most enjoyable.
+I hope this exploration has been enjoyable for you as well.
 
-First, the photo interpreter does not need to find the dimensions of a ground object down to fractions of an inch.
-The question is one of whether the object on the ground is a foxhole, a missile launch site, or an airfield, for example.
-From Some Notes on the History of Aerial Reconnaissance (reference)
-
-Second, there are other sources of error in the process of obtaining the aerial photographs.
-These sources include whether the film lies flat in the camera, the motion of the shutter with respect to the airplane's path, errors in measurement of the airplane’s altitude, errors in the stated focal length of the camera, and whether the photo is actually vertical.
-Katz states that these errors can be as much as 10%, whereas the “Ground Size” scale can be read within 0.1% on the 10” rule.
-So, the Aerial Photography rule provides plenty of accuracy for the job at hand.
-Katz, page 355 (reference)
-
-It is interesting to note that once the enemy became aware of aerial photography, he would camouflage the sites to hide what was there.
-However, the photo interpreter would make educated guesses based on the size of the camouflaged area, combined with other sources of intelligence.
-Interpretation Of Military Installations From Aerial Photographs, Jones, p. 498 (reference)
+---
 
 ### Quotes
 
@@ -163,7 +181,6 @@ Katz, page 351 (reference)
 
 > If anyone wants to argue with this definition, let him write his own paper.
 Katz, Some Ramblings and Musings on Tactical Reconnaissance, page 1 (reference)
-
 
 > The logarithmic cycle on the interpreter's side of the rule will be 2.5 inches long, for four of these cycles are needed to cover the range 10⁴ to 1.
 > A ten inch logarithmic scale, such as the C scale on a standard 10 inch slide rule, can be read to approximately 0.1 %; hence the 2.5 inch log cycle can be read to about 0.4%-one part in 250.
