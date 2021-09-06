@@ -1,7 +1,7 @@
 # Pickett USAF Aerial Photography Slide Rules
 
-As I began to look at slide rules, I found a Pickett Model 700 on Ebay.
-Its specialized design and purpose piqued my curiosity, and I ordered it.
+As I began to look at slide rules as a hobby, I found a Pickett Model 700 on Ebay.
+Its specialized design and purpose piqued my curiosity, so I ordered it.
 
 A few days later, I marveled at the little aluminum jewel in my hands.
 As I studied it, I began to wonder exactly what problems it was designed to solve.
