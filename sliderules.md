@@ -49,6 +49,11 @@ In Order of Acquisition
 * Imprinted "Sturgis Equipment Company"
 * Poor condition, but complete and functional. Taped together.
     * I played with it like a toy and left it exposed to sunlight in a window sill. If I remember correctly, the sunlight is what hurt it worst.
+* **Update:** When Dad visited in December 2021, I showed him my collection and told him I got this Concise from him.
+He said he didn't remember it.
+In fact, his slide rule was a yellow pocket-size Pickett!
+He said he liked Picketts because they were “built like tanks” and did anyone else even make slide rules?
+He forgot which model he had, though.
 
 [Return to Top](#top)
 
