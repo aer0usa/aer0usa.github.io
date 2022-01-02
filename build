@@ -5,4 +5,4 @@ extension="${filename##*.}"
 filename="${filename%.*}"
 # echo $filename $extension
 
-pandoc -f gfm -t html5 --standalone --metadata pagetitle="$filename" --include-before-body=./head.html --css=./index.css -o $filename.html $1 && echo "success" || echo "fail"
+pandoc -f gfm -t html5 --standalone --metadata pagetitle="$filename" --include-before-body=./head.html --include-after-body=./foot.html --css=./index.css -o $filename.html $1 && echo "success" || echo "fail"

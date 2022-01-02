@@ -1,28 +1,23 @@
 * {
-  font-family: "sans-serif";
+  font-family: sans-serif;
 }
 body {
-  width: 80%;
-  min-width: 600px;
-  margin: 0 10%;
+  font-family: sans-serif;
+  width: 95%;
+  margin: 1ex auto;
 }
 img {
-  width: 80%;
+  width: 100%;
 }
 nav ul {
   background-color: #CCC;
   border: 1px solid black;
-  display: flex;
-  justify-content: space-between;
   list-style-type: none;
   margin: 0;
   padding: 0;
-  position: fixed;
-  top: 0;
   width: auto;
 }
 nav ul li {
-  display: inline;
   padding: 0 0.5em;
 }
 nav ul li:last-child {
@@ -31,4 +26,28 @@ nav ul li:last-child {
 nav ul li:hover {
   background-color: #999;
   cursor: pointer;
+}
+footer {
+  border-top: 1px solid black;
+  margin: 0 auto;
+  text-align: center;
+}
+
+@media only screen and (min-width: 768px) {
+  /* For desktop: */
+  body {
+    width: 80%;
+    min-width: 600px;
+  }
+  nav ul {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+    position: fixed;
+    top: 0;
+    width: 80%;
+  }
+  nav ul li {
+    display: inline;
+  }
 }
