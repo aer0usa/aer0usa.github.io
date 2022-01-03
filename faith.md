@@ -1,6 +1,6 @@
 # My Faith
 
-I am saved by faith in Messiah Yeshua.
+I am saved by grace through faith in Messiah Yeshua.
 Nothing else I can do will “earn” salvation for me from my sins.
 
 I try to be intentional about my faith.
