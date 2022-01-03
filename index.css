@@ -40,6 +40,10 @@ footer {
     width: 80%;
     min-width: 600px;
   }
+img {
+  float: right;
+  width: 50%;
+}
   nav ul {
     display: flex;
     flex-wrap: nowrap;
