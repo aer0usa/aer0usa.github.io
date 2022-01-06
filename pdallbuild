@@ -1,0 +1,3 @@
+#!/bin/bash
+# Pandoc All Build: Run pdbuild on all of the Markdown files in this dir
+find . -name '*.md' -exec './pdbuild' '{}' \;
