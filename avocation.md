@@ -3,5 +3,5 @@
 ![Slide Rules and Pens](./IMG_1825.JPG)
 
 * [Slide Rules](./sliderules.html)
-* Pens _(Coming Soon)_
+* [Pens](./pens.html)
 * Amateur Radio _(Coming Soon)_

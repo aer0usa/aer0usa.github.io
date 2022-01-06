@@ -3,3 +3,11 @@
 I have been a Web Application Developer for about twenty years.
 I write these apps in JavaScript, or EcmaScript if you prefer.
 During the last few years, my work has been in ReactJS.
+
+## So, why is my web site in static HTML?
+
+Because I think the web is too full of style over substance.
+Also, I just like this clean look better.
+
+I may build a web site that is a better showcase for my work at some point.
+Today, this is what I want my site to look like.
