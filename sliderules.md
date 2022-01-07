@@ -36,7 +36,7 @@ In Order of Acquisition
 ## Concise Model CTCS-552
 [Concise Page on ISRM](https://www.sliderulemuseum.com/Concise.htm)
 
-![CTCS-552 on ISRM, different imprint](https://www.sliderulemuseum.com/Circular/SamaAndEtana_Concise_CTCS-552_GiftOfArthurAnderson.jpg)
+![CTCS-552 on ISRM, different imprint](https://sliderulemuseum.com/Concise/SamaAndEtana_Concise_CTCS-552_GiftOfArthurAnderson.jpg)
 
 * From Dad, 1976?
 * Scales: 4in || D ( C, CI, L, A, K) || 10cm
