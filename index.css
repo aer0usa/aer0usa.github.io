@@ -33,6 +33,9 @@ footer {
   margin: 0 auto;
   text-align: center;
 }
+h1, h2, h3, hr {
+  clear: both;
+}
 
 @media only screen and (min-width: 768px) {
   /* For desktop: */
