@@ -27,6 +27,9 @@ In Order of Acquisition
 
 ## Wish List
 
+* [Pickett Model 1006 Duplex Trig](#pickett1006)
+* [Pickett Model 100 “Douglas Sky Rule”](#pickett100)
+* [Pickett Model 400 Business Rule](#pickett400)
 * [Concise Model 270](#concise270)
 * [Concise Model 300](#concise300)
 
@@ -716,16 +719,53 @@ He forgot which model he had, though.
 ---
 # Wish List
 
+<a name="pickett1006"></a>
+## Pickett Model 1006 Duplex Trig
+
+![Pickett Model 1006 on ISRM](https://sliderulemuseum.com/Pickett/Pickett_Model_1006_c1949_DonatedByDavidHecht.jpg)
+* Scales:
+    * Front Scale (Artwork code 80) K, A [ B, ST, T  Cot, S Cos, C ] D, DI
+    * Back Scale DF [ CF, CIF, CI, C ] D, L
+
+[Return to Top](#top)
+
+---
+
+<a name="pickett100"></a>
+## Pickett Model 100 “Douglas Sky Rule”
+
+![Douglas Sky Rule on ISRM](https://sliderulemuseum.com/Pickett/Pickett_100_DouglasSkyRule_SRC21341.jpg)
+* Scales:
+    * Front Scale (A side)(Artwork #56): Dynamic Pres., Temp Rise [ Static Pres., Pres. Alt, Density Alt., C ] D, True Mach. TAIS
+    * Back Scale (B side): Impact Pres., Std. Temp., Pres. Alt. [ Temp. Venier, Pres. Alt. ] True Mach No., Dial Airspeed. ] Blank
+
+[Return to Top](#top)
+
+---
+
+<a name="pickett400"></a>
+## Pickett Model 400 Business Rule
+
+![Pickett Model 400 on ISRM](https://sliderulemuseum.com/Pickett/Pickett_No400_Business_6inch_1945_Magnesium.jpg)
+* Scales:
+    * Note: Special C% and R% scales for Cost and Retail mark up. DF & D scale labeled as RF & R.
+    * Front Scale (artwork: 43): K, A [ B, CI, C ] D, L
+    * Back Scale: R%, RF [ CF, Unit, Doz(C%), Gross, C ] R, C%, Gross, Doz(R%), Unit
+
+[Return to Top](#top)
+
+---
+
 <a name="concise270"></a>
 ## Concise Model 270
-![Concise 270 on ISRM](https://www.sliderulemuseum.com/Circular/C32_Lafayette_F-383_Concise_270.jpg)
+![Concise 270 on ISRM](https://sliderulemuseum.com/Concise/C32_Lafayette_F-383_Concise_270.jpg)
 
 * Scales:
     * Front Scale: L, D ( C, CI, A, K )
     * Back Scale: DI, D ( S, T1, T2, ST )
 
 ### Concise Model 271
-![Concise 271 on ISRM](https://www.sliderulemuseum.com/Circular/Concise_271_CircularSlideRule_GiftOfSusanJacksonForJimRodgers.jpg)
+![Concise 271 on ISRM](https://sliderulemuseum.com/Concise/Concise_271_CircularSlideRule_GiftOfSusanJacksonForJimRodgers.jpg)
 
 * Scales
     * Front Scale: L, D ( C, CI, A, K )
@@ -737,7 +777,7 @@ He forgot which model he had, though.
 
 <a name="concise300"></a>
 ## Concise Model 300
-![Concise Model 300 on ISRM](https://www.sliderulemuseum.com/Archive/XXX_Concise_300.jpg)
+![Concise Model 300 on ISRM](https://sliderulemuseum.com/Concise/XXX_Concise_300.jpg)
 
 * Scales
     * Front Scale: K, A, D ( C, CI, B, L )
