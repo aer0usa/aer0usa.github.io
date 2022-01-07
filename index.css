@@ -47,13 +47,16 @@ h1, h2, h3, hr {
     width: 65%;
   }
   img {
+    box-sizing: border-box;
     float: right;
+    padding-bottom: 1ex;
+    padding-left: 1ex;
     width: 50%;
   }
   nav ul {
-    left: 5%;
+    left: 2%;
     position: fixed;
     top: 5%;
-    width: 20%;
+    width: 24%;
   }
 }
