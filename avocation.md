@@ -4,4 +4,6 @@
 
 * [Slide Rules](./sliderules.html)
 * [Pens](./pens.html)
+* Linux _(Coming Soon)_
 * Amateur Radio _(Coming Soon)_
+* Tinkering _(Coming Soon)_

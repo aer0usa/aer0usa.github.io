@@ -338,7 +338,6 @@ He forgot which model he had, though.
     * Ebay
     * $42.68 Shipped
     * Shipping from Uzbekistan (yes, really!)
-        * Uzbekistan Post tracking [RQ109507591UZ](https://www.pochta.uz/en/2014-06-09-08-50-39/track-trace.html)
     * Arrived October 15, 2020
     * Came with a post card from Moscow
 * Scales
@@ -373,7 +372,6 @@ He forgot which model he had, though.
 * Purchased October 15, 2020
     * Ebay
     * $20.07 Shipped
-    * USPS Tracking [9400108205497440590447](https://tools.usps.com/go/TrackConfirmAction?tRef=fullpage&tLc=3&text28777=&tLabels=9400108205497440590447%2C%2C&tABt=false)
     * Arrived October 15, 2020
 * Same as Roos SR-109
 * Manufactured 1941 - 1945
@@ -407,8 +405,7 @@ He forgot which model he had, though.
     * $47.82 Shipped
     * Shipping from Haifa, Israel
     * Shipped November 22, 2020
-    * [Israel Post Tracking](https://t.17track.net/en#nums=LX066325395IL)
-        * [Israelpost](https://mypost.israelpost.co.il/itemtrace) LX066325395IL
+    * Shipped via Israel Post
     * Arrived December 3, 2020
 * Scales:
     * Front: 27cm || L, K, A [B, CI, C] D, P || S, T
