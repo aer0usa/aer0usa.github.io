@@ -94,14 +94,6 @@ He forgot which model he had, though.
         * Front: K, A [B, T, S, C] D, L
         * Rear: Instructions
 * Good condition
-* Includes leatherette case
-    * No markings on case
-        * Maybe the case is for [a different slide rule](#roos109)?
-        * This seems to be the same size and design as the case that came with the [Post 1457](#post1457), except with smooth leather
-    * Flap torn off
-        * When I got it, the flap wasn't torn off yet, but it was close
-    * Written inside flap:
-        * "Mrs. J. S. Payte 322 Dennis St. Nacodoches Texas"
 
 [Return to Top](#top)
 
@@ -127,6 +119,13 @@ He forgot which model he had, though.
     * Manual © 1945
     * Manual is from Acu-Rule
 * Fair condition. Plastic on slide delaminating from wood slightly at ends.
+* Includes leatherette case
+    * No markings on case
+        * This seems to be the same size and design as the case that came with the [Post 1457](#post1457), except with smooth leather
+    * Flap torn off
+        * When I got it, the flap wasn't torn off yet, but it was close
+    * Written inside flap:
+        * "Mrs. J. S. Payte 322 Dennis St. Nacodoches Texas"
 * Compare to [Frederick Post 1457 Mannheim Trig](https://www.sliderulemuseum.com/Post/S076_Post_1457.jpg) ISRM S076
 * Also compare to [Frederick Post 1457](#post1457) below.
 
@@ -440,7 +439,7 @@ He forgot which model he had, though.
     * Arrived January 18, 2021
 * [Pickett Metal Slide Rules Chronology](https://osgalleries.org/journal/displayarticle.cgi?match=1.1/V1.1P5.pdf)
 * [Pickett Metal Slide Rules - A Brief Update](https://osgalleries.org/journal/displayarticle.cgi?match=3.2/V3.2P47a.pdf)
-* Manufactured Early 1950s
+* Manufactured Early 1953-1955?
     * Aluminum
         * Shiny edges, not corroded or dark
     * Logo Style 3
@@ -498,6 +497,7 @@ He forgot which model he had, though.
 [Return to Top](#top)
 
 ---
+
 <a name="pickett14"></a>
 
 ## Pickett Model N14 ES Military Ranging
@@ -543,6 +543,8 @@ He forgot which model he had, though.
 
 [Return to Top](#top)
 
+---
+
 <a name="pickett500"></a>
 ## Pickett Model 500 Ortho Phase Log Log
 ![Pickett Model 500 on ISRM](https://www.sliderulemuseum.com/Pickett/S377_Pickett_500_OrthoPhase.jpg)
@@ -578,6 +580,8 @@ He forgot which model he had, though.
 
 [Return to Top](#top)
 
+---
+
 <a name="pickettN200T"></a>
 ## Pickett Model N200-T Trig
 
@@ -596,6 +600,8 @@ He forgot which model he had, though.
     * Stamped Aluminum Posts
         * Posts with "Hooked" finger contour
         * Circular machine marks on posts
+        * Mike Konshak at ISRM told me he thinks the “hooked” posts were an experiment between the square posts and later curved posts.
+        That would mean this rule was manufactured in the middle 1960’s.
     * Grooved Convex Lens
     * Nylon Cursor Bars
     * No Grooves in Rails for Cursor
@@ -611,6 +617,8 @@ He forgot which model he had, though.
 
 [Return to Top](#top)
 
+---
+
 <a name="pickett300"></a>
 ## Pickett Model 300
 ![Pickett Model 300 on ISRM](https://www.sliderulemuseum.com/Pickett/Pickett_Model_300_c1949_DonatedByDavidHecht.jpg)
@@ -625,7 +633,7 @@ He forgot which model he had, though.
         * Trig scales marked with < and >
     * Back Scale: LL3, DF [ CF, CIF, CI, C ] D, L
         * Inverse scales marked with <
-* Manufactured 1950?
+* Manufactured 1950-1953?
     * Magnesium
         * Feels lighter than the Model 200 and 700
         * Edges corroded and dark
@@ -645,6 +653,8 @@ He forgot which model he had, though.
 
 [Return to Top](#top)
 
+---
+
 <a name="pickett600"></a>
 ## Pickett Model 600
 ![Pickett Model 600 on ISRM](https://www.sliderulemuseum.com/Pickett/Pickett_600_Magnesium_TriangleLogo_1949_GiftOfLeroyHauslerCollection.jpg)
@@ -658,7 +668,7 @@ He forgot which model he had, though.
     * Front Scale(Artwork 81): LL1+, LL1-, A [ B, T, ST, S Cos, T Cot, C ] D, DI, K
         * "SYNCHRO SCALE"
     * Back Scale: LL2+, LL2-, DF [ CF, CIF, CI, L, C ] D, LL3+, LL3-
-* Manufactured 1950?
+* Manufactured 1950-1953?
     * Magnesium
         * Feels lighter than the Model 200 and 700
         * Edges corroded and dark
@@ -675,6 +685,8 @@ He forgot which model he had, though.
 * Includes leather case with pocket clip
 
 [Return to Top](#top)
+
+---
 
 <a name="pickett1000"></a>
 ## Pickett MODEL NO. 1000 ORTHO-PHASE DUPLEX
@@ -714,6 +726,7 @@ He forgot which model he had, though.
 [Return to Top](#top)
 
 ---
+
 # Wish List
 
 <a name="pickett1006"></a>
