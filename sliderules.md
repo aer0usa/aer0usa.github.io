@@ -722,6 +722,12 @@ He forgot which model he had, though.
     * No Slide Tension Springs
 * Felt slip cover
     * Dirty with ink marks
+* [Includes Manual](https://www.sliderulemuseum.com/Manuals/ISRM_M277_Pickett_1000_Orthophase_Instructions_DonatedByDanSwerdlow.pdf)
+    * “How To Use The Pickett 1000 Ortho-Phase Duplex Slide Rule”
+    * Copyright 1948 Pickett & Eckel, Inc.
+    * Written on cover in pencil:
+    > William H. McLean, Jr. U.S.M.C. U.S. Naval Academy Prep School  
+    > U.S. Naval Base Newport R.I.
 
 [Return to Top](#top)
 
