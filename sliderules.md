@@ -24,10 +24,10 @@ In Order of Acquisition
 * [Pickett Model 300](#pickett300)
 * [Pickett Model 600](#pickett600)
 * [Pickett MODEL NO. 1000 ORTHO-PHASE DUPLEX](#pickett1000)
+* [Pickett Model 1006 Duplex Trig](#pickett1006)
 
 ## Wish List
 
-* [Pickett Model 1006 Duplex Trig](#pickett1006)
 * [Pickett Model 100 “Douglas Sky Rule”](#pickett100)
 * [Pickett Model 400 Business Rule](#pickett400)
 * [Concise Model 270](#concise270)
@@ -733,17 +733,40 @@ He forgot which model he had, though.
 
 ---
 
-# Wish List
-
 <a name="pickett1006"></a>
 ## Pickett Model 1006 Duplex Trig
 
-![Pickett Model 1006 on ISRM](https://sliderulemuseum.com/Pickett/Pickett_Model_1006_c1949_DonatedByDavidHecht.jpg)
+![Pickett Model 1006 on ISRM](https://www.sliderulemuseum.com/Pickett/Pickett_N1006-T_Trig_LogLog_RndBlkLogoCurvedBracesConvexLens_giftOfPhillipEStanley.jpg)
+
+* Purchased February 13, 2022
+    * Ebay
+    * $42.70 Shipped
+    * Arrived February 22, 2022
+* Manufactured Mid 1960s
+    * Aluminum
+    * Front of Slide:
+        * Logo Style 4
+        * “MODEL N 1006-ES TRIG”
+        * “MADE IN U.S.A.”
+    * Back of Slide:
+        * “PICKETT ALL-METAL SLIDE RULES”
+        * “PICKETT & ECKEL, INC. CHICAGO, ILL. ©1959”
+    * Stamped Aluminum Posts
+        * Posts with “Hooked” finger contour
+    * Grooved Convex Lens
+    * Nylon Cursor Bars
+    * No Grooves in Rails for Cursor
+    * Grooved Slide
+    * No Slide Tension Springs
 * Scales:
-    * Front Scale (Artwork code 80) K, A [ B, ST, T  Cot, S Cos, C ] D, DI
-    * Back Scale DF [ CF, CIF, CI, C ] D, L
+    * Front Scale K, A [ B, ST, T, S, C ] D, DI
+    * Back Scale Ln, DF [ CF, CIF, CI, C ] D, L
 
 [Return to Top](#top)
+
+---
+
+# Wish List
 
 ---
 
