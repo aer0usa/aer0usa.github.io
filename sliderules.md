@@ -750,9 +750,11 @@ He forgot which model he had, though.
         * Logo Style 4
         * “MODEL N 1006-ES TRIG”
         * “MADE IN U.S.A.”
+        * No Artwork Mark
     * Back of Slide:
         * “PICKETT ALL-METAL SLIDE RULES”
         * “PICKETT & ECKEL, INC. CHICAGO, ILL. ©1959”
+        * No Artwork Mark
     * Stamped Aluminum Posts
         * Posts with “Hooked” finger contour
     * Grooved Convex Lens
@@ -763,6 +765,12 @@ He forgot which model he had, though.
 * Scales:
     * Front Scale K, A [ B, ST, T, S, C ] D, DI
     * Back Scale Ln, DF [ CF, CIF, CI, C ] D, L
+* Good condition
+    * Cleaned cursor and sliding surfaces
+    * Aligned top rail to bottom rail
+* Includes Leather Case with Pocket Clip
+    * Pull Tab to remove rule from case
+    * Pull Tab has Style 6 Logo
 
 [Return to Top](#top)
 
