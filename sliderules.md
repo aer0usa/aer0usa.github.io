@@ -23,7 +23,7 @@ In Order of Acquisition
 * [Pickett Model N200-T Trig](#pickettN200T)
 * [Pickett Model 300](#pickett300)
 * [Pickett Model 600](#pickett600)
-* [Pickett MODEL NO. 1000 ORTHO-PHASE DUPLEX](#pickett1000)
+* [Pickett Model 1000 Ortho-Phase Duplex](#pickett1000)
 * [Pickett Model 1006 Duplex Trig](#pickett1006)
 
 ## Wish List
@@ -33,13 +33,15 @@ In Order of Acquisition
 * [Concise Model 270](#concise270)
 * [Concise Model 300](#concise300)
 
+All photos ©2022 A. E. Rinehart unless otherwise noted.
+
 -----
 
 <a name="concise552"></a>
 ## Concise Model CTCS-552
 [Concise Page on ISRM](https://www.sliderulemuseum.com/Concise.htm)
 
-![CTCS-552 on ISRM, different imprint](https://sliderulemuseum.com/Concise/SamaAndEtana_Concise_CTCS-552_GiftOfArthurAnderson.jpg)
+![CTCS-552](./images/Concise-CTCS-552.jpg)
 
 * From Dad, 1976?
 * Scales: 4in || D ( C, CI, L, A, K) || 10cm
@@ -63,12 +65,12 @@ He forgot which model he had, though.
 -----
 
 <a name="pickett902"></a>
-## Pickett 902-T Simplex Trig
+## Pickett 902 Simplex Trig
 ### [Pickett Page on ISRM](https://www.sliderulemuseum.com/Pickett.htm)
 ### [Pickett Reference Image on ISRM](https://www.sliderulemuseum.com/Manuals/Pickett_Chronology.jpg)
 ### [Just like this one on Greg's Slide Rules](http://sliderule.ozmanor.com/rules/sr-0128-pick902t-01.html)
 
-![902-T on ISRM, later model](https://www.sliderulemuseum.com/Pickett/Pickett_Model_902-T_SimplexTrig_DieCastBracesCursorBars_c1957.jpg)
+![Pickett Model 902](./images/Pickett-902.jpg)
 
 * Lys got me this!
     * Lot of two (with Roos SR-109 below) for ~$20
@@ -107,7 +109,7 @@ He forgot which model he had, though.
     * Lot of two (with Pickett 902-T above) for ~$20
     * ~2010?
 
-![SR-109 on ISRM](https://www.sliderulemuseum.com/MiscUSA/S449_Roos_SR-109.jpg)
+![Roos SR-109](./images/Roos-SR109.jpg)
 
 * Manufactured 1941 - 1946, probably 1945
     * Made by The Roos Company prior to Charvoz-Roos merger (1946)
@@ -138,7 +140,7 @@ He forgot which model he had, though.
 ### "U. S. AIR FORCE AERIAL PHOTO SLIDE RULE TYPE A-2"
 ### [Pickett Page on ISRM](https://www.sliderulemuseum.com/Pickett.htm)
 
-![Model 700 A-2 on ISRM, later model](https://www.sliderulemuseum.com/Pickett/Pickett_700_Type_A-1_USAF_AerialPhoto_SqBraces_TriangleLogo_GiftOfLeroyHauslerCollection.jpg)
+![Model 700 A-2](./images/Pickett-700.jpg)
 
 * Purchased June 12, 2020
     * Ebay
@@ -175,7 +177,7 @@ He forgot which model he had, though.
 ## Pickett Model 520 A-1
 ### "U. S. AIR FORCE AERIAL PHOTO SLIDE RULE TYPE A-1"
 ### [Pickett Page on ISRM](https://www.sliderulemuseum.com/Pickett.htm)
-### [Just like this one on ISRM](https://www.sliderulemuseum.com/Pickett/Pickett_N520-T_USAF_AerialPhoto_GiftOfPhillipRodleyNZ.jpg)
+### ![Pickett Model 520 A-1](./images/Pickett-520.jpg)
 
 * Purchased June 25, 2020
     * Ebay
@@ -218,7 +220,7 @@ He forgot which model he had, though.
 ## Aristo 0903LL Scholar
 ### [Aristo Page on ISRM](https://www.sliderulemuseum.com/Aristo.htm)
 
-![0903LL Scholar on ISRM](https://www.sliderulemuseum.com/Aristo/Aristo_903LL_dc3FX80_LogoStampedinBrace.jpg)
+![0903LL Scholar](./images/Aristo-0903LL.jpg)
 
 * Purchased July 8, 2020
     * Ebay
@@ -245,7 +247,7 @@ He forgot which model he had, though.
 ## Aristo 867U Darmstadt
 ### [Aristo Page on ISRM](https://www.sliderulemuseum.com/Aristo.htm)
 
-![Aristo 867U Darmstadt on ISRM](https://www.sliderulemuseum.com/Aristo/Aristo_867U_nodate_DandP_ClearStock_GiftOLeroyHauslerCollection.jpg)
+![Aristo 867U Darmstadt](./images/Aristo-867.jpg)
 
 * Purchased July 19, 2020
     * Ebay
@@ -285,7 +287,7 @@ He forgot which model he had, though.
 ### [Pickett Page on ISRM](https://www.sliderulemuseum.com/Pickett.htm)
 ### [Pickett Reference Image on ISRM](https://www.sliderulemuseum.com/Manuals/Pickett_Chronology.jpg)
 
-![Like this Pickett N4-ES on ISRM](https://www.sliderulemuseum.com/Pickett/Pickett_N4-ES_c1960_DonatedbyAndyKeller.jpg)
+![Pickett N4-ES](./images/Pickett-N4ES.jpg)
 
 * [Manual on ISRM Site](https://www.sliderulemuseum.com/Manuals/M76_Pickett_HowToUseLogLogSR_1953.pdf)
 …or at least the only one I could find that discusses the TWO Tangent scales
@@ -331,7 +333,7 @@ He forgot which model he had, though.
 <a name="kl1"></a>
 ## KL-1 Circular Slide Rule
 
-![KL-1 on ISRM](https://www.sliderulemuseum.com/Circular/C10_Soviet_KL1.jpg)
+![KL-1](./images/KL-1.jpg)
 
 * Purchased October 7, 2020
     * Ebay
@@ -366,7 +368,7 @@ He forgot which model he had, though.
 ## Frederick Post 1457 Mannheim Trig
 ### [Frederick Post Page on ISRM](https://www.sliderulemuseum.com/Post.htm)
 
-![1457 Mannheim Trig on ISRM](https://www.sliderulemuseum.com/Post/S076_Post_1457.jpg)
+![1457 Mannheim Trig on ISRM](./images/Post-1457.jpg)
 
 * Purchased October 15, 2020
     * Ebay
@@ -397,7 +399,7 @@ He forgot which model he had, though.
 ## Sun Hemmi No. 130 System Darmstadt
 ### [Sun Hemmi Page on ISRM](https://www.sliderulemuseum.com/Hemmi.htm)
 
-![Sun Hemmi No. 130 System Darmstadt  on ISRM](https://www.sliderulemuseum.com/Hemmi/Hemmi_No130_SystemDarmstadt_GiftOfPhillipRodleyNZ.jpg)
+![Sun Hemmi No. 130 System Darmstadt](./images/SunHemmi-130.jpg)
 
 * Purchased November 19, 2020
     * Ebay
@@ -430,7 +432,7 @@ He forgot which model he had, though.
 ### [Pickett Page on ISRM](https://www.sliderulemuseum.com/Pickett.htm)
 ### [Pickett Reference Image on ISRM](https://www.sliderulemuseum.com/Manuals/Pickett_Chronology.jpg)
 
-![Like this one on ISRM, but without RCA branding](https://www.sliderulemuseum.com/Pickett/Pickett_Model_200_c1949_RCA_DonatedByDavidHecht.jpg)
+![Pickett Model 200](./images/Pickett-200.jpg)
 
 * Purchased January 11, 2021
     * Ebay
@@ -470,7 +472,7 @@ He forgot which model he had, though.
 ### [Clark McCoy's K&E N4058W Page](https://www.mccoys-kecatalogs.com/KEModels/ke4058family.htm)
 ### [K&E N4058W on Smithsonian Museum web page](https://americanhistory.si.edu/collections/search/object/nmah_1214624)
 
-![N4058W on ISRM](https://www.sliderulemuseum.com/KE/KE_N4058W_BeginnersSlideRule_PlasticCursor.jpg)
+![K&E N4058W](./images/KE-N4058W.jpg)
 
 * [Clark McCoy's K&E N4058W Scans Page](https://www.mccoys-kecatalogs.com/KECollection/4058/keN4058W_2_1.htm)
 * Sent to me accidentally when I ordered the [Pickett Model 200](#pickett200), so the seller let me keep it!
@@ -501,7 +503,7 @@ He forgot which model he had, though.
 <a name="pickett14"></a>
 
 ## Pickett Model N14 ES Military Ranging
-![Pickett Model 14 on ISRM](https://sliderulemuseum.com/Pickett/Pickett_Model_14_USMilitaryArtilleryRanging_GiftOfLeroyHauslerCollection.jpg)
+![Pickett Model 14](./images/Pickett-14.jpg)
 
 * Birthday present from Lys
     * She got it from Ebay
@@ -547,7 +549,7 @@ He forgot which model he had, though.
 
 <a name="pickett500"></a>
 ## Pickett Model 500 Ortho Phase Log Log
-![Pickett Model 500 on ISRM](https://www.sliderulemuseum.com/Pickett/S377_Pickett_500_OrthoPhase.jpg)
+![Pickett Model 500](./images/Pickett-500.jpg)
 
 * Purchased May 18, 2021
     * Ebay
@@ -585,7 +587,7 @@ He forgot which model he had, though.
 <a name="pickettN200T"></a>
 ## Pickett Model N200-T Trig
 
-![Like this one on ISRM, but without Sola Basic Industries branding](https://sliderulemuseum.com/Pickett/Pickett_N200-T_SolaBasicIndustriesAd_DonatedByCarleeHeit.jpg)
+![Pickett Model N200-T Trig](./images/Pickett-N200T.jpg)
 
 * Purchased June 18, 2021
     * Ebay
@@ -621,7 +623,7 @@ He forgot which model he had, though.
 
 <a name="pickett300"></a>
 ## Pickett Model 300
-![Pickett Model 300 on ISRM](https://www.sliderulemuseum.com/Pickett/Pickett_Model_300_c1949_DonatedByDavidHecht.jpg)
+![Pickett Model 300](./images/Pickett-300.jpg)
 
 * Purchased August 4, 2021
     * CT Auctions; "Caring Transitions" Estate Sale
@@ -657,7 +659,7 @@ He forgot which model he had, though.
 
 <a name="pickett600"></a>
 ## Pickett Model 600
-![Pickett Model 600 on ISRM](https://www.sliderulemuseum.com/Pickett/Pickett_600_Magnesium_TriangleLogo_1949_GiftOfLeroyHauslerCollection.jpg)
+![Pickett Model 600](./images/Pickett-600.jpg)
 
 * Purchased August 4, 2021
     * CT Auctions; "Caring Transitions" Estate Sale
@@ -689,8 +691,8 @@ He forgot which model he had, though.
 ---
 
 <a name="pickett1000"></a>
-## Pickett MODEL NO. 1000 ORTHO-PHASE DUPLEX
-![Pickett Model 1000 on ISRM](https://www.sliderulemuseum.com/Pickett/Pickett_and_Eckel_1000_Orthophase_DonaldSBachelorCollection.jpg)
+## Pickett Model 1000 Ortho-Phase Duplex
+![Pickett Model 1000](./images/Pickett-1000.jpg)
 
 * Purchased August 4, 2021
     * CT Auctions; "Caring Transitions" Estate Sale
@@ -736,7 +738,7 @@ He forgot which model he had, though.
 <a name="pickett1006"></a>
 ## Pickett Model 1006 Duplex Trig
 
-![Pickett Model 1006 on ISRM](https://www.sliderulemuseum.com/Pickett/Pickett_N1006-T_Trig_LogLog_RndBlkLogoCurvedBracesConvexLens_giftOfPhillipEStanley.jpg)
+![Pickett Model 1006](./images/Pickett-1006.jpg)
 
 * Purchased February 13, 2022
     * Ebay
@@ -773,7 +775,12 @@ He forgot which model he had, though.
 <a name="pickett100"></a>
 ## Pickett Model 100 “Douglas Sky Rule”
 
+<div class="caption">
+
 ![Douglas Sky Rule on ISRM](https://sliderulemuseum.com/Pickett/Pickett_100_DouglasSkyRule_SRC21341.jpg)
+    Douglas Sky Rule on International Slide Rule Museum
+</div>
+
 * Scales:
     * Front Scale (A side)(Artwork #56): Dynamic Pres., Temp Rise [ Static Pres., Pres. Alt, Density Alt., C ] D, True Mach. TAIS
     * Back Scale (B side): Impact Pres., Std. Temp., Pres. Alt. [ Temp. Venier, Pres. Alt. ] True Mach No., Dial Airspeed. ] Blank
@@ -785,7 +792,12 @@ He forgot which model he had, though.
 <a name="pickett400"></a>
 ## Pickett Model 400 Business Rule
 
+<div class="caption">
+
 ![Pickett Model 400 on ISRM](https://sliderulemuseum.com/Pickett/Pickett_No400_Business_6inch_1945_Magnesium.jpg)
+    Pickett Model 400 on International Slide Rule Museum
+</div>
+
 * Scales:
     * Note: Special C% and R% scales for Cost and Retail mark up. DF & D scale labeled as RF & R.
     * Front Scale (artwork: 43): K, A [ B, CI, C ] D, L
@@ -797,14 +809,22 @@ He forgot which model he had, though.
 
 <a name="concise270"></a>
 ## Concise Model 270
+<div class="caption">
+
 ![Concise 270 on ISRM](https://sliderulemuseum.com/Concise/C32_Lafayette_F-383_Concise_270.jpg)
+    Concise 270 on International Slide Rule Museum
+</div>
 
 * Scales:
     * Front Scale: L, D ( C, CI, A, K )
     * Back Scale: DI, D ( S, T1, T2, ST )
 
 ### Concise Model 271
+<div class="caption">
+
 ![Concise 271 on ISRM](https://sliderulemuseum.com/Concise/Concise_271_CircularSlideRule_GiftOfSusanJacksonForJimRodgers.jpg)
+    Concise 271 on International Slide Rule Museum
+</div>
 
 * Scales
     * Front Scale: L, D ( C, CI, A, K )
@@ -816,7 +836,11 @@ He forgot which model he had, though.
 
 <a name="concise300"></a>
 ## Concise Model 300
+<div class="caption">
+
 ![Concise Model 300 on ISRM](https://sliderulemuseum.com/Concise/XXX_Concise_300.jpg)
+    Concise 300 on International Slide Rule Museum
+</div>
 
 * Scales
     * Front Scale: K, A, D ( C, CI, B, L )

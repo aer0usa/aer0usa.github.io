@@ -36,6 +36,9 @@ footer {
 h1, h2, h3, hr {
   clear: both;
 }
+div.caption p {
+  font-size: 80%;
+}
 
 @media only screen and (min-width: 768px) {
   /* For desktop: */
@@ -46,12 +49,17 @@ h1, h2, h3, hr {
     margin-top: 0;
     width: 65%;
   }
-  img {
+  div.caption, img {
     box-sizing: border-box;
     float: right;
     padding-bottom: 1ex;
     padding-left: 1ex;
     width: 50%;
+  }
+  div.caption img {
+    float: none;
+    padding: 0;
+    width: 100%;
   }
   nav ul {
     left: 2%;
