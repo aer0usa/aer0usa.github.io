@@ -576,6 +576,11 @@ He forgot which model he had, though.
         * Shiny!
         * Serial Number stamped on top bar: B060316
     * No Slide Tension Springs
+    * An early version:
+        * Artwork marks G-10 and H-10 (ISRM also shows one with no artwork marks. Is that earlier?)
+        * Heavier serif scale labels
+        * Black dot values on CI scale
+        * No dot, circle, or arrow to indicate descending values on trig scales
 * Felt slip cover
 
 [Return to Top](#top)
@@ -720,6 +725,12 @@ He forgot which model he had, though.
         * Shiny!
         * Serial Number stamped on top bar: A117221
     * No Slide Tension Springs
+    * This would be the second version:
+        * Artwork marks 26 and 27
+        * Lighter, condensed sans serif scale labels
+        * Circled values on CI scale
+        * No circles or arrows to indicate descending values on trig scales
+        * The first version had Artwork marks J-10 and K-10, heavier serif scale labels, black dot values on CI scale; compare to my [Model 500](#pickett500)
 * Felt slip cover
     * Dirty with ink marks
 * [Includes Manual](https://www.sliderulemuseum.com/Manuals/ISRM_M277_Pickett_1000_Orthophase_Instructions_DonatedByDanSwerdlow.pdf)
