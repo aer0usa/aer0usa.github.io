@@ -1,6 +1,6 @@
 # Pickett USAF Aerial Photography Slide Rules
 
-As I began to look at slide rules as a hobby, I found a Pickett Model 700 on Ebay.
+As I began to look at collecting slide rules as a hobby, I found a Pickett Model 700 on Ebay.
 Its specialized design and purpose piqued my curiosity, so I ordered it.
 
 A few days later, I marveled at the little aluminum jewel in my hands.
@@ -54,7 +54,7 @@ Sputnik did not orbit the Earth until 1957, and its perigee was over 700,000 fee
 Maybe a sub-orbital platform launched via rocket?
 The most likely example of this would be the German V-2 rocket.
 Its maximum altitude was around 291,000’.
-I found one photo taken from a V-2, but no evidence that they were used for this purpose, either by the Germans or Americans.
+I found one photo taken from a V-2, but no evidence that they were commonly used for this purpose, either by the Germans or Americans.
 
 What about a balloon?
 I found information about a “Project Genetrix”, but it seems the maximum altitude for that project was about 100,000’.
@@ -62,9 +62,9 @@ I found information about a “Project Genetrix”, but it seems the maximum alt
 I found an interesting web site called **Air Recce** (reference) that shares information about Aerial Reconnaissance as it was done during World War II.
 This was exactly what I needed.
 Air Recce and Wikipedia both seem to show that the aircraft used most for Aerial Reconnaissance during and just after World War II were versions of the North American P-51 Mustang known as the F-6, and the Lockheed P-38 Lightning known as the F-4 and F-5.
-The F-4 and F-5, “...as a reconnaissance aircraft, obtained 90 percent of the aerial film captured over Europe” (reference)
+The F-4 and F-5, “...as a reconnaissance aircraft, obtained 90 percent of the aerial film captured over Europe”. (reference)
 Both of these aircraft could fly over 40,000 feet.
-Many of the examples in the Model 520 / 700 manual use an altitude of 30,000 - 40,000 feet, so it seems likely this is what Katz had in mind.
+Many of the examples in the Model 520/700 manual use an altitude of 30,000 - 40,000 feet, so it seems likely this is what Katz had in mind.
 
 Also of interest is the RB-36D, a Photo Reconnaissance version of the Convair B-36 Peacemaker.
 This could fly over 50,000 feet, carry multiple cameras, and had a long range.
@@ -75,6 +75,7 @@ I seemed no closer to finding the answer to my question: why a maximum of 250,00
 I finally found the answer in Katz’s article in **Photogrammetric Engineering**:
 “...to permit the use of this slide rule in oblique photography computations”. (reference)
 The manual states that “the problems associated with oblique photography are much more difficult than the corresponding problems in vertical photography” and that “This slide rule can be used in conjunction with other aids for oblique photography; these are now under development…”.
+
 Katz’s article in **Photogrammetric Engineering** discusses these “other aids”.
 The Smithsonian National Air and Space Museum has a prototype, dated 1949, donated by Katz:
 [Calculator, Graphic, Oblique, Aerial Type A-1, Prototype, with 18 Transectors](https://airandspace.si.edu/collection-objects/calculator-graphic-oblique-aerial-type-1-prototype-18-transectors/nasm_A19930313000)
@@ -123,14 +124,16 @@ I think this is how the rule is meant to be used.
 
 ## Precision & Accuracy
 
+I wondered about whether the calculations done with the rule would be accurate enough to provide useful intelligence for the photo interpreter.
+Katz addresses the question of Precision and Accuracy in his article in PHOTOGRAMMETRIC ENGINEERING:
+
 > Briefly stated, precision refers to the reproducibility of the measurement operation, whereas accuracy refers to the essential truth of the measurement, i.e. its nearness to the true value.  
 Katz, PHOTOGRAMMETRIC ENGINEERING, 1950. page 351 (reference)
 
 > It is a serious and pernicious fallacy to believe that because computations are made with a modern electric calculator, "answers" can be written down embodying all the figures cast up by the machinations of the calculator.  
 Katz, PHOTOGRAMMETRIC ENGINEERING, 1950. page 351 (reference)
 
-I wondered about whether the calculations done with the rule would be accurate enough to provide useful intelligence for the photo interpreter.
-Katz discusses this in some of his articles.
+Katz expands on this in some of his other articles.
 
 First, the photo interpreter does not need to find the dimensions of a ground object down to fractions of an inch.
 The question is one of whether the object on the ground is a foxhole, a missile launch site, or an airfield, for example.
@@ -153,21 +156,39 @@ Katz made a recommendation about what scales should be on the “Rear” of the 
 > The reverse side of the rule will be a newly arranged standard 10 inch rule, having the normal, folded and inverted scales (C, D, CF, DF, DIF, DI), the square and cube scales (A & K), the sine and tangent scales (S & T), and the log scale (L). (reference, Katz, p350)
 
 Pickett’s selection of scales for the “Rear” of the Model 520/700 is close to Katz’s recommendation: 
-L, A, DF | CF, CIF, T, S, C | D, DI, K
+**L, A, DF | CF, CIF, T, S, C | D, DI, K**
 
 James Bready shared images of some Aerial Photography rules that he has, and the BRL 54 rule has the following scales on its rear:
-S&T, A | B, S, T, C | D
+**S&T, A | B, S, T, C | D**
 
 So it appears that there is no “standard” for the scales on the rear of the rule, but Pickett’s rules seem to reflect the scale set that Katz had in mind.
 
 I wondered if it would make sense to have an ST scale to calculate small angles for “slightly oblique” aerial photos.
 Or maybe other scales for triangles with small apex angles, like the scales of the Model 14 Artillery rule?
 
+I found a possible answer while perusing Pickett Slide Rule catalogs on the International Slide Rule Museum.
+The 1954 [Pickett All-Metal Slide Rules Catalog 164-A](https://sliderulemuseum.com/Manuals/Pickett_Catalog_1954.pdf) includes not only the Model 520 and 700 “U.S.A.F. AERIAL PHOTO SLIDE RULES”, but also a Model 706-S.
+
+The Model 706-S is a rule with the same scale set as the “rear” of the Model 700, and the other side is blank.
+The 164-A catalog calls the scale set a “_complete_ Trig Scale arrangement all on one side of the rule - available only on Pickett Pocket Rules”.
+The catalog markets the 706-S with “Your Imprint On Rule And Case”, with your company’s product or trade mark on the rear of the rule, or as a “Special Conversion Rule”, with your company’s own conversion factors on the rear of the rule.
+
+So, it would appear that the Model 700 is a “Special Conversion Rule”, but this doesn't answer the question of “which came first, the 700, or the 706-S?”
+
+It is also interesting that while there is a “Full Size Special Conversion Rule”, it is the 903-S, which has a different, though similar, scale set from the 520/700:
+**K A DF | CF T S CI C | D L**
+
+The scale set on the “rear” of the 520 is the same as that of the 700.
+
 ## Conclusion
 
 As a tool designed to solve an interesting problem, and as a cold war artifact, the USAF Aerial Photo Slide Rule is an interesting addition to my slide rule collection.
 Exploring its origins has been fun, and I find this aspect of the slide rule hobby one of the most enjoyable.
 I hope this exploration has been enjoyable for you as well.
+
+## Acknowledgments
+
+I wish to thank my wife Alyssa for her encouragement and proofreading, James Bready for his encouragement and assistance, Nathan Zeldes for inspiration, and Michael Konshak for the wonderful resource that is the International Slide Rule Museum.
 
 ---
 
