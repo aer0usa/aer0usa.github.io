@@ -672,9 +672,10 @@ He forgot which model he had, though.
     * Shipped via USPS
     * Arrived August 17, 2021
 * Scales
-    * Front Scale(Artwork 81): LL1+, LL1-, A [ B, T, ST, S Cos, T Cot, C ] D, DI, K
+    * Front Scale(Artwork 81): LL1+, LL1-, A [ B, T, ST, S, T, C ] D, DI, K
         * "SYNCHRO SCALE"
     * Back Scale: LL2+, LL2-, DF [ CF, CIF, CI, L, C ] D, LL3+, LL3-
+    * Descending values on CI, CIF, and trig scales marked with left-pointing arrows
 * Manufactured 1950-1953?
     * Magnesium
         * Feels lighter than the Model 200 and 700
@@ -776,6 +777,7 @@ He forgot which model he had, though.
 * Scales:
     * Front Scale K, A [ B, ST, T, S, C ] D, DI
     * Back Scale Ln, DF [ CF, CIF, CI, C ] D, L
+    * Descending values on CI, CIF, and trig scales in red with left-pointing arrows
 * Good condition
     * Cleaned cursor and sliding surfaces
     * Aligned top rail to bottom rail
