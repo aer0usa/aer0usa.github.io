@@ -708,7 +708,7 @@ He forgot which model he had, though.
 * Scales
     * Front Scale(Artwork 26): A [ B, T Cot , ST, S Cos] D, K
     * Back Scale(Artwork 27): DF [ CF, CIF, CI, C ] D, L
-        * Note the CI and CIF scales with the numbers circled
+        * Note the CI scales with the numbers circled
 * Manufactured 1948-1950
     * "Period 1"
     * Magnesium
@@ -732,7 +732,7 @@ He forgot which model he had, though.
         * Artwork marks 26 and 27
         * Lighter, condensed sans serif scale labels
         * Circled values on CI scale
-        * No circles or arrows to indicate descending values on trig scales
+        * No circles or arrows to indicate descending values on trig scales or CIF
         * The first version had Artwork marks J-10 and K-10, heavier serif scale labels, black dot values on CI scale; compare to my [Model 500](#pickett500)
 * Felt slip cover
     * Dirty with ink marks
