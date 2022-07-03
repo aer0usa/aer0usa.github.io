@@ -43,6 +43,22 @@ All photos ©2022 A. E. Rinehart unless otherwise noted.
 
 ![CTCS-552](./images/Concise-CTCS-552.jpg)
 
+This was in a box of stuff Dad said I could have if I was interested.
+There were also some James Bond novels and a little pocket tool set.
+
+I thought the design of the scales was interesting, with the neat numbers and ticks, and the index indicators on C and D.
+It seemed clean and purposeful.
+
+The reference card with all of its conversion factors and tables, the table of elements, and rulers were powerful tools to my little _Star Trek_ addled mind.
+
+I played with it like a toy and left it exposed to sunlight in a window sill. If I remember correctly, the sunlight is what hurt it worst.
+
+When Dad visited in December 2021, I showed him my collection and told him I got this Concise from him.
+He said he didn't remember it.
+In fact, he said the slide rule he used was a yellow pocket-size Pickett!
+He said he liked Picketts because they were “built like tanks” and did anyone else even make slide rules?
+He forgot which model he had, though.
+
 * From Dad, 1976?
 * Scales: 4in || D ( C, CI, L, A, K) || 10cm
 * Table of the Elements and Temperature Conversion Chart on back
@@ -54,11 +70,6 @@ All photos ©2022 A. E. Rinehart unless otherwise noted.
 * Imprinted "Sturgis Equipment Company"
 * Poor condition, but complete and functional. Taped together.
     * I played with it like a toy and left it exposed to sunlight in a window sill. If I remember correctly, the sunlight is what hurt it worst.
-* **Update:** When Dad visited in December 2021, I showed him my collection and told him I got this Concise from him.
-He said he didn't remember it.
-In fact, his slide rule was a yellow pocket-size Pickett!
-He said he liked Picketts because they were “built like tanks” and did anyone else even make slide rules?
-He forgot which model he had, though.
 
 [Return to Top](#top)
 
@@ -72,6 +83,10 @@ He forgot which model he had, though.
 
 ![Pickett Model 902](./images/Pickett-902.jpg)
 
+My Concise 552 made me curious about slide rules, so I searched for more information about them.
+I found ISRM and some other info about slide rules.
+I mentioned all of this to Lys, and she looked on Ebay and found a lot of two slide rules for $20: this Pickett 902, and the [Roos SR-109](#roos109) below.
+
 * Lys got me this!
     * Lot of two (with Roos SR-109 below) for ~$20
     * ~2010?
@@ -81,17 +96,17 @@ He forgot which model he had, though.
     * Aluminum
         * Shiny edges, not corroded or dark
         * 1953 or Later: Transition from Magnesium to Aluminum occurred in 1953 (?)
-    * "Period 3"
+    * “Period 3”
     * Logo Style 3
-        * "39" Above Logo
+        * “39” Above Logo
     * Stamped Aluminum Posts
-        * "Smooth Stamped Posts Contoured to Finger Tip"
+        * “Smooth Stamped Posts Contoured to Finger Tip”
     * Plain Flat Lens
     * Machined Metal Cursor Bars
     * Grooved Rails
     * Grooved Slide
     * Slide Tension Springs
-    * Slide Reverse has "41" artwork mark, no copyright mark.
+    * Slide Reverse has “41” artwork mark, no copyright mark.
     * Scales
         * Front: K, A [B, T, S, C] D, L
         * Rear: Instructions
