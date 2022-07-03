@@ -61,6 +61,7 @@ I found information about a “Project Genetrix”, but it seems the maximum alt
 
 I found an interesting web site called **Air Recce** (reference) that shares information about Aerial Reconnaissance as it was done during World War II.
 This was exactly what I needed.
+
 Air Recce and Wikipedia both seem to show that the aircraft used most for Aerial Reconnaissance during and just after World War II were versions of the North American P-51 Mustang known as the F-6, and the Lockheed P-38 Lightning known as the F-4 and F-5.
 The F-4 and F-5, “...as a reconnaissance aircraft, obtained 90 percent of the aerial film captured over Europe”. (reference)
 Both of these aircraft could fly over 40,000 feet.
@@ -73,8 +74,9 @@ The RB-36D becomes important in the discussion about Aerial Reconnaissance camer
 I seemed no closer to finding the answer to my question: why a maximum of 250,000 feet?
 
 I finally found the answer in Katz’s article in **Photogrammetric Engineering**:
-“...to permit the use of this slide rule in oblique photography computations”. (reference)
-The manual states that “the problems associated with oblique photography are much more difficult than the corresponding problems in vertical photography” and that “This slide rule can be used in conjunction with other aids for oblique photography; these are now under development…”.
+“...to permit the use of this slide rule in _oblique photography_ computations”. (reference) (emphasis mine)
+
+The Model 520/700 manual states that “the problems associated with oblique photography are much more difficult than the corresponding problems in vertical photography” and that “This slide rule can be used in conjunction with other aids for oblique photography; these are now under development…”.
 
 Katz’s article in **Photogrammetric Engineering** discusses these “other aids”.
 The Smithsonian National Air and Space Museum has a prototype, dated 1949, donated by Katz:
@@ -87,7 +89,7 @@ I found the answer to this question as I was researching likely aircraft.
 In his article, Katz mentions the K-24 and other cameras with a focal length from 24 to 36 inches.
 These were often carried by the F-5 and F-6, and Katz refers to them in examples in his article. (reference)
 
-However, while reading about the RB-36D, I read about the “Boston Camera”.
+However, while reading about the RB-36D, I read that it could be equipped with something called the “Boston Camera”.
 The Boston Camera had a focal length of 240 inches, and:
 “a photo interpreter could detect a golf ball from an altitude of 45,000 feet (14,000 m)” (reference)
 
@@ -110,6 +112,8 @@ There are scales to calculate the shutter interval to obtain aerial photos with 
 
 The manual also discusses functions valuable for **planning** aerial reconnaissance flights.
 The Aerial Photo rule can be used to determine how many exposures are required to survey a given area, the required altitude to photograph an object of a given ground size at a desired image size, and a minimum altitude given a flight speed and requirement for 60% image overlap on a given size of film.
+
+A 60% overlap in adjacent photos was used to produce stereoscopic aerial views.
 
 ## Rule Orientation
 
@@ -161,7 +165,7 @@ Pickett’s selection of scales for the “Rear” of the Model 520/700 is close
 James Bready shared images of some Aerial Photography rules that he has, and the BRL 54 rule has the following scales on its rear:
 **S&T, A | B, S, T, C | D**
 
-So it appears that there is no “standard” for the scales on the rear of the rule, but Pickett’s rules seem to reflect the scale set that Katz had in mind.
+So it appears that there is no “standard” for the scales on the rear of the Aerial Photography rule, but Pickett’s rules seem to reflect the scale set that Katz had in mind.
 
 I wondered if it would make sense to have an ST scale to calculate small angles for “slightly oblique” aerial photos.
 Or maybe other scales for triangles with small apex angles, like the scales of the Model 14 Artillery rule?
@@ -179,6 +183,9 @@ It is also interesting that while there is a “Full Size Special Conversion Rul
 **K A DF | CF T S CI C | D L**
 
 The scale set on the “rear” of the 520 is the same as that of the 700.
+
+Another unique feature of the Model 520/700 is the case.
+For each of the rules, its case is the standard leather case for its size, but with a table of equivalents and settings for conversion factors set into a window added to the case.
 
 ## Conclusion
 
