@@ -96,7 +96,7 @@ The Boston Camera had a focal length of 240 inches, and:
 The Boston Camera was not manufactured until 1951, and was used sparingly.
 Cameras with 24- to 36-inch focal lengths were much more common.
 
-The Pickett Model 520/700 has handy gauge marks for what are probably common focal lengths: 24”, 36”, 48”, 72”, 96”, and 144”.
+The Pickett Model 520/700 has gauge marks for what are probably common focal lengths: 24”, 36”, 48”, 72”, 96”, and 144”.
 
 ## Ground Speed
 
@@ -107,13 +107,11 @@ It is my guess that 1,000 MPH was a “nice, round figure” that allowed for fu
 ## Other Functions
 
 There are scales on the rule to calculate “image speed” arising from forward aircraft speed.
-
-There are scales to calculate the shutter interval to obtain aerial photos with a 60% overlap for stereoscopic analysis.
+After aligning the MPH mark with the Representative Fraction, setting the cursor to the “Ground Speed” will show the image speed in Inches Per Second.
 
 The manual also discusses functions valuable for **planning** aerial reconnaissance flights.
 The Aerial Photo rule can be used to determine how many exposures are required to survey a given area, the required altitude to photograph an object of a given ground size at a desired image size, and a minimum altitude given a flight speed and requirement for 60% image overlap on a given size of film.
-
-A 60% overlap in adjacent photos was used to produce stereoscopic aerial views.
+A 60% overlap in adjacent photos produces stereoscopic aerial views.
 
 ## Rule Orientation
 
@@ -170,7 +168,10 @@ So it appears that there is no “standard” for the scales on the rear of the 
 I wondered if it would make sense to have an ST scale to calculate small angles for “slightly oblique” aerial photos.
 Or maybe other scales for triangles with small apex angles, like the scales of the Model 14 Artillery rule?
 
-I found a possible answer while perusing Pickett Slide Rule catalogs on the International Slide Rule Museum.
+I was also curious about the inclusion of the CIF scale rather than the more-common CI scale.
+Certainly the CIF scale can be used in the same way as CI, but I would like to know more about this choice.
+
+I found some insight into these scale selections while perusing Pickett Slide Rule catalogs on the International Slide Rule Museum.
 The 1954 [Pickett All-Metal Slide Rules Catalog 164-A](https://sliderulemuseum.com/Manuals/Pickett_Catalog_1954.pdf) includes not only the Model 520 and 700 “U.S.A.F. AERIAL PHOTO SLIDE RULES”, but also a Model 706-S.
 
 The Model 706-S is a rule with the same scale set as the “rear” of the Model 700, and the other side is blank.
