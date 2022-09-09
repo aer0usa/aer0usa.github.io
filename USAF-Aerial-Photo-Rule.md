@@ -80,7 +80,7 @@ The Model 520/700 manual states that “the problems associated with oblique pho
 
 Katz’s article in **Photogrammetric Engineering** discusses these “other aids”.
 The Smithsonian National Air and Space Museum has a prototype, dated 1949, donated by Katz:
-[Calculator, Graphic, Oblique, Aerial Type A-1, Prototype, with 18 Transectors](https://airandspace.si.edu/collection-objects/calculator-graphic-oblique-aerial-type-1-prototype-18-transectors/nasm_A19930313000)
+[Calculator, Graphic, Oblique, Aerial Type A-1, Prototype, with 18 Transectors](https://www.si.edu/object/calculator-graphic-oblique-aerial-type-1-prototype-18-transectors:nasm_A19930313000)
 
 ## Focal Length
 
@@ -112,6 +112,10 @@ After aligning the MPH mark with the Representative Fraction, setting the cursor
 The manual also discusses functions valuable for **planning** aerial reconnaissance flights.
 The Aerial Photo rule can be used to determine how many exposures are required to survey a given area, the required altitude to photograph an object of a given ground size at a desired image size, and a minimum altitude given a flight speed and requirement for 60% image overlap on a given size of film.
 A 60% overlap in adjacent photos produces stereoscopic aerial views.
+
+This Photo Interpretation Kit includes a Pickett 52T Type-A1 Aerial Photography Slide Rule, two different Magnifying Stereoscopes, and Proportional Dividers:
+[Kit, Photo Interpretation, Felsenthal, Type BS-9A, partial](https://www.si.edu/object/kit-photo-interpretation-felsenthal-type-bs-9a-partial:nasm_A19771915000)
+The 52T varies from the Model 520 / 700 by including a “Ground Size Meters” scale in addition to the Ground Size Feet scale.
 
 ## Rule Orientation
 
