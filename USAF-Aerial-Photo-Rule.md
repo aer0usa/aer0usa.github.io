@@ -6,7 +6,7 @@ Its specialized design and purpose piqued my curiosity, so I ordered it.
 A few days later, I marveled at the little aluminum jewel in my hands.
 As I studied it, I began to wonder exactly what problems it was designed to solve.
 How did its designers decide on the range of values for its aerial photo scales?
-What about the scales on the rule’s rear?
+What about the scales on the rule’s “rear”?
 
 The first source of information I found about the rule was its operating manual, which I found on the International Slide Rule Museum.
 The manual described the rule’s basic operation, and some of the philosophy behind its design.
@@ -20,6 +20,7 @@ As I searched for more information about these Aerial Photo Slide Rules, I stumb
 Nathan’s curiosity and exploration of the Cornell “How Many?” device, along with his mention of the Pickett Model 700, inspired me to research further and to consider writing an article of my own.
 
 It took me a while to find it, but I did eventually find Katz’s article in **Photogrammetric Engineering**.
+Reading this, and other articles Katz wrote for the Rand Corporation, gave me an appreciation for the man’s writing style and insight to problems of aerial photography.
 
 ## What Is It For?
 
@@ -94,6 +95,8 @@ The Boston Camera had a focal length of 240 inches, and:
 “a photo interpreter could detect a golf ball from an altitude of 45,000 feet (14,000 m)” (reference)
 
 The Boston Camera was not manufactured until 1951, and was used sparingly.
+The Boston Camera may not have been used frequently because it was sensitive to aircraft vibration. (reference)
+[The CIA and the U-2 Program, 1954-1974, pages 54 & 55, “C camera”](https://www.cia.gov/static/37e56c57ddf41f9c85f357a04900e1e8/CIA-and-U2-Program.pdf).
 Cameras with 24- to 36-inch focal lengths were much more common.
 
 The Pickett Model 520/700 has gauge marks for what are probably common focal lengths: 24”, 36”, 48”, 72”, 96”, and 144”.
@@ -202,3 +205,4 @@ I hope this exploration has been enjoyable for you as well.
 
 I wish to thank my wife Alyssa for her encouragement and proofreading, James Bready for his encouragement and assistance, Nathan Zeldes for inspiration, and Michael Konshak for the wonderful resource that is the International Slide Rule Museum.
 
+I also wish to thank the Smithsonian Air and Space Museum, Photographer Carl J. Bobrow, for their permission to use images from their collection in this article.
