@@ -37,6 +37,7 @@ These tables had many thousands of entries (maybe millions?), and were cumbersom
 Before designing the Aerial Photo Slide Rule, Katz constructed a nomograph to help solve Representative Fractions, but he soon found that “even a nomograph is somewhat clumsy to use” (reference) [^2], so he constructed an experimental Aerial Photo Slide Rule.
 
 The article shows photos of an early version of the Aerial Photo Slide Rule, constructed from “inexpensive vinyl plastic”.
+(reference} [^3])
 Its Altitude scale only goes up to 60,000 feet, and its Focal Length scale only to 100 inches.
 Otherwise, its design is similar to the finished product that appears on the Pickett Aerial Photo Slide Rule.
  
@@ -60,11 +61,11 @@ I found one photo taken from a V-2, but no evidence that they were commonly used
 What about a balloon?
 I found information about a “Project Genetrix”, but it seems the maximum altitude for that project was about 100,000’.
 
-I found an interesting web site called **Air Recce** (reference) [^3] that shares information about Aerial Reconnaissance as it was done during World War II.
+I found an interesting web site called **Air Recce** (reference) [^4] that shares information about Aerial Reconnaissance as it was done during World War II.
 This was exactly what I needed.
 
 Air Recce and Wikipedia both seem to show that the aircraft used most for Aerial Reconnaissance during and just after World War II were versions of the North American P-51 Mustang known as the F-6, and the Lockheed P-38 Lightning known as the F-4 and F-5.
-The F-4 and F-5, “...as a reconnaissance aircraft, obtained 90 percent of the aerial film captured over Europe”. (reference) [^4]
+The F-4 and F-5, “...as a reconnaissance aircraft, obtained 90 percent of the aerial film captured over Europe”. (reference) [^5]
 Both of these aircraft could fly over 40,000 feet.
 Many of the examples in the Model 520/700 manual use an altitude of 30,000 - 40,000 feet, so it seems likely this is what Katz had in mind.
 
@@ -75,27 +76,28 @@ The RB-36D becomes important in the discussion about Aerial Reconnaissance camer
 I seemed no closer to finding the answer to my question: why a maximum of 250,000 feet?
 
 I finally found the answer in Katz’s article in **Photogrammetric Engineering**:
-“...to permit the use of this slide rule in _oblique photography_ computations”. (reference) [^5] (emphasis mine)
+“...to permit the use of this slide rule in _oblique photography_ computations”. (reference) [^6] (emphasis mine)
 
 The Model 520/700 manual states that “the problems associated with oblique photography are much more difficult than the corresponding problems in vertical photography” and that “This slide rule can be used in conjunction with other aids for oblique photography; these are now under development…”.
 
 Katz’s article in **Photogrammetric Engineering** discusses these “other aids”.
+(reference) [^7]
 The Smithsonian National Air and Space Museum has a prototype, dated 1949, donated by Katz:
-[Calculator, Graphic, Oblique, Aerial Type A-1, Prototype, with 18 Transectors](https://www.si.edu/object/calculator-graphic-oblique-aerial-type-1-prototype-18-transectors:nasm_A19930313000)
+(reference) [^8]
 
 ## Focal Length
 
 “Why a maximum focal length of 240 inches?”
 I found the answer to this question as I was researching likely aircraft.
 In his article, Katz mentions the K-24 and other cameras with a focal length from 24 to 36 inches.
-These were often carried by the F-5 and F-6, and Katz refers to them in examples in his article. (reference) [^6]
+These were often carried by the F-5 and F-6, and Katz refers to them in examples in his article. (reference) [^9]
 
 However, while reading about the RB-36D, I read that it could be equipped with something called the “Boston Camera”.
 The Boston Camera had a focal length of 240 inches, and:
-“a photo interpreter could detect a golf ball from an altitude of 45,000 feet (14,000 m)” (reference) [^7]
+“a photo interpreter could detect a golf ball from an altitude of 45,000 feet (14,000 m)” (reference) [^10]
 
 The Boston Camera was not manufactured until 1951, and was used sparingly.
-The Boston Camera may not have been used frequently because it was sensitive to aircraft vibration. (reference) [^8]
+The Boston Camera may not have been used frequently because it was sensitive to aircraft vibration. (reference) [^11]
 Cameras with 24- to 36-inch focal lengths were much more common.
 
 The Pickett Model 520/700 has gauge marks for what are probably common focal lengths: 24”, 36”, 48”, 72”, 96”, and 144”.
@@ -136,34 +138,35 @@ I wondered about whether the calculations done with the rule would be accurate e
 Katz addresses the question of Precision and Accuracy in his article in PHOTOGRAMMETRIC ENGINEERING:
 
 > Briefly stated, precision refers to the reproducibility of the measurement operation, whereas accuracy refers to the essential truth of the measurement, i.e. its nearness to the true value.  
-(reference) [^9]
+(reference) [^12]
 
 > It is a serious and pernicious fallacy to believe that because computations are made with a modern electric calculator, "answers" can be written down embodying all the figures cast up by the machinations of the calculator.  
-(reference) [^10]
+(reference) [^13]
 
 Katz expands on this in some of his other articles.
 
 First, the photo interpreter does not need to find the dimensions of a ground object down to fractions of an inch.
 The question is one of whether the object on the ground is a foxhole, a missile launch site, or an airfield, for example.
 From Some Notes on the History of Aerial Reconnaissance
-(reference) [^11]
+(reference) [^14]
 
 Second, there are other sources of error in the process of obtaining the aerial photographs.
 These sources include whether the film lies flat in the camera, the motion of the shutter with respect to the airplane's path, errors in measurement of the airplane’s altitude, errors in the stated focal length of the camera, and whether the photo is actually vertical.
 Katz states that these errors can be as much as 10%, whereas the “Ground Size” scale can be read within 0.1% on the 10” rule.
 So, the Aerial Photography rule provides plenty of accuracy for the job at hand.
-Katz, PHOTOGRAMMETRIC ENGINEERING, 1950. page 355 (reference) [^12]
+Katz, PHOTOGRAMMETRIC ENGINEERING, 1950. page 355 (reference) [^15]
 
 It is interesting to note that once the enemy became aware of aerial photography, he would camouflage the sites to hide what was there.
 However, the photo interpreter would make educated guesses based on the size of the camouflaged area, combined with other sources of intelligence.
 Interpretation Of Military Installations From Aerial Photographs, Jones, p. 498
-(reference) [^13]
+(reference) [^16]
 
 ## Rear of the Rule
 
 Katz made a recommendation about what scales should be on the “Rear” of the Aerial Photography rule.
 
-> The reverse side of the rule will be a newly arranged standard 10 inch rule, having the normal, folded and inverted scales (C, D, CF, DF, DIF, DI), the square and cube scales (A & K), the sine and tangent scales (S & T), and the log scale (L). (reference, Katz, p350)
+> The reverse side of the rule will be a newly arranged standard 10 inch rule, having the normal, folded and inverted scales (C, D, CF, DF, DIF, DI), the square and cube scales (A & K), the sine and tangent scales (S & T), and the log scale (L).
+(reference) [^17]
 
 Pickett’s selection of scales for the “Rear” of the Model 520/700 is close to Katz’s recommendation: 
 **L, A, DF | CF, CIF, T, S, C | D, DI, K**
@@ -208,17 +211,36 @@ I wish to thank my wife Alyssa for her encouragement and proofreading, James Bre
 
 I also wish to thank the Smithsonian Air and Space Museum, Photographer Carl J. Bobrow, for their permission to use images from their collection in this article.
 
-[^1]: [Katz, Amrom H., _Contributions to the theory and mechanics of photo-interpretation from vertical and oblique photographs._ PHOTOGRAMMETRIC ENGINEERING, June 1950.](https://www.asprs.org/wp-content/uploads/pers/1950journal/jun/1950_jun_339-386.pdf)
-[^2]: [Katz, Amrom H., _Contributions to the theory and mechanics of photo-interpretation from vertical and oblique photographs._ PHOTOGRAMMETRIC ENGINEERING, June 1950, p347.](https://www.asprs.org/wp-content/uploads/pers/1950journal/jun/1950_jun_339-386.pdf)
-[^3]: Air Recce: [https://web.archive.org/web/20120525063736/http://www.airrecce.co.uk/WW2/recce_ac/USAR.html](https://web.archive.org/web/20120525063736/http://www.airrecce.co.uk/WW2/recce_ac/USAR.html)
-[^4]: [https://www.lockheedmartin.com/en-us/news/features/history/p-38.html](https://www.lockheedmartin.com/en-us/news/features/history/p-38.html)
-[^5]: [Katz, Amrom H., _Contributions to the theory and mechanics of photo-interpretation from vertical and oblique photographs._ PHOTOGRAMMETRIC ENGINEERING, June 1950, p350.](https://www.asprs.org/wp-content/uploads/pers/1950journal/jun/1950_jun_339-386.pdf)
-[^6]: [Katz, Amrom H., _Contributions to the theory and mechanics of photo-interpretation from vertical and oblique photographs._ PHOTOGRAMMETRIC ENGINEERING, June 1950, p349, 385.](https://www.asprs.org/wp-content/uploads/pers/1950journal/jun/1950_jun_339-386.pdf)
-[^7]: [K-42 “Boston Camera”](https://en.wikipedia.org/wiki/Boston_Camera)
-[^8]: [The CIA and the U-2 Program, 1954-1974, pages 54 & 55, “C camera”](https://www.cia.gov/static/37e56c57ddf41f9c85f357a04900e1e8/CIA-and-U2-Program.pdf).
-[^9]: [Katz, Amrom H., _Contributions to the theory and mechanics of photo-interpretation from vertical and oblique photographs._ PHOTOGRAMMETRIC ENGINEERING, June 1950, p351.](https://www.asprs.org/wp-content/uploads/pers/1950journal/jun/1950_jun_339-386.pdf)
-[^10]: [Katz, Amrom H., _Contributions to the theory and mechanics of photo-interpretation from vertical and oblique photographs._ PHOTOGRAMMETRIC ENGINEERING, June 1950, p351.](https://www.asprs.org/wp-content/uploads/pers/1950journal/jun/1950_jun_339-386.pdf)
-[^11]: [Katz, Amrom H., _Some Notes on the History of Aerial Reconnaissance._ Santa Monica, CA: RAND Corporation, 1966.](https://www.rand.org/pubs/papers/P3310.html). Also available in print form.
-[^12]: [Katz, Amrom H., _Contributions to the theory and mechanics of photo-interpretation from vertical and oblique photographs._ PHOTOGRAMMETRIC ENGINEERING, June 1950, p355.](https://www.asprs.org/wp-content/uploads/pers/1950journal/jun/1950_jun_339-386.pdf)
-[^13]:
-[Thad Jones, _Interpretation Of Military Installations From Aerial Photographs_ Jones Photogrammetric Engineering & Remote Sensing Vol. 14 No.4 December 1948 pp.496-506 © 1948 American Society for Photogrammetry and Remote Sensing](https://www.asprs.org/wp-content/uploads/pers/1948journal/dec/1948_dec_496-506.pdf)
+1: [Katz, Amrom H., _Contributions to the theory and mechanics of photo-interpretation from vertical and oblique photographs._ PHOTOGRAMMETRIC ENGINEERING, June 1950.](https://www.asprs.org/wp-content/uploads/pers/1950journal/jun/1950_jun_339-386.pdf)
+
+2: [Katz, Amrom H., _Contributions to the theory and mechanics of photo-interpretation from vertical and oblique photographs._ PHOTOGRAMMETRIC ENGINEERING, June 1950, p347.](https://www.asprs.org/wp-content/uploads/pers/1950journal/jun/1950_jun_339-386.pdf)
+
+3: [Katz, Amrom H., _Contributions to the theory and mechanics of photo-interpretation from vertical and oblique photographs._ PHOTOGRAMMETRIC ENGINEERING, June 1950, p348.](https://www.asprs.org/wp-content/uploads/pers/1950journal/jun/1950_jun_339-386.pdf)
+
+4: Air Recce: [https://web.archive.org/web/20120525063736/http://www.airrecce.co.uk/WW2/recce_ac/USAR.html](https://web.archive.org/web/20120525063736/http://www.airrecce.co.uk/WW2/recce_ac/USAR.html)
+
+5: [https://www.lockheedmartin.com/en-us/news/features/history/p-38.html](https://www.lockheedmartin.com/en-us/news/features/history/p-38.html)
+
+6: [Katz, Amrom H., _Contributions to the theory and mechanics of photo-interpretation from vertical and oblique photographs._ PHOTOGRAMMETRIC ENGINEERING, June 1950, p350.](https://www.asprs.org/wp-content/uploads/pers/1950journal/jun/1950_jun_339-386.pdf)
+
+7: [Katz, Amrom H., _Contributions to the theory and mechanics of photo-interpretation from vertical and oblique photographs._ PHOTOGRAMMETRIC ENGINEERING, June 1950, pp377-382.](https://www.asprs.org/wp-content/uploads/pers/1950journal/jun/1950_jun_339-386.pdf)
+
+8: [Calculator, Graphic, Oblique, Aerial Type A-1, Prototype, with 18 Transectors](https://www.si.edu/object/calculator-graphic-oblique-aerial-type-1-prototype-18-transectors:nasm_A19930313000)
+
+9: [Katz, Amrom H., _Contributions to the theory and mechanics of photo-interpretation from vertical and oblique photographs._ PHOTOGRAMMETRIC ENGINEERING, June 1950, p349, 385.](https://www.asprs.org/wp-content/uploads/pers/1950journal/jun/1950_jun_339-386.pdf)
+
+10: [K-42 “Boston Camera”](https://en.wikipedia.org/wiki/Boston_Camera)
+
+11: [The CIA and the U-2 Program, 1954-1974, pages 54 & 55, “C camera”](https://www.cia.gov/static/37e56c57ddf41f9c85f357a04900e1e8/CIA-and-U2-Program.pdf).
+
+12: [Katz, Amrom H., _Contributions to the theory and mechanics of photo-interpretation from vertical and oblique photographs._ PHOTOGRAMMETRIC ENGINEERING, June 1950, p351.](https://www.asprs.org/wp-content/uploads/pers/1950journal/jun/1950_jun_339-386.pdf)
+
+13: [Katz, Amrom H., _Contributions to the theory and mechanics of photo-interpretation from vertical and oblique photographs._ PHOTOGRAMMETRIC ENGINEERING, June 1950, p351.](https://www.asprs.org/wp-content/uploads/pers/1950journal/jun/1950_jun_339-386.pdf)
+
+14: [Katz, Amrom H., _Some Notes on the History of Aerial Reconnaissance._ Santa Monica, CA: RAND Corporation, 1966.](https://www.rand.org/pubs/papers/P3310.html). Also available in print form.
+
+15: [Katz, Amrom H., _Contributions to the theory and mechanics of photo-interpretation from vertical and oblique photographs._ PHOTOGRAMMETRIC ENGINEERING, June 1950, p355.](https://www.asprs.org/wp-content/uploads/pers/1950journal/jun/1950_jun_339-386.pdf)
+
+16: [Thad Jones, _Interpretation Of Military Installations From Aerial Photographs_ Jones Photogrammetric Engineering & Remote Sensing Vol. 14 No.4 December 1948 pp.496-506 © 1948 American Society for Photogrammetry and Remote Sensing](https://www.asprs.org/wp-content/uploads/pers/1948journal/dec/1948_dec_496-506.pdf)
+
+17: [Katz, Amrom H., _Contributions to the theory and mechanics of photo-interpretation from vertical and oblique photographs._ PHOTOGRAMMETRIC ENGINEERING, June 1950, p350.](https://www.asprs.org/wp-content/uploads/pers/1950journal/jun/1950_jun_339-386.pdf)
