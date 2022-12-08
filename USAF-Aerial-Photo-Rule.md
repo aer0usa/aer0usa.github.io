@@ -1,5 +1,7 @@
 # Pickett USAF Aerial Photography Slide Rules
 
+**[FIGURE 1: Pickett Models 520 & 700]**
+
 As I began to look at collecting slide rules as a hobby, I found a Pickett Model 700 on Ebay.
 Its specialized design and purpose piqued my curiosity, so I ordered it.
 
@@ -85,6 +87,8 @@ Katz’s article in **Photogrammetric Engineering** discusses these “other aid
 The Smithsonian National Air and Space Museum has a prototype, dated 1949, donated by Katz:
 (reference) [^8]
 
+**[FIGURE 2: Calculator, Graphic, Oblique, Aerial Type A-1, Prototype, with 18 Transectors, Smithsonian Air and Space Museum, Photographer: Carl J. Bobrow]**
+
 ## Focal Length
 
 “Why a maximum focal length of 240 inches?”
@@ -121,6 +125,8 @@ This Photo Interpretation Kit includes a Pickett 52T Type-A1 Aerial Photography 
 [Kit, Photo Interpretation, Felsenthal, Type BS-9A, partial](https://www.si.edu/object/kit-photo-interpretation-felsenthal-type-bs-9a-partial:nasm_A19771915000)
 The 52T varies from the Model 520 / 700 by including a “Ground Size Meters” scale in addition to the Ground Size Feet scale.
 
+**[FIGURE 3: Kit, Photo Interpretation, Felsenthal, Type BS 9A, partial, Smithsonian Air and Space Museum, Photographer: Carl J. Bobrow]**
+
 ## Rule Orientation
 
 In our correspondence, James Bready noted to me that when switching from one side of the rule to the other, on most rules, you would rotate the rule along its long axis, and the rule is still oriented correctly.
@@ -132,9 +138,11 @@ Page 8 of the manual states, “When the Aerial Photo side of the slide rule is 
 When the rule is held vertically for Aerial Photo use, in the left hand, palm up, switching to the “rear” of the rule is easy to accomplish by rolling the left wrist to the right, presenting the rear of the rule in its correct orientation.
 I think this is how the rule is meant to be used.
 
+**[FIGURE 4: Transition from Front to Rear Scales of the Pickett Model 700]**
+
 ## Precision & Accuracy
 
-I wondered about whether the calculations done with the rule would be accurate enough to provide useful intelligence for the photo interpreter.
+I wondered about whether the calculations done with the rule would be precise and accurate enough to provide useful intelligence for the photo interpreter.
 Katz addresses the question of Precision and Accuracy in his article in PHOTOGRAMMETRIC ENGINEERING:
 
 > Briefly stated, precision refers to the reproducibility of the measurement operation, whereas accuracy refers to the essential truth of the measurement, i.e. its nearness to the true value.  
@@ -199,6 +207,8 @@ The scale set on the “rear” of the 520 is the same as that of the 700.
 Another unique feature of the Model 520/700 is the case.
 For each of the rules, its case is the standard leather case for its size, but with a table of equivalents and settings for conversion factors set into a window added to the case.
 
+**[FIGURE 5: Closeup of Pickett Model 520 Case]**
+
 ## Conclusion
 
 As a tool designed to solve an interesting problem, and as a cold war artifact, the USAF Aerial Photo Slide Rule is an interesting addition to my slide rule collection.
@@ -209,38 +219,40 @@ I hope this exploration has been enjoyable for you as well.
 
 I wish to thank my wife Alyssa for her encouragement and proofreading, James Bready for his encouragement and assistance, Nathan Zeldes for inspiration, and Michael Konshak for the wonderful resource that is the International Slide Rule Museum.
 
-I also wish to thank the Smithsonian Air and Space Museum, Photographer Carl J. Bobrow, for their permission to use images from their collection in this article.
+I also wish to thank the Smithsonian Air and Space Museum for their permission to use images from their collection in this article.
 
-1: [Katz, Amrom H., _Contributions to the theory and mechanics of photo-interpretation from vertical and oblique photographs._ PHOTOGRAMMETRIC ENGINEERING, June 1950.](https://www.asprs.org/wp-content/uploads/pers/1950journal/jun/1950_jun_339-386.pdf)
+-----
 
-2: [Katz, Amrom H., _Contributions to the theory and mechanics of photo-interpretation from vertical and oblique photographs._ PHOTOGRAMMETRIC ENGINEERING, June 1950, p347.](https://www.asprs.org/wp-content/uploads/pers/1950journal/jun/1950_jun_339-386.pdf)
+1: [Katz, Amrom H., _Contributions to the theory and mechanics of photo-interpretation from vertical and oblique photographs._ PHOTOGRAMMETRIC ENGINEERING, June 1950. © 1950 American Society for Photogrammetry and Remote Sensing](https://www.asprs.org/wp-content/uploads/pers/1950journal/jun/1950_jun_339-386.pdf)
 
-3: [Katz, Amrom H., _Contributions to the theory and mechanics of photo-interpretation from vertical and oblique photographs._ PHOTOGRAMMETRIC ENGINEERING, June 1950, p348.](https://www.asprs.org/wp-content/uploads/pers/1950journal/jun/1950_jun_339-386.pdf)
+2: [Katz, Amrom H., _Contributions to the theory and mechanics of photo-interpretation from vertical and oblique photographs._ PHOTOGRAMMETRIC ENGINEERING, June 1950, p347. © 1950 American Society for Photogrammetry and Remote Sensing](https://www.asprs.org/wp-content/uploads/pers/1950journal/jun/1950_jun_339-386.pdf)
+
+3: [Katz, Amrom H., _Contributions to the theory and mechanics of photo-interpretation from vertical and oblique photographs._ PHOTOGRAMMETRIC ENGINEERING, June 1950, p348. © 1950 American Society for Photogrammetry and Remote Sensing](https://www.asprs.org/wp-content/uploads/pers/1950journal/jun/1950_jun_339-386.pdf)
 
 4: Air Recce: [https://web.archive.org/web/20120525063736/http://www.airrecce.co.uk/WW2/recce_ac/USAR.html](https://web.archive.org/web/20120525063736/http://www.airrecce.co.uk/WW2/recce_ac/USAR.html)
 
 5: [https://www.lockheedmartin.com/en-us/news/features/history/p-38.html](https://www.lockheedmartin.com/en-us/news/features/history/p-38.html)
 
-6: [Katz, Amrom H., _Contributions to the theory and mechanics of photo-interpretation from vertical and oblique photographs._ PHOTOGRAMMETRIC ENGINEERING, June 1950, p350.](https://www.asprs.org/wp-content/uploads/pers/1950journal/jun/1950_jun_339-386.pdf)
+6: [Katz, Amrom H., _Contributions to the theory and mechanics of photo-interpretation from vertical and oblique photographs._ PHOTOGRAMMETRIC ENGINEERING, June 1950, p350. © 1950 American Society for Photogrammetry and Remote Sensing](https://www.asprs.org/wp-content/uploads/pers/1950journal/jun/1950_jun_339-386.pdf)
 
-7: [Katz, Amrom H., _Contributions to the theory and mechanics of photo-interpretation from vertical and oblique photographs._ PHOTOGRAMMETRIC ENGINEERING, June 1950, pp377-382.](https://www.asprs.org/wp-content/uploads/pers/1950journal/jun/1950_jun_339-386.pdf)
+7: [Katz, Amrom H., _Contributions to the theory and mechanics of photo-interpretation from vertical and oblique photographs._ PHOTOGRAMMETRIC ENGINEERING, June 1950, pp377-382. © 1950 American Society for Photogrammetry and Remote Sensing](https://www.asprs.org/wp-content/uploads/pers/1950journal/jun/1950_jun_339-386.pdf)
 
 8: [Calculator, Graphic, Oblique, Aerial Type A-1, Prototype, with 18 Transectors](https://www.si.edu/object/calculator-graphic-oblique-aerial-type-1-prototype-18-transectors:nasm_A19930313000)
 
-9: [Katz, Amrom H., _Contributions to the theory and mechanics of photo-interpretation from vertical and oblique photographs._ PHOTOGRAMMETRIC ENGINEERING, June 1950, p349, 385.](https://www.asprs.org/wp-content/uploads/pers/1950journal/jun/1950_jun_339-386.pdf)
+9: [Katz, Amrom H., _Contributions to the theory and mechanics of photo-interpretation from vertical and oblique photographs._ PHOTOGRAMMETRIC ENGINEERING, June 1950, p349, 385. © 1950 American Society for Photogrammetry and Remote Sensing](https://www.asprs.org/wp-content/uploads/pers/1950journal/jun/1950_jun_339-386.pdf)
 
 10: [K-42 “Boston Camera”](https://en.wikipedia.org/wiki/Boston_Camera)
 
 11: [The CIA and the U-2 Program, 1954-1974, pages 54 & 55, “C camera”](https://www.cia.gov/static/37e56c57ddf41f9c85f357a04900e1e8/CIA-and-U2-Program.pdf).
 
-12: [Katz, Amrom H., _Contributions to the theory and mechanics of photo-interpretation from vertical and oblique photographs._ PHOTOGRAMMETRIC ENGINEERING, June 1950, p351.](https://www.asprs.org/wp-content/uploads/pers/1950journal/jun/1950_jun_339-386.pdf)
+12: [Katz, Amrom H., _Contributions to the theory and mechanics of photo-interpretation from vertical and oblique photographs._ PHOTOGRAMMETRIC ENGINEERING, June 1950, p351. © 1950 American Society for Photogrammetry and Remote Sensing](https://www.asprs.org/wp-content/uploads/pers/1950journal/jun/1950_jun_339-386.pdf)
 
-13: [Katz, Amrom H., _Contributions to the theory and mechanics of photo-interpretation from vertical and oblique photographs._ PHOTOGRAMMETRIC ENGINEERING, June 1950, p351.](https://www.asprs.org/wp-content/uploads/pers/1950journal/jun/1950_jun_339-386.pdf)
+13: [Katz, Amrom H., _Contributions to the theory and mechanics of photo-interpretation from vertical and oblique photographs._ PHOTOGRAMMETRIC ENGINEERING, June 1950, p351. © 1950 American Society for Photogrammetry and Remote Sensing](https://www.asprs.org/wp-content/uploads/pers/1950journal/jun/1950_jun_339-386.pdf)
 
-14: [Katz, Amrom H., _Some Notes on the History of Aerial Reconnaissance._ Santa Monica, CA: RAND Corporation, 1966.](https://www.rand.org/pubs/papers/P3310.html). Also available in print form.
+14: [Thad Jones, _Interpretation Of Military Installations From Aerial Photographs_ PHOTOGRAMMETRIC ENGINEERING, Vol. 14 No.4, December 1948 pp.502-503 © 1948 American Society for Photogrammetry and Remote Sensing](https://www.asprs.org/wp-content/uploads/pers/1948journal/dec/1948_dec_496-506.pdf)
 
-15: [Katz, Amrom H., _Contributions to the theory and mechanics of photo-interpretation from vertical and oblique photographs._ PHOTOGRAMMETRIC ENGINEERING, June 1950, p355.](https://www.asprs.org/wp-content/uploads/pers/1950journal/jun/1950_jun_339-386.pdf)
+15: [Katz, Amrom H., _Contributions to the theory and mechanics of photo-interpretation from vertical and oblique photographs._ PHOTOGRAMMETRIC ENGINEERING, June 1950, p355. © 1950 American Society for Photogrammetry and Remote Sensing](https://www.asprs.org/wp-content/uploads/pers/1950journal/jun/1950_jun_339-386.pdf)
 
-16: [Thad Jones, _Interpretation Of Military Installations From Aerial Photographs_ Jones Photogrammetric Engineering & Remote Sensing Vol. 14 No.4 December 1948 pp.496-506 © 1948 American Society for Photogrammetry and Remote Sensing](https://www.asprs.org/wp-content/uploads/pers/1948journal/dec/1948_dec_496-506.pdf)
+16: [Thad Jones, _Interpretation Of Military Installations From Aerial Photographs_ PHOTOGRAMMETRIC ENGINEERING, Vol. 14 No.4, December 1948 pp.496-506 © 1948 American Society for Photogrammetry and Remote Sensing](https://www.asprs.org/wp-content/uploads/pers/1948journal/dec/1948_dec_496-506.pdf)
 
-17: [Katz, Amrom H., _Contributions to the theory and mechanics of photo-interpretation from vertical and oblique photographs._ PHOTOGRAMMETRIC ENGINEERING, June 1950, p350.](https://www.asprs.org/wp-content/uploads/pers/1950journal/jun/1950_jun_339-386.pdf)
+17: [Katz, Amrom H., _Contributions to the theory and mechanics of photo-interpretation from vertical and oblique photographs._ PHOTOGRAMMETRIC ENGINEERING, June 1950, p350. © 1950 American Society for Photogrammetry and Remote Sensing](https://www.asprs.org/wp-content/uploads/pers/1950journal/jun/1950_jun_339-386.pdf)
