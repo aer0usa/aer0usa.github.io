@@ -223,36 +223,42 @@ I also wish to thank the Smithsonian Air and Space Museum for their permission t
 
 -----
 
-1: [Katz, Amrom H., _Contributions to the theory and mechanics of photo-interpretation from vertical and oblique photographs._ PHOTOGRAMMETRIC ENGINEERING, June 1950. © 1950 American Society for Photogrammetry and Remote Sensing](https://www.asprs.org/wp-content/uploads/pers/1950journal/jun/1950_jun_339-386.pdf)
+1: Katz, Amrom H., _Contributions to the theory and mechanics of photo-interpretation from vertical and oblique photographs._ PHOTOGRAMMETRIC ENGINEERING, June 1950. © 1950 American Society for Photogrammetry and Remote Sensing  
+https://www.asprs.org/wp-content/uploads/pers/1950journal/jun/1950_jun_339-386.pdf
 
-2: [Katz, Amrom H., _Contributions to the theory and mechanics of photo-interpretation from vertical and oblique photographs._ PHOTOGRAMMETRIC ENGINEERING, June 1950, p347. © 1950 American Society for Photogrammetry and Remote Sensing](https://www.asprs.org/wp-content/uploads/pers/1950journal/jun/1950_jun_339-386.pdf)
+2: Katz, Amrom H., _Contributions to the theory and mechanics of photo-interpretation from vertical and oblique photographs._ PHOTOGRAMMETRIC ENGINEERING, June 1950, p347. © 1950 American Society for Photogrammetry and Remote Sensing
 
-3: [Katz, Amrom H., _Contributions to the theory and mechanics of photo-interpretation from vertical and oblique photographs._ PHOTOGRAMMETRIC ENGINEERING, June 1950, p348. © 1950 American Society for Photogrammetry and Remote Sensing](https://www.asprs.org/wp-content/uploads/pers/1950journal/jun/1950_jun_339-386.pdf)
+3: Katz, Amrom H., _Contributions to the theory and mechanics of photo-interpretation from vertical and oblique photographs._ PHOTOGRAMMETRIC ENGINEERING, June 1950, p348. © 1950 American Society for Photogrammetry and Remote Sensing
 
-4: Air Recce: [https://web.archive.org/web/20120525063736/http://www.airrecce.co.uk/WW2/recce_ac/USAR.html](https://web.archive.org/web/20120525063736/http://www.airrecce.co.uk/WW2/recce_ac/USAR.html)
+4: Air Recce:  
+https://web.archive.org/web/20120525063736/http://www.airrecce.co.uk/WW2/recce_ac/USAR.html
 
-5: [https://www.lockheedmartin.com/en-us/news/features/history/p-38.html](https://www.lockheedmartin.com/en-us/news/features/history/p-38.html)
+5: https://www.lockheedmartin.com/en-us/news/features/history/p-38.html
 
-6: [Katz, Amrom H., _Contributions to the theory and mechanics of photo-interpretation from vertical and oblique photographs._ PHOTOGRAMMETRIC ENGINEERING, June 1950, p350. © 1950 American Society for Photogrammetry and Remote Sensing](https://www.asprs.org/wp-content/uploads/pers/1950journal/jun/1950_jun_339-386.pdf)
+6: Katz, Amrom H., _Contributions to the theory and mechanics of photo-interpretation from vertical and oblique photographs._ PHOTOGRAMMETRIC ENGINEERING, June 1950, p350. © 1950 American Society for Photogrammetry and Remote Sensing
 
-7: [Katz, Amrom H., _Contributions to the theory and mechanics of photo-interpretation from vertical and oblique photographs._ PHOTOGRAMMETRIC ENGINEERING, June 1950, pp377-382. © 1950 American Society for Photogrammetry and Remote Sensing](https://www.asprs.org/wp-content/uploads/pers/1950journal/jun/1950_jun_339-386.pdf)
+7: Katz, Amrom H., _Contributions to the theory and mechanics of photo-interpretation from vertical and oblique photographs._ PHOTOGRAMMETRIC ENGINEERING, June 1950, pp377-382. © 1950 American Society for Photogrammetry and Remote Sensing
 
-8: [Calculator, Graphic, Oblique, Aerial Type A-1, Prototype, with 18 Transectors](https://www.si.edu/object/calculator-graphic-oblique-aerial-type-1-prototype-18-transectors:nasm_A19930313000)
+8: Calculator, Graphic, Oblique, Aerial Type A-1, Prototype, with 18 Transectors  
+https://www.si.edu/object/calculator-graphic-oblique-aerial-type-1-prototype-18-transectors:nasm_A19930313000
 
-9: [Katz, Amrom H., _Contributions to the theory and mechanics of photo-interpretation from vertical and oblique photographs._ PHOTOGRAMMETRIC ENGINEERING, June 1950, p349, 385. © 1950 American Society for Photogrammetry and Remote Sensing](https://www.asprs.org/wp-content/uploads/pers/1950journal/jun/1950_jun_339-386.pdf)
+9: Katz, Amrom H., _Contributions to the theory and mechanics of photo-interpretation from vertical and oblique photographs._ PHOTOGRAMMETRIC ENGINEERING, June 1950, p349, 385. © 1950 American Society for Photogrammetry and Remote Sensing
 
-10: [K-42 “Boston Camera”](https://en.wikipedia.org/wiki/Boston_Camera)
+10: K-42 “Boston Camera”:  
+https://en.wikipedia.org/wiki/Boston_Camera
 
-11: [The CIA and the U-2 Program, 1954-1974, pages 54 & 55, “C camera”](https://www.cia.gov/static/37e56c57ddf41f9c85f357a04900e1e8/CIA-and-U2-Program.pdf).
+11: The CIA and the U-2 Program, 1954-1974, pages 54 & 55, “C camera”:  
+https://www.cia.gov/static/37e56c57ddf41f9c85f357a04900e1e8/CIA-and-U2-Program.pdf
 
-12: [Katz, Amrom H., _Contributions to the theory and mechanics of photo-interpretation from vertical and oblique photographs._ PHOTOGRAMMETRIC ENGINEERING, June 1950, p351. © 1950 American Society for Photogrammetry and Remote Sensing](https://www.asprs.org/wp-content/uploads/pers/1950journal/jun/1950_jun_339-386.pdf)
+12: Katz, Amrom H., _Contributions to the theory and mechanics of photo-interpretation from vertical and oblique photographs._ PHOTOGRAMMETRIC ENGINEERING, June 1950, p351. © 1950 American Society for Photogrammetry and Remote Sensing
 
-13: [Katz, Amrom H., _Contributions to the theory and mechanics of photo-interpretation from vertical and oblique photographs._ PHOTOGRAMMETRIC ENGINEERING, June 1950, p351. © 1950 American Society for Photogrammetry and Remote Sensing](https://www.asprs.org/wp-content/uploads/pers/1950journal/jun/1950_jun_339-386.pdf)
+13: Katz, Amrom H., _Contributions to the theory and mechanics of photo-interpretation from vertical and oblique photographs._ PHOTOGRAMMETRIC ENGINEERING, June 1950, p351. © 1950 American Society for Photogrammetry and Remote Sensing
 
-14: [Thad Jones, _Interpretation Of Military Installations From Aerial Photographs_ PHOTOGRAMMETRIC ENGINEERING, Vol. 14 No.4, December 1948 pp.502-503 © 1948 American Society for Photogrammetry and Remote Sensing](https://www.asprs.org/wp-content/uploads/pers/1948journal/dec/1948_dec_496-506.pdf)
+14: Thad Jones, _Interpretation Of Military Installations From Aerial Photographs_ PHOTOGRAMMETRIC ENGINEERING, Vol. 14 No.4, December 1948 pp.502-503 © 1948 American Society for Photogrammetry and Remote Sensing  
+https://www.asprs.org/wp-content/uploads/pers/1948journal/dec/1948_dec_496-506.pdf
 
-15: [Katz, Amrom H., _Contributions to the theory and mechanics of photo-interpretation from vertical and oblique photographs._ PHOTOGRAMMETRIC ENGINEERING, June 1950, p355. © 1950 American Society for Photogrammetry and Remote Sensing](https://www.asprs.org/wp-content/uploads/pers/1950journal/jun/1950_jun_339-386.pdf)
+15: Katz, Amrom H., _Contributions to the theory and mechanics of photo-interpretation from vertical and oblique photographs._ PHOTOGRAMMETRIC ENGINEERING, June 1950, p355. © 1950 American Society for Photogrammetry and Remote Sensing
 
-16: [Thad Jones, _Interpretation Of Military Installations From Aerial Photographs_ PHOTOGRAMMETRIC ENGINEERING, Vol. 14 No.4, December 1948 pp.496-506 © 1948 American Society for Photogrammetry and Remote Sensing](https://www.asprs.org/wp-content/uploads/pers/1948journal/dec/1948_dec_496-506.pdf)
+16: Thad Jones, _Interpretation Of Military Installations From Aerial Photographs_ PHOTOGRAMMETRIC ENGINEERING, Vol. 14 No.4, December 1948 pp.496-506 © 1948 American Society for Photogrammetry and Remote Sensing
 
-17: [Katz, Amrom H., _Contributions to the theory and mechanics of photo-interpretation from vertical and oblique photographs._ PHOTOGRAMMETRIC ENGINEERING, June 1950, p350. © 1950 American Society for Photogrammetry and Remote Sensing](https://www.asprs.org/wp-content/uploads/pers/1950journal/jun/1950_jun_339-386.pdf)
+17: Katz, Amrom H., _Contributions to the theory and mechanics of photo-interpretation from vertical and oblique photographs._ PHOTOGRAMMETRIC ENGINEERING, June 1950, p350. © 1950 American Society for Photogrammetry and Remote Sensing
