@@ -108,6 +108,8 @@ The Pickett Model 520/700 has gauge marks for what are probably common focal len
 
 ## Ground Speed
 
+The Ground Speed scale is used to calculate image speed and cycling time. See “Other Functions” below.
+
 The Ground Speed scale reads up to 1,000 MPH / Knots.
 I didn't find any aircraft likely to be used for aerial reconnaissance around 1950 with such a high top speed.
 It is my guess that 1,000 MPH was a “nice, round figure” that allowed for future developments.
@@ -118,14 +120,14 @@ There are scales on the rule to calculate “image speed” arising from forward
 After aligning the MPH mark with the Representative Fraction, setting the cursor to the “Ground Speed” will show the image speed in Inches Per Second.
 
 The manual also discusses functions valuable for **planning** aerial reconnaissance flights.
-The Aerial Photo rule can be used to determine how many exposures are required to survey a given area, the required altitude to photograph an object of a given ground size at a desired image size, and a minimum altitude given a flight speed and requirement for 60% image overlap on a given size of film.
+The Aerial Photo rule can be used to calculate cycling time between exposures, how many exposures are required to survey a given area, the required altitude to photograph an object of a given ground size at a desired image size, and a minimum altitude given a flight speed and requirement for 60% image overlap on a given size of film.
 A 60% overlap in adjacent photos produces stereoscopic aerial views.
+
+**[FIGURE 3: Kit, Photo Interpretation, Felsenthal, Type BS 9A, partial, Smithsonian Air and Space Museum, Photographer: Carl J. Bobrow]**
 
 This Photo Interpretation Kit includes a Pickett 52T Type-A1 Aerial Photography Slide Rule, two different Magnifying Stereoscopes, and Proportional Dividers:
 [Kit, Photo Interpretation, Felsenthal, Type BS-9A, partial](https://www.si.edu/object/kit-photo-interpretation-felsenthal-type-bs-9a-partial:nasm_A19771915000)
 The 52T varies from the Model 520 / 700 by including a “Ground Size Meters” scale in addition to the Ground Size Feet scale.
-
-**[FIGURE 3: Kit, Photo Interpretation, Felsenthal, Type BS 9A, partial, Smithsonian Air and Space Museum, Photographer: Carl J. Bobrow]**
 
 ## Rule Orientation
 
