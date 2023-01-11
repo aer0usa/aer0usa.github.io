@@ -21,7 +21,7 @@ Interestingly, it also refers the reader to an article written by Katz in **Phot
 I liked the Model 700 so much that I found and purchased its big brother, the Model 520, also from Ebay.
 This rule came with its cardboard box, leather case, and original manual.
 
-As I searched for more information about these Aerial Photo Slide Rules, I stumbled upon Nathan Zeldes’ article [“A Calculator Hidden in a book”](https://www.nzeldes.com/HOC/Cornell.htm) about a different device designed to solve a similar problem.
+As I searched for more information about these Aerial Photo Slide Rules, I stumbled upon Nathan Zeldes’ article “A Calculator Hidden in a book” [^2] about a different device designed to solve a similar problem.
 Nathan’s curiosity and exploration of the Cornell “How Many?” device, along with his mention of the Pickett Model 700, inspired me to research further and to consider writing an article of my own.
 
 It took me a while to find it, but I did eventually find Katz’s article in **Photogrammetric Engineering**.
@@ -43,10 +43,10 @@ The R.A.F. had published a set of tables of Representative Fractions, image size
 First, the Photo-interpreter had to calculate the Representative Fraction manually, then look up the image and ground object sizes in the tables.
 These tables had many thousands of entries (maybe millions?), and were cumbersome.
 
-Before designing the Aerial Photo Slide Rule, Katz constructed a nomograph to help solve Representative Fractions, but he soon found that “even a nomograph is somewhat clumsy to use” [^2], so he constructed an experimental Aerial Photo Slide Rule.
+Before designing the Aerial Photo Slide Rule, Katz constructed a nomograph to help solve Representative Fractions, but he soon found that “even a nomograph is somewhat clumsy to use” [^3], so he constructed an experimental Aerial Photo Slide Rule.
 
 The article shows photos of an early version of the Aerial Photo Slide Rule, constructed from “inexpensive vinyl plastic”.
-(reference} [^3])
+(reference} [^4])
 Its Altitude scale only goes up to 60,000 feet, and its Focal Length scale only to 100 inches.
 Otherwise, its design is similar to the finished product that appears on the Pickett Aerial Photo Slide Rule.
  
@@ -70,11 +70,11 @@ I found one photo taken from a V-2, but no evidence that they were commonly used
 What about a balloon?
 I found information about a “Project Genetrix”, but it seems the maximum altitude for that project was about 100,000’.
 
-I found an interesting web site called **Air Recce** [^4] that shares information about Aerial Reconnaissance as it was done during World War II.
+I found an interesting web site called **Air Recce** [^5] that shares information about Aerial Reconnaissance as it was done during World War II.
 This was exactly what I needed.
 
 Air Recce and Wikipedia both seem to show that the aircraft used most for Aerial Reconnaissance during and just after World War II were versions of the North American P-51 Mustang known as the F-6, and the Lockheed P-38 Lightning known as the F-4 and F-5.
-The F-4 and F-5, “...as a reconnaissance aircraft, obtained 90 percent of the aerial film captured over Europe”. [^5]
+The F-4 and F-5, “...as a reconnaissance aircraft, obtained 90 percent of the aerial film captured over Europe”. [^6]
 Both of these aircraft could fly over 40,000 feet.
 Many of the examples in the Model 520/700 manual use an altitude of 30,000 - 40,000 feet, so it seems likely this is what Katz had in mind.
 
@@ -85,14 +85,14 @@ The RB-36D becomes important in the discussion about Aerial Reconnaissance camer
 I seemed no closer to finding the answer to my question: why a maximum of 250,000 feet?
 
 I finally found the answer in Katz’s article in **Photogrammetric Engineering**:
-“...to permit the use of this slide rule in _oblique photography_ computations”. [^6] (emphasis mine)
+“...to permit the use of this slide rule in _oblique photography_ computations”. [^7] (emphasis mine)
 
 The Model 520/700 manual states that “the problems associated with oblique photography are much more difficult than the corresponding problems in vertical photography” and that “This slide rule can be used in conjunction with other aids for oblique photography; these are now under development…”.
 
 Katz’s article in **Photogrammetric Engineering** discusses these “other aids”.
-[^7]
-The Smithsonian National Air and Space Museum has a prototype, dated 1949, donated by Katz:
 [^8]
+The Smithsonian National Air and Space Museum has a prototype, dated 1949, donated by Katz:
+[^9]
 
 ![FIGURE 2: Calculator, Graphic, Oblique, Aerial Type A-1, Prototype, with 18 Transectors, Smithsonian Air and Space Museum, Photographer: Carl J. Bobrow](./Images/A19930313000cp01.jpg)
 **[FIGURE 2: Calculator, Graphic, Oblique, Aerial Type A-1, Prototype, with 18 Transectors, Smithsonian Air and Space Museum, Photographer: Carl J. Bobrow]**
@@ -102,14 +102,14 @@ The Smithsonian National Air and Space Museum has a prototype, dated 1949, donat
 “Why a maximum focal length of 240 inches?”
 I found the answer to this question as I was researching likely aircraft.
 In his article, Katz mentions the K-24 and other cameras with a focal length from 24 to 36 inches.
-These were often carried by the F-5 and F-6, and Katz refers to them in examples in his article. [^9]
+These were often carried by the F-5 and F-6, and Katz refers to them in examples in his article. [^10]
 
 However, while reading about the RB-36D, I read that it could be equipped with something called the “Boston Camera”.
 The Boston Camera had a focal length of 240 inches, and:
-“a photo interpreter could detect a golf ball from an altitude of 45,000 feet (14,000 m)” [^10]
+“a photo interpreter could detect a golf ball from an altitude of 45,000 feet (14,000 m)” [^11]
 
 The Boston Camera was not manufactured until 1951, and was used sparingly.
-The Boston Camera may not have been used frequently because it was sensitive to aircraft vibration. [^11]
+The Boston Camera may not have been used frequently because it was sensitive to aircraft vibration. [^12]
 Cameras with 24- to 36-inch focal lengths were much more common.
 
 The Pickett Model 520/700 has gauge marks for what are probably common focal lengths: 24”, 36”, 48”, 72”, 96”, and 144”.
@@ -134,8 +134,7 @@ A 60% overlap in adjacent photos produces stereoscopic aerial views.
 ![FIGURE 3: Kit, Photo Interpretation, Felsenthal, Type BS 9A, partial, Smithsonian Air and Space Museum, Photographer: Carl J. Bobrow](./Images/NASM-A19771915000cp08.jpg)
 **[FIGURE 3: Kit, Photo Interpretation, Felsenthal, Type BS 9A, partial, Smithsonian Air and Space Museum, Photographer: Carl J. Bobrow]**
 
-This Photo Interpretation Kit includes a Pickett 52T Type-A1 Aerial Photography Slide Rule, two different Magnifying Stereoscopes, and Proportional Dividers:
-[Kit, Photo Interpretation, Felsenthal, Type BS-9A, partial](https://www.si.edu/object/kit-photo-interpretation-felsenthal-type-bs-9a-partial:nasm_A19771915000)
+This Photo Interpretation Kit includes a Pickett 52T Type-A1 Aerial Photography Slide Rule, two different Magnifying Stereoscopes, and Proportional Dividers. [^13]
 The 52T varies from the Model 520 / 700 by including a “Ground Size Meters” scale in addition to the Ground Size Feet scale.
 
 **Rule Orientation**
@@ -158,28 +157,28 @@ I wondered about whether the calculations done with the rule would be precise an
 Katz addresses the question of Precision and Accuracy in his article in PHOTOGRAMMETRIC ENGINEERING:
 
 > Briefly stated, precision refers to the reproducibility of the measurement operation, whereas accuracy refers to the essential truth of the measurement, i.e. its nearness to the true value.  
-[^12]
+[^14]
 
 > It is a serious and pernicious fallacy to believe that because computations are made with a modern electric calculator, "answers" can be written down embodying all the figures cast up by the machinations of the calculator.  
-[^13]
+[^15]
 
 Katz expands on this in some of his other articles.
 
 First, the photo interpreter does not need to find the dimensions of a ground object down to fractions of an inch.
 The question is one of whether the object on the ground is a foxhole, a missile launch site, or an airfield, for example.
 From Some Notes on the History of Aerial Reconnaissance
-[^14]
+[^16]
 
 Second, there are other sources of error in the process of obtaining the aerial photographs.
 These sources include whether the film lies flat in the camera, the motion of the shutter with respect to the airplane's path, errors in measurement of the airplane’s altitude, errors in the stated focal length of the camera, and whether the photo is actually vertical.
 Katz states that these errors can be as much as 10%, whereas the “Ground Size” scale can be read within 0.1% on the 10” rule.
 So, the Aerial Photography rule provides plenty of accuracy for the job at hand.
-Katz, PHOTOGRAMMETRIC ENGINEERING, 1950. page 355 [^15]
+Katz, PHOTOGRAMMETRIC ENGINEERING, 1950. page 355 [^17]
 
 It is interesting to note that once the enemy became aware of aerial photography, he would camouflage the sites to hide what was there.
 However, the photo interpreter would make educated guesses based on the size of the camouflaged area, combined with other sources of intelligence.
 Interpretation Of Military Installations From Aerial Photographs, Jones, p. 498
-[^16]
+[^18]
 
 **Rear of the Rule**
 
@@ -189,7 +188,7 @@ Interpretation Of Military Installations From Aerial Photographs, Jones, p. 498
 Katz made a recommendation about what scales should be on the “Rear” of the Aerial Photography rule.
 
 > The reverse side of the rule will be a newly arranged standard 10 inch rule, having the normal, folded and inverted scales (C, D, CF, DF, DIF, DI), the square and cube scales (A & K), the sine and tangent scales (S & T), and the log scale (L).
-[^17]
+[^19]
 
 Pickett’s selection of scales for the “Rear” of the Model 520/700 is close to Katz’s recommendation: 
 **L, A, DF | CF, CIF, T, S, C | D, DI, K**
@@ -206,7 +205,7 @@ I was also curious about the inclusion of the CIF scale rather than the more-com
 Certainly the CIF scale can be used in the same way as CI, but I would like to know more about this choice.
 
 I found some insight into these scale selections while perusing Pickett Slide Rule catalogs on the International Slide Rule Museum.
-The 1954 [Pickett All-Metal Slide Rules Catalog 164-A](https://sliderulemuseum.com/Manuals/Pickett_Catalog_1954.pdf) includes not only the Model 520 and 700 “U.S.A.F. AERIAL PHOTO SLIDE RULES”, but also a Model 706-S.
+The 1954 Pickett All-Metal Slide Rules Catalog 164-A [^20] includes not only the Model 520 and 700 “U.S.A.F. AERIAL PHOTO SLIDE RULES”, but also a Model 706-S.
 
 The Model 706-S is a rule with the same scale set as the “rear” of the Model 700, and the other side is blank.
 The 164-A catalog calls the scale set a “_complete_ Trig Scale arrangement all on one side of the rule - available only on Pickett Pocket Rules”.
@@ -242,39 +241,45 @@ I also wish to thank the Smithsonian Air and Space Museum for their permission t
 1: Katz, Amrom H., _Contributions to the theory and mechanics of photo-interpretation from vertical and oblique photographs._ PHOTOGRAMMETRIC ENGINEERING, June 1950. © 1950 American Society for Photogrammetry and Remote Sensing  
 https://www.asprs.org/wp-content/uploads/pers/1950journal/jun/1950_jun_339-386.pdf
 
-2: Katz, Amrom H., _Contributions to the theory and mechanics of photo-interpretation from vertical and oblique photographs._ PHOTOGRAMMETRIC ENGINEERING, June 1950, p347. © 1950 American Society for Photogrammetry and Remote Sensing
+2: Nathan Zeldes, _A Calculator Hidden in a Book_ https://www.nzeldes.com/HOC/Cornell.htm
 
-3: Katz, Amrom H., _Contributions to the theory and mechanics of photo-interpretation from vertical and oblique photographs._ PHOTOGRAMMETRIC ENGINEERING, June 1950, p348. © 1950 American Society for Photogrammetry and Remote Sensing
+3: Katz, Amrom H., _Contributions to the theory and mechanics of photo-interpretation from vertical and oblique photographs._ PHOTOGRAMMETRIC ENGINEERING, June 1950, p347. © 1950 American Society for Photogrammetry and Remote Sensing
 
-4: Air Recce:  
+4: Katz, Amrom H., _Contributions to the theory and mechanics of photo-interpretation from vertical and oblique photographs._ PHOTOGRAMMETRIC ENGINEERING, June 1950, p348. © 1950 American Society for Photogrammetry and Remote Sensing
+
+5: Air Recce:  
 https://web.archive.org/web/20120525063736/http://www.airrecce.co.uk/WW2/recce_ac/USAR.html
 
-5: https://www.lockheedmartin.com/en-us/news/features/history/p-38.html
+6: https://www.lockheedmartin.com/en-us/news/features/history/p-38.html
 
-6: Katz, Amrom H., _Contributions to the theory and mechanics of photo-interpretation from vertical and oblique photographs._ PHOTOGRAMMETRIC ENGINEERING, June 1950, p350. © 1950 American Society for Photogrammetry and Remote Sensing
+7: Katz, Amrom H., _Contributions to the theory and mechanics of photo-interpretation from vertical and oblique photographs._ PHOTOGRAMMETRIC ENGINEERING, June 1950, p350. © 1950 American Society for Photogrammetry and Remote Sensing
 
-7: Katz, Amrom H., _Contributions to the theory and mechanics of photo-interpretation from vertical and oblique photographs._ PHOTOGRAMMETRIC ENGINEERING, June 1950, pp377-382. © 1950 American Society for Photogrammetry and Remote Sensing
+8: Katz, Amrom H., _Contributions to the theory and mechanics of photo-interpretation from vertical and oblique photographs._ PHOTOGRAMMETRIC ENGINEERING, June 1950, pp377-382. © 1950 American Society for Photogrammetry and Remote Sensing
 
-8: Calculator, Graphic, Oblique, Aerial Type A-1, Prototype, with 18 Transectors  
+9: Calculator, Graphic, Oblique, Aerial Type A-1, Prototype, with 18 Transectors  
 https://www.si.edu/object/calculator-graphic-oblique-aerial-type-1-prototype-18-transectors:nasm_A19930313000
 
-9: Katz, Amrom H., _Contributions to the theory and mechanics of photo-interpretation from vertical and oblique photographs._ PHOTOGRAMMETRIC ENGINEERING, June 1950, p349, 385. © 1950 American Society for Photogrammetry and Remote Sensing
+10: Katz, Amrom H., _Contributions to the theory and mechanics of photo-interpretation from vertical and oblique photographs._ PHOTOGRAMMETRIC ENGINEERING, June 1950, p349, 385. © 1950 American Society for Photogrammetry and Remote Sensing
 
-10: K-42 “Boston Camera”:  
+11: K-42 “Boston Camera”:  
 https://en.wikipedia.org/wiki/Boston_Camera
 
-11: The CIA and the U-2 Program, 1954-1974, pages 54 & 55, “C camera”:  
+12: The CIA and the U-2 Program, 1954-1974, pages 54 & 55, “C camera”:  
 https://www.cia.gov/static/37e56c57ddf41f9c85f357a04900e1e8/CIA-and-U2-Program.pdf
 
-12: Katz, Amrom H., _Contributions to the theory and mechanics of photo-interpretation from vertical and oblique photographs._ PHOTOGRAMMETRIC ENGINEERING, June 1950, p351. © 1950 American Society for Photogrammetry and Remote Sensing
+13: Kit, Photo Interpretation, Felsenthal, Type BS-9A, partial: https://www.si.edu/object/kit-photo-interpretation-felsenthal-type-bs-9a-partial:nasm_A19771915000
 
-13: Katz, Amrom H., _Contributions to the theory and mechanics of photo-interpretation from vertical and oblique photographs._ PHOTOGRAMMETRIC ENGINEERING, June 1950, p351. © 1950 American Society for Photogrammetry and Remote Sensing
+14: Katz, Amrom H., _Contributions to the theory and mechanics of photo-interpretation from vertical and oblique photographs._ PHOTOGRAMMETRIC ENGINEERING, June 1950, p351. © 1950 American Society for Photogrammetry and Remote Sensing
 
-14: Thad Jones, _Interpretation Of Military Installations From Aerial Photographs_ PHOTOGRAMMETRIC ENGINEERING, Vol. 14 No.4, December 1948 pp.502-503 © 1948 American Society for Photogrammetry and Remote Sensing  
+15: Katz, Amrom H., _Contributions to the theory and mechanics of photo-interpretation from vertical and oblique photographs._ PHOTOGRAMMETRIC ENGINEERING, June 1950, p351. © 1950 American Society for Photogrammetry and Remote Sensing
+
+16: Thad Jones, _Interpretation Of Military Installations From Aerial Photographs_ PHOTOGRAMMETRIC ENGINEERING, Vol. 14 No.4, December 1948 pp.502-503 © 1948 American Society for Photogrammetry and Remote Sensing  
 https://www.asprs.org/wp-content/uploads/pers/1948journal/dec/1948_dec_496-506.pdf
 
-15: Katz, Amrom H., _Contributions to the theory and mechanics of photo-interpretation from vertical and oblique photographs._ PHOTOGRAMMETRIC ENGINEERING, June 1950, p355. © 1950 American Society for Photogrammetry and Remote Sensing
+17: Katz, Amrom H., _Contributions to the theory and mechanics of photo-interpretation from vertical and oblique photographs._ PHOTOGRAMMETRIC ENGINEERING, June 1950, p355. © 1950 American Society for Photogrammetry and Remote Sensing
 
-16: Thad Jones, _Interpretation Of Military Installations From Aerial Photographs_ PHOTOGRAMMETRIC ENGINEERING, Vol. 14 No.4, December 1948 pp.496-506 © 1948 American Society for Photogrammetry and Remote Sensing
+18: Thad Jones, _Interpretation Of Military Installations From Aerial Photographs_ PHOTOGRAMMETRIC ENGINEERING, Vol. 14 No.4, December 1948 pp.496-506 © 1948 American Society for Photogrammetry and Remote Sensing
 
-17: Katz, Amrom H., _Contributions to the theory and mechanics of photo-interpretation from vertical and oblique photographs._ PHOTOGRAMMETRIC ENGINEERING, June 1950, p350. © 1950 American Society for Photogrammetry and Remote Sensing
+19: Katz, Amrom H., _Contributions to the theory and mechanics of photo-interpretation from vertical and oblique photographs._ PHOTOGRAMMETRIC ENGINEERING, June 1950, p350. © 1950 American Society for Photogrammetry and Remote Sensing
+
+20: Pickett All-Metal Slide Rules Catalog 164-A: https://sliderulemuseum.com/Manuals/Pickett_Catalog_1954.pdf
