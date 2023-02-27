@@ -25,11 +25,12 @@ In Order of Acquisition
 * [Pickett Model 600](#pickett600)
 * [Pickett Model 1000 Ortho-Phase Duplex](#pickett1000)
 * [Pickett Model 1006 Duplex Trig](#pickett1006)
+* [Radiac Calculator No. 1](#radiac1)
+* [Pickett Model 400 Business Rule](#pickett400)
 
 ## Wish List
 
 * [Pickett Model 100 “Douglas Sky Rule”](#pickett100)
-* [Pickett Model 400 Business Rule](#pickett400)
 * [Concise Model 270](#concise270)
 * [Concise Model 300](#concise300)
 
@@ -803,6 +804,61 @@ I mentioned all of this to Lys, and she looked on Ebay and found a lot of two sl
 [Return to Top](#top)
 
 ---
+<a name="radiac1"></a>
+## Radiac Calculator No. 1
+
+![Radiac Calculator No. 1](./images/Radiac-1.jpg)
+
+Lys got me this!
+I really don’t know much about it.
+
+[ISRM says:](https://www.sliderulemuseum.com/Military.htm) “Designed by William Orr (1951), BRL Mod/NSN Nr.:6665-99-911-0060 made for British & Canadian Governments.”
+
+I found the manual on Amazon as a Kindle book.
+
+* Scales:
+	* Front Scales: Dose, Exposure
+	* Back Scales: Yield, Weapon Radius, Single shot Damage Probability, K-Factor Adjustment
+
+[Return to Top](#top)
+
+---
+
+<a name="pickett400"></a>
+## Pickett Model 400 Business Rule
+
+![Pickett Model 400](./images/Pickett-400.jpg)
+
+* Purchased January 30, 2023
+    * Ebay
+    * $27.06 Shipped
+    * Arrived February 2, 2023
+* Manufactured late 1950s
+    * Aluminum
+    * Scales:
+        * Note: Special C% and R% scales for Cost and Retail mark up. DF & D scale labeled as RF & R.
+        * Front Scale (artwork: 43): K, A [ B, CI, C ] D, L
+        * Back Scale: R%, RF [ CF, Unit, Doz(C%), Gross, C ] R, C%, Gross, Doz(R%), Unit
+    * Front of Slide:
+        * “Model 400”
+        * “PICKETT & ECKEL INC. CHICAGO 3, U.S.A.”
+    * Back of Slide:
+        * Logo Style 4
+            * Artwork Mark “43” above logo
+    * Square Stamped Posts
+    * Grooved Convex Lens
+    * Nylon Cursor Bars
+    * No Grooves in Rails for Cursor
+    * Grooved Slide
+    * No Slide Tension Springs
+* Good condition
+* Includes Leather Case with Pocket Clip
+    * Rivets at top of side stitching
+    * Logo Style 3 stamped at top of both sides
+
+[Return to Top](#top)
+
+---
 
 # Wish List
 
@@ -820,24 +876,6 @@ I mentioned all of this to Lys, and she looked on Ebay and found a lot of two sl
 * Scales:
     * Front Scale (A side)(Artwork #56): Dynamic Pres., Temp Rise [ Static Pres., Pres. Alt, Density Alt., C ] D, True Mach. TAIS
     * Back Scale (B side): Impact Pres., Std. Temp., Pres. Alt. [ Temp. Venier, Pres. Alt. ] True Mach No., Dial Airspeed. ] Blank
-
-[Return to Top](#top)
-
----
-
-<a name="pickett400"></a>
-## Pickett Model 400 Business Rule
-
-<div class="caption">
-
-![Pickett Model 400 on ISRM](https://sliderulemuseum.com/Pickett/Pickett_No400_Business_6inch_1945_Magnesium.jpg)
-    Pickett Model 400 on International Slide Rule Museum
-</div>
-
-* Scales:
-    * Note: Special C% and R% scales for Cost and Retail mark up. DF & D scale labeled as RF & R.
-    * Front Scale (artwork: 43): K, A [ B, CI, C ] D, L
-    * Back Scale: R%, RF [ CF, Unit, Doz(C%), Gross, C ] R, C%, Gross, Doz(R%), Unit
 
 [Return to Top](#top)
 
