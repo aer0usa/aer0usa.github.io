@@ -27,14 +27,14 @@ In Order of Acquisition
 * [Pickett Model 1006 Duplex Trig](#pickett1006)
 * [Radiac Calculator No. 1](#radiac1)
 * [Pickett Model 400 Business Rule](#pickett400)
+* [Pickett Model 100 “Douglas Sky Rule”](#pickett100)
 
 ## Wish List
 
-* [Pickett Model 100 “Douglas Sky Rule”](#pickett100)
 * [Concise Model 270](#concise270)
 * [Concise Model 300](#concise300)
 
-All photos ©2022 A. E. Rinehart unless otherwise noted.
+All photos ©2023 A. E. Rinehart unless otherwise noted.
 
 -----
 
@@ -817,8 +817,8 @@ I really don’t know much about it.
 I found the manual on Amazon as a Kindle book.
 
 * Scales:
-	* Front Scales: Dose, Exposure
-	* Back Scales: Yield, Weapon Radius, Single shot Damage Probability, K-Factor Adjustment
+    * Front Scales: Dose, Exposure
+    * Back Scales: Yield, Weapon Radius, Single shot Damage Probability, K-Factor Adjustment
 
 [Return to Top](#top)
 
@@ -860,24 +860,46 @@ I found the manual on Amazon as a Kindle book.
 
 ---
 
-# Wish List
-
----
-
 <a name="pickett100"></a>
 ## Pickett Model 100 “Douglas Sky Rule”
 
-<div class="caption">
+![Pickett Model 100](./images/Pickett-100.jpg)
 
-![Douglas Sky Rule on ISRM](https://sliderulemuseum.com/Pickett/Pickett_100_DouglasSkyRule_SRC21341.jpg)
-    Douglas Sky Rule on International Slide Rule Museum
-</div>
-
+* Lys got me this!
+* Manufactured 1950-1953?
+    * Magnesium
+        * Feels lighter than the Model 200 and 700
+        * Edges corroded and dark
+        * Slide slides unevenly
+        * Cursor difficult to slide
+            * I’m going to try to clean up some of the corrosion along the top and bottom edges.
+    * "Period 2"
+    * Logo Style 3
+    * Grooved Rails
+    * Male Slide
+    * Stamped Aluminum Posts
+        * "Smooth Stamped Posts Contoured to Finger Tip"
+    * Plain Flat Lens
+    * Machined Metal Cursor Bars
+* Includes leather case without pocket clip
+    * Pickett Logo Style 3 embossed on each side
+    * Douglas Sky Rule logo embossed in middle of each side
+    * “Major J. F. Buniowski” written on one side
+* Includes instruction booklet
+    * Smaller than standard Picket instruction book
+    * Folded up and inserted in the leather case along with the rule
+    * Good condition
+    * Written by A. A. Mahoff
 * Scales:
-    * Front Scale (A side)(Artwork #56): Dynamic Pres., Temp Rise [ Static Pres., Pres. Alt, Density Alt., C ] D, True Mach. TAIS
-    * Back Scale (B side): Impact Pres., Std. Temp., Pres. Alt. [ Temp. Venier, Pres. Alt. ] True Mach No., Dial Airspeed. ] Blank
+    * Front Scale (A side)(Artwork #56): Dynamic Pres., Temp Rise [ Static Pres., Pres. Alt, Density Alt., C ] D, True Mach No, T.I.A.S., True Air Speed
+        * Each scale has a numeric label, 1-9, at the right end
+    * Back Scale (B side): Impact Pres., Std. Temp., Pres. Alt. [ Temp. Vernier, Pres. Alt., Conversions, Douglas Sky Rule Logo] True Mach No., Dial Airspeed., Temp. Conv.
 
 [Return to Top](#top)
+
+---
+
+# Wish List
 
 ---
 
