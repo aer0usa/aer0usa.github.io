@@ -29,6 +29,9 @@ Reading this, and other articles Katz wrote for the Rand Corporation, gave me an
 
 **What Is It For?**
 
+![FIGURE 2: Representative Fraction](./Images/Representative-Fraction.png)
+**FIGURE 2: Representative Fraction**
+
 The Aerial Photo Slide Rule was designed primarily to calculate the representative fraction, or scale, of aerial reconnaissance photographs.
 The representative fraction is the ratio of the focal length of the camera to the Altitude from which the photo is taken.
 
@@ -91,8 +94,8 @@ The Model 520/700 manual states that “the problems associated with oblique pho
 Katz’s article in **Photogrammetric Engineering** discusses these “other aids”.[^8]
 The Smithsonian National Air and Space Museum has a prototype, dated 1949, donated by Katz:[^9]
 
-![FIGURE 2: Calculator, Graphic, Oblique, Aerial Type A-1, Prototype, with 18 Transectors, Smithsonian Air and Space Museum, Photographer: Carl J. Bobrow](./Images/A19930313000cp01.jpg)
-**FIGURE 2: Calculator, Graphic, Oblique, Aerial Type A-1, Prototype, with 18 Transectors, Smithsonian Air and Space Museum, Photographer: Carl J. Bobrow**
+![FIGURE 3: Calculator, Graphic, Oblique, Aerial Type A-1, Prototype, with 18 Transectors, Smithsonian Air and Space Museum, Photographer: Carl J. Bobrow](./Images/A19930313000cp01.jpg)
+**FIGURE 3: Calculator, Graphic, Oblique, Aerial Type A-1, Prototype, with 18 Transectors, Smithsonian Air and Space Museum, Photographer: Carl J. Bobrow**
 
 **Focal Length**
 
@@ -125,8 +128,8 @@ After aligning the “M.P.H.” mark with the representative fraction, setting t
 The Aerial Photo rule can be used to calculate cycling time between exposures, how many exposures are required to survey a given area, the required altitude to photograph an object of a given ground size at a desired image size, and a minimum altitude given a flight speed and requirement for sixty percent image overlap on a given size of film.
 A sixty percent overlap in adjacent photos produces stereoscopic aerial views.
 
-![FIGURE 3: Kit, Photo Interpretation, Felsenthal, Type BS 9A, partial, Smithsonian Air and Space Museum, Photographer: Carl J. Bobrow](./Images/NASM-A19771915000cp08.jpg)
-**FIGURE 3: Kit, Photo Interpretation, Felsenthal, Type BS 9A, partial, Smithsonian Air and Space Museum, Photographer: Carl J. Bobrow**
+![FIGURE 4: Kit, Photo Interpretation, Felsenthal, Type BS 9A, partial, Smithsonian Air and Space Museum, Photographer: Carl J. Bobrow](./Images/NASM-A19771915000cp08.jpg)
+**FIGURE 4: Kit, Photo Interpretation, Felsenthal, Type BS 9A, partial, Smithsonian Air and Space Museum, Photographer: Carl J. Bobrow**
 
 This photo interpretation kit includes a Pickett 52T Type-A1 Aerial Photography Slide Rule, two different Magnifying Stereoscopes, and Proportional Dividers.[^13]
 The 52T varies from the Model 520 / 700 by including a “Ground Size Meters” scale in addition to the Ground Size Feet scale.
@@ -142,8 +145,8 @@ Page eight of the manual states, “When the Aerial Photo side of the slide rule
 When the rule is held vertically for Aerial Photo use, in the left hand, palm up, switching to the “rear” of the rule is easy to accomplish by rolling the left wrist to the right, presenting the rear of the rule in its correct orientation.
 I think this is how the rule is meant to be used.
 
-![FIGURE 4: Transition from Front to Rear Scales of the Pickett Model 700](./Images/Figure-4.jpg)
-**FIGURE 4: Transition from Front to Rear Scales of the Pickett Model 700**
+![FIGURE 5: Transition from Front to Rear Scales of the Pickett Model 700](./Images/Figure-4.jpg)
+**FIGURE 5: Transition from Front to Rear Scales of the Pickett Model 700**
 
 **Precision & Accuracy**
 
@@ -172,8 +175,8 @@ Interpretation Of Military Installations From Aerial Photographs, Jones, p. 498[
 
 **Rear of the Rule**
 
-![FIGURE 5: Rear of Pickett Models 520 & 700](./Images/Figure-5.jpg)
-**FIGURE 5: Rear of Pickett Models 520 & 700**
+![FIGURE 6: Rear of Pickett Models 520 & 700](./Images/Figure-5.jpg)
+**FIGURE 6: Rear of Pickett Models 520 & 700**
 
 Katz made a recommendation about what scales should be on the “rear” of the Aerial Photography rule:
 “The reverse side of the rule will be a newly arranged standard 10 inch rule, having the normal, folded and inverted scales (C, D, CF, DF, DIF, DI), the square and cube scales (A & K), the sine and tangent scales (S & T), and the log scale (L).[^19]”
@@ -209,8 +212,8 @@ The scale set on the “rear” of the 520 is the same as that of the 700.
 Another unique feature of the Model 520/700 is the case.
 For each of the rules, its case is the standard leather case for its size, but with a table of equivalents and settings for conversion factors set into a window added to the case.
 
-![FIGURE 6: Closeup of Pickett Model 520 Case](./Images/Figure-6.jpg)
-**FIGURE 6: Closeup of Pickett Model 520 Case**
+![FIGURE 7: Closeup of Pickett Model 520 Case](./Images/Figure-6.jpg)
+**FIGURE 7: Closeup of Pickett Model 520 Case**
 
 **Conclusion**
 
