@@ -5,7 +5,10 @@ Eric Rinehart
 ![FIGURE 1: Pickett Models 520 & 700](./Images/Figure-1.jpg)
 **FIGURE 1: Pickett Models 520 & 700**
 
-As I began to take an interest in slide rules as a hobby, I found a Pickett Model 700 on Ebay.
+As I began to take an interest in slide rules, I was looking at slide rules on Ebay.
+I found a rule called an “Aerial Photography Slide Rule.”
+It was a Pickett Model 700, an aluminum pocket-size slide rule with standard scales on one side.
+On the other side, it had scales with interesting labels like “Altitude”, “Focal Length”, and “Image Size”.
 Its specialized design and purpose piqued my curiosity, so I ordered it.
 
 A few days later, I marveled at the little aluminum jewel in my hands.
