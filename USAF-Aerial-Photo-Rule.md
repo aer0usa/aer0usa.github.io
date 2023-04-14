@@ -5,11 +5,11 @@ Eric Rinehart
 ![FIGURE 1: Pickett Models 520 & 700](./Images/Figure-1.jpg)
 **FIGURE 1: Pickett Models 520 & 700**
 
-As I began to take an interest in slide rules, I was looking at slide rules on Ebay.
-I found a rule called an “Aerial Photography Slide Rule.”
+In 2020, as I began to take an interest in slide rules, I started to look at slide rules on Ebay.
+Before long, I found a rule called an “Aerial Photography Slide Rule.”
 It was a Pickett Model 700, an aluminum pocket-size slide rule with standard scales on one side.
 On the other side, it had scales with interesting labels like “Altitude”, “Focal Length”, and “Image Size”.
-Its specialized design and purpose piqued my curiosity, so I ordered it.
+Its specialized design and apparent purpose piqued my curiosity, so I ordered it.
 
 A few days later, I marveled at the little aluminum jewel in my hands.
 As I studied it, I began to wonder exactly what problems it was designed to solve.
@@ -36,14 +36,14 @@ Reading this, and other articles Katz wrote for the Rand Corporation, gave me an
 **FIGURE 2: Representative Fraction**
 
 The Aerial Photo Slide Rule was designed primarily to calculate the representative fraction, or scale, of aerial reconnaissance photographs.
-The representative fraction is the ratio of the focal length of the camera to the Altitude from which the photo is taken.
+The representative fraction is the ratio of the focal length of the camera to the altitude from which the photo is taken.
 
 One example from the Model 520/700 manual is that of a photograph taken with a camera with 36 inch focal length from an aircraft flown at 30,000 feet altitude.
 The representative fraction for that photograph is 3’:30,000’, or 1:10,000.
 From there, other information about a photograph can be extrapolated, such as the size of objects on the ground, and distances between them.
 
 These problems are just proportions.
-Proportions are right in a slide rules’ wheelhouse.
+Proportions are right in a slide rule’s wheelhouse.
 
 The Royal Air Force had published a set of tables of representative fractions, image sizes, and resulting ground object sizes for aerial photography interpreters.
 First, the Photo-interpreter had to calculate the representative fraction manually, then look up the image and ground object sizes in the tables.
@@ -65,7 +65,7 @@ The first aircraft I thought of were the U-2 and A-12 / SR-71, which were still 
 Even if the aerial reconnaissance rule were designed with those future aircraft in mind, the maximum altitude of the U-2 and SR-71 is 70,000 feet and 85,000 feet respectively, depending on your source of information.
 
 Orbital spy satellites were still several years off in 1950.
-Sputnik did not orbit the Earth until 1957, and its perigee was over 700,000 feet, so the altitude doesn't work either.
+Sputnik did not orbit the Earth until 1957, and the perigee of its orbit was over 700,000 feet, so the altitude doesn't work either.
 
 Maybe a sub-orbital platform launched via rocket?
 The most likely example of this would be the German V-2 rocket.
