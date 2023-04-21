@@ -31,6 +31,8 @@ In Order of Acquisition
 
 ## Wish List
 
+* [Log-Log Rules](#loglogrules)
+* [Misc Rules](#misc)
 * [Concise Model 270](#concise270)
 * [Concise Model 300](#concise300)
 
@@ -903,8 +905,63 @@ I found the manual on Amazon as a Kindle book.
 
 ---
 
+<a name="loglogrules"></a>
+## Log-Log Rules
+
+### Pickett Model 800 and 803
+
+The Pickett [Model 500](#pickett500), Model 800, Model 803, Model 2, Model 3, and [Model 4](#pickettn4) seem to make up a “spectrum” of Log-Log rules.
+I probably don’t need ALL of them in my collection.
+Yet, I am strangely compelled…
+
+Also, an N3P or an N4P would be great, but are harder to come by.
+
+### Aristo Studio 968 and 868
+### Nestler 0130 MultiMath
+### Post Versalog
+### K&E Log-Log Rules
+
+I have lumped the K&E rules together because there are a lot of K&E Log-Log rules, and I am not well-versed in the differences between all of them.
+The 4081-3s seem to be the “classic” K&E Log-Log rules.
+I like the 4181-1 pocket-size Log-Log rules.
+The 68-1100 “Deci-Lon” seems to be the flagship, like the [Pickett N4](#pickettn4).
+
+I would need to study them a bit more before I started shopping for K&Es.
+
+<a name="misc"></a>
+## Misc
+
+### Pickett Model 1010SL
+
+The Pickett Model 1010 is a nice trig rule.
+It appears to be an evolution of the [Model 1000](#pickett1000).
+The 1010SL looks like the model 1010, but with Square Root scales in addition to the A and B scales.
+I don’t think I need a 1000 and a 1010, but the 1010SL is an interesting enough variation that I’d like one.
+
+---
+
+## Circular Slide Rules
+
+<a name="concise300"></a>
+### Concise Model 300
+<div class="caption">
+
+![Concise Model 300 on ISRM](https://sliderulemuseum.com/Concise/XXX_Concise_300.jpg)
+    Concise 300 on International Slide Rule Museum
+</div>
+
+A nice circular Log-Log rule, in Concise’s nice style.
+
+* Scales
+    * Front Scale: K, A, D ( C, CI, B, L )
+    * Back Scale: LL3, LL2, D ( C, S Cos, T1 Cot1, T2 Cot2, ST )
+
+[Return to Top](#top)
+
+---
+
 <a name="concise270"></a>
-## Concise Model 270
+### Concise Model 270
 <div class="caption">
 
 ![Concise 270 on ISRM](https://sliderulemuseum.com/Concise/C32_Lafayette_F-383_Concise_270.jpg)
@@ -914,6 +971,8 @@ I found the manual on Amazon as a Kindle book.
 * Scales:
     * Front Scale: L, D ( C, CI, A, K )
     * Back Scale: DI, D ( S, T1, T2, ST )
+
+---
 
 ### Concise Model 271
 <div class="caption">
@@ -928,18 +987,3 @@ I found the manual on Amazon as a Kindle book.
 
 [Return to Top](#top)
 
----
-
-<a name="concise300"></a>
-## Concise Model 300
-<div class="caption">
-
-![Concise Model 300 on ISRM](https://sliderulemuseum.com/Concise/XXX_Concise_300.jpg)
-    Concise 300 on International Slide Rule Museum
-</div>
-
-* Scales
-    * Front Scale: K, A, D ( C, CI, B, L )
-    * Back Scale: LL3, LL2, D ( C, S Cos, T1 Cot1, T2 Cot2, ST )
-
-[Return to Top](#top)
