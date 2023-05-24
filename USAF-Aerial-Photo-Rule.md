@@ -32,7 +32,7 @@ Reading this, and other articles Katz wrote for the Rand Corporation, gave me an
 
 **What Is It For?**
 
-![FIGURE 2: Representative Fraction](./Images/Representative-Fraction.png)
+![FIGURE 2: Representative Fraction](./Images/Representative-Fraction.jpg)
 **FIGURE 2: Representative Fraction**
 
 The Aerial Photo Slide Rule was designed primarily to calculate the representative fraction, or scale, of aerial reconnaissance photographs.
