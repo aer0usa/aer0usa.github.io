@@ -28,6 +28,7 @@ In Order of Acquisition
 * [Radiac Calculator No. 1](#radiac1)
 * [Pickett Model 400 Business Rule](#pickett400)
 * [Pickett Model 100 “Douglas Sky Rule”](#pickett100)
+* [Aristo 868 Studio](#aristo868)
 
 ## Wish List
 
@@ -46,7 +47,7 @@ All photos ©2023 A. E. Rinehart unless otherwise noted.
 
 ![CTCS-552](./images/Concise-CTCS-552.jpg)
 
-This was in a box of stuff Dad said I could have if I was interested.
+This was in a box of stuff Dad said I could have if I was interested when I was a kid.
 There were also some James Bond novels and a little pocket tool set.
 
 I thought the design of the scales was interesting, with the neat numbers and ticks, and the index indicators on C and D.
@@ -901,6 +902,47 @@ I found the manual on Amazon as a Kindle book.
 
 ---
 
+<a name="aristo868"></a>
+## Aristo 868 Studio
+### [Aristo Page on ISRM](https://www.sliderulemuseum.com/Aristo.htm)
+
+![Aristo Studio Nr. 868](./images/Aristo-868.jpg)
+
+I was browsing Ebay and found this rule at a good price, so I ordered it.
+I like Aristo rules’ design and layout, so this rule is a fun “compare and contrast” to my [Pickett Model 600](#pickett600) and [Aristo 867U Darmstadt](#aristo867u).
+
+* Purchased July 7, 2023
+    * Ebay
+    * $29.78 Shipped
+    * Arrived July 14, 2023
+* Scales:
+    * Front: LL01, LL02, LL03, A [ B, L, K, C ] D, LL3, LL2, LL1
+    * Back: T, ST, DF [ CF, CIF, CI, C ] D, P, S
+* Cursor
+    * Multiple hairlines: PS, KW
+    * The cursor is installed upside-down:
+    The "Aristo" logotype on the cursor bar is upside-down.
+    The "kW" and "HP" marks are over C and D scales instead of A and B scales
+    * Cursor screws covered in some sort of "gunge".
+    That cleaned up with a spudger.
+    * I need to figure out how to remove the cursor so I can clean it and turn it over.
+* Includes Leather Case
+* Manufacturing Code Stamp "6013"
+    * Oughtred Society Journal Article: [DENNERT & PAPE and ARISTO Slide Rules 1872 - 1978](https://osgalleries.org/journal/displayarticle.cgi?match=6.1/V6.1P4.pdf)
+    * 1960, Lot 13
+    * The "13" appears to be double-stamped. The "60" is harder to read.
+    * An Aristo rule manufactured in 1960 ought to have an alphanumeric code, according to the JOS article linked above.
+    Maybe I have read this incorrectly.
+* Good Condition
+    * "Gutmann H." engraved between "75" and "80" marks on S scale.
+    * "GH" engraved on edge of rule opposite Manufacturing Code.
+* Includes Leather Case
+    * Case in Good Condition
+
+[Return to Top](#top)
+
+---
+
 # Wish List
 
 ---
@@ -916,7 +958,11 @@ Yet, I am strangely compelled…
 
 Also, an N3P or an N4P would be great, but are harder to come by.
 
-### Aristo Studio 968 and 868
+### Aristo Studio 968
+
+I enjoy the nice graphic design of Aristo slide rules.
+I also like Aristo’s scale layout, with the trig scales on the body, and the addition of a P scale.
+
 ### Nestler 0130 MultiMath
 ### Post Versalog
 ### K&E Log-Log Rules
