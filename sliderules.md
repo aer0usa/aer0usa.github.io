@@ -29,6 +29,7 @@ In Order of Acquisition
 * [Pickett Model 400 Business Rule](#pickett400)
 * [Pickett Model 100 “Douglas Sky Rule”](#pickett100)
 * [Aristo 868 Studio](#aristo868)
+* [Pickett Model N700 A-2](#pickettN700T)
 
 ## Wish List
 
@@ -921,23 +922,81 @@ I like Aristo rules’ design and layout, so this rule is a fun “compare and c
 * Cursor
     * Multiple hairlines: PS, KW
     * The cursor is installed upside-down:
-    The "Aristo" logotype on the cursor bar is upside-down.
-    The "kW" and "HP" marks are over C and D scales instead of A and B scales
-    * Cursor screws covered in some sort of "gunge".
+    The “Aristo” logotype on the cursor bar is upside-down.
+    The “kW” and “HP” marks are over C and D scales instead of A and B scales
+    * Cursor screws covered in some sort of “gunge”.
     That cleaned up with a spudger.
     * I need to figure out how to remove the cursor so I can clean it and turn it over.
 * Includes Leather Case
-* Manufacturing Code Stamp "6013"
+* Manufacturing Code Stamp “6013”
     * Oughtred Society Journal Article: [DENNERT & PAPE and ARISTO Slide Rules 1872 - 1978](https://osgalleries.org/journal/displayarticle.cgi?match=6.1/V6.1P4.pdf)
     * 1960, Lot 13
-    * The "13" appears to be double-stamped. The "60" is harder to read.
+    * The “13” appears to be double-stamped. The “60” is harder to read.
     * An Aristo rule manufactured in 1960 ought to have an alphanumeric code, according to the JOS article linked above.
     Maybe I have read this incorrectly.
 * Good Condition
-    * "Gutmann H." engraved between "75" and "80" marks on S scale.
-    * "GH" engraved on edge of rule opposite Manufacturing Code.
+    * “Gutmann H.” engraved between “75” and 80 marks on S scale.
+    * “GH” engraved on edge of rule opposite Manufacturing Code.
 * Includes Leather Case
     * Case in Good Condition
+
+[Return to Top](#top)
+
+-----
+
+<a name="pickettN700T"></a>
+## Pickett Model N700-T A-2
+### "U. S. AIR FORCE AERIAL PHOTO SLIDE RULE TYPE A-2"
+### [Pickett Page on ISRM](https://www.sliderulemuseum.com/Pickett.htm)
+
+![Model N700-T A-2](./images/Pickett-700.jpg)
+
+I had been meaning to order one of these “New In Box” Pickett Model N700-T rules from Sphere Research Slide Rule Universe for some time.
+I probably didn't need another Model 700, but the 700 was the lowest-price “New In Box” Pickett at the Slide Rule Universe, and I really like the 700.
+It came to my attention that Sphere Research was planning to close down by the end of the year, so I placed my order.
+
+When it arrived, I was pleased at the excellent condition of the box and its contents.
+The rule was in a plastic sleeve inside its leather case, and there was something sticky sticking the sleeve to the rule.
+I peeled the sleeve off the rule, which left sticky residue on the “Front” of the rule, but not on the back.
+I washed the rule with Dawn dish soap and water, and that removed the residue from the face of the rule and the sliding surfaces.
+Now it is good as new!
+
+I was surprised to see the slide tension springs.
+I have a good assortment of Pickett pocket rules, and none of my others have the tension springs.
+I was beginning to believe that none of Pickett’s pocket rules came with the tension springs, but here they are.
+I have seen pictures on ISRM of Pickett pocket rules with cutouts on the rails that would seem to accommodate tension springs, but I wasn't sure that’s what the cutouts were for.
+Now I know.
+
+I was also glad to see this rule has a “Style 5” logo, since I didn't have any examples of that.
+
+So, I have another Pickett Model 700, and I paid more for it than I usually like to pay for a rule.
+However, with its features and its condition, I’m glad I got it.
+
+* Purchased September 6, 2023
+    * Sphere Research Slide Rule Universe
+    * $75 Shipped
+* [Manual](https://www.sliderulemuseum.com/Manuals/M184_P232_Pickett_USAF_AerialPhoto_M520-700.pdf)
+* Manufactured 1962-1964
+    * Aluminum
+        * Shiny edges, not corroded or dark
+    * Documentation states that Aerial Photo Slide Rule is "Front" and Slide Rule Scales are "Reverse"
+    * Scales:
+        * Front: Ground Size (Feet), Image Size (CM, FT), Focal Length (Inches), Altitude (Feet)
+        * Rear: L, A DF [ CF, CIF, T, S, C ] D, DI, K
+    * Logo Style 5
+        * No Artwork Mark
+    * Stamped Aluminum Contoured Posts
+    * Grooved Convex Lens
+    * Nylon Cursor Bars
+    * No Grooves in Rails for Cursor
+    * Grooved Slide
+    * Slide Tension Springs
+* Includes Case with Conversions and Formulas and Pocket Clip
+    * Pull Tab to remove rule from case
+    * Pull Tab has Style 6 Logo
+* Includes Original Box
+* Includes Instruction Manual
+* New-In-Box condition.
 
 [Return to Top](#top)
 
