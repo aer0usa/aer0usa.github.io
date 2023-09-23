@@ -949,7 +949,7 @@ I like Aristo rules’ design and layout, so this rule is a fun “compare and c
 ### "U. S. AIR FORCE AERIAL PHOTO SLIDE RULE TYPE A-2"
 ### [Pickett Page on ISRM](https://www.sliderulemuseum.com/Pickett.htm)
 
-![Model N700-T A-2](./images/Pickett-700.jpg)
+![Model N700-T A-2](./images/Pickett-N700T.jpg)
 
 I had been meaning to order one of these “New In Box” Pickett Model N700-T rules from Sphere Research Slide Rule Universe for some time.
 I probably didn't need another Model 700, but the 700 was the lowest-price “New In Box” Pickett at the Slide Rule Universe, and I really like the 700.
