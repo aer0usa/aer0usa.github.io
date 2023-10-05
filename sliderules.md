@@ -30,6 +30,7 @@ In Order of Acquisition
 * [Pickett Model 100 “Douglas Sky Rule”](#pickett100)
 * [Aristo 868 Studio](#aristo868)
 * [Pickett Model N700 A-2](#pickettN700T)
+* [Post 1447](#post1447)
 
 ## Wish List
 
@@ -165,7 +166,7 @@ I mentioned all of this to Lys, and she looked on Ebay and found a lot of two sl
 * Purchased June 12, 2020
     * Ebay
     * $32 Shipped
-* [Manual](https://www.sliderulemuseum.com/Manuals/M184_P232_Pickett_USAF_AerialPhoto_M520-700.pdf)
+* [Manual on ISRM](https://www.sliderulemuseum.com/Manuals/M184_P232_Pickett_USAF_AerialPhoto_M520-700.pdf)
     * Working on a better copy: I am performing OCR and Proofreading on [this older version of the manual found on this page](http://sliderule.ozmanor.com/man/man-download.html)
 * [Pickett Metal Slide Rules Chronology](https://osgalleries.org/journal/displayarticle.cgi?match=1.1/V1.1P5.pdf)
 * [Pickett Metal Slide Rules - A Brief Update](https://osgalleries.org/journal/displayarticle.cgi?match=3.2/V3.2P47a.pdf)
@@ -202,7 +203,7 @@ I mentioned all of this to Lys, and she looked on Ebay and found a lot of two sl
 * Purchased June 25, 2020
     * Ebay
     * $48 Shipped
-* [Manual](https://www.sliderulemuseum.com/Manuals/M184_P232_Pickett_USAF_AerialPhoto_M520-700.pdf)
+* [Manual on ISRM](https://www.sliderulemuseum.com/Manuals/M184_P232_Pickett_USAF_AerialPhoto_M520-700.pdf)
 * [Pickett Metal Slide Rules Chronology](https://osgalleries.org/journal/displayarticle.cgi?match=1.1/V1.1P5.pdf)
 * [Pickett Metal Slide Rules - A Brief Update](https://osgalleries.org/journal/displayarticle.cgi?match=3.2/V3.2P47a.pdf)
 * Manufactured 1962 - 1966
@@ -246,7 +247,7 @@ I mentioned all of this to Lys, and she looked on Ebay and found a lot of two sl
     * Ebay
     * $19.25 Shipped
     * Arrived July 12, 2020
-* [Manual](https://www.sliderulemuseum.com/Manuals/ISRM_M316_Aristo_Scholar_0903LL_VS-2_GiftOfEdwardWright.pdf)
+* [Manual on ISRM](https://www.sliderulemuseum.com/Manuals/ISRM_M316_Aristo_Scholar_0903LL_VS-2_GiftOfEdwardWright.pdf)
 * Scales:
     * Front: L, K, A [ B, CI, C ] D, S, ST, T
     * Rear: 25cm [ S, LL2, LL3] 8 inch(bi-directional)
@@ -497,7 +498,7 @@ I mentioned all of this to Lys, and she looked on Ebay and found a lot of two sl
 * [Clark McCoy's K&E N4058W Scans Page](https://www.mccoys-kecatalogs.com/KECollection/4058/keN4058W_2_1.htm)
 * Sent to me accidentally when I ordered the [Pickett Model 200](#pickett200), so the seller let me keep it!
     * Arrived January 18, 2021
-* [Manual](https://www.mccoys-kecatalogs.com/KEManuals/4058-1944/4058manual.pdf)
+* [Manual on Clark McCoy’s Site](https://www.mccoys-kecatalogs.com/KEManuals/4058-1944/4058manual.pdf)
 * Includes leather case
 * Manufactured 1954-1960
     * One-piece clear plastic cursor
@@ -975,7 +976,7 @@ However, with its features and its condition, I’m glad I got it.
 * Purchased September 6, 2023
     * Sphere Research Slide Rule Universe
     * $75 Shipped
-* [Manual](https://www.sliderulemuseum.com/Manuals/M184_P232_Pickett_USAF_AerialPhoto_M520-700.pdf)
+* [Manual on ISRM](https://www.sliderulemuseum.com/Manuals/M184_P232_Pickett_USAF_AerialPhoto_M520-700.pdf)
 * Manufactured 1962-1964
     * Aluminum
         * Shiny edges, not corroded or dark
@@ -997,6 +998,28 @@ However, with its features and its condition, I’m glad I got it.
 * Includes Original Box
 * Includes Instruction Manual
 * New-In-Box condition.
+
+[Return to Top](#top)
+
+---
+
+<a name="post1447"></a>
+## Post 1447
+
+* A gift from Aly on October 3, 2023
+* Manufactured March 1968
+    * Date Code SC
+* [Manual on ISRM](https://www.sliderulemuseum.com/Manuals/M226_Post_SR_Inst_1441-1444-1447-1452.pdf)
+* Scales:
+    * Front: A [ B, CI, C ] D, K
+    * Rear of Slide: [ S, L, T ]
+    * Rear of Body: Equivalents Table, Law of Sines
+    * Same as [K&E N4058W Beginner’s Slide Rule](#ke4058)
+* Excellent condition
+    * Same scales and audience as K&E N4058W, but MUCH nicer!
+    * Smooth operation
+    * Really nice rule!
+* Includes plastic case
 
 [Return to Top](#top)
 
