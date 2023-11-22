@@ -1006,6 +1006,8 @@ However, with its features and its condition, I’m glad I got it.
 <a name="post1447"></a>
 ## Post 1447
 
+![Post 1447](./images/Post-1447.jpg)
+
 * A gift from Aly on October 3, 2023
 * Manufactured March 1968
     * Date Code SC
