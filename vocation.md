@@ -11,6 +11,7 @@ See my [Software Development page](./development.html) for more information.
 Because I think the web is too full of style over substance.
 Also, I just like this clean look better.
 I added some CSS to make the site responsive for desktop and mobile browsers, but that’s all.
+This site is fast, lightweight, and doesn't require any cookies or plugins or trackers.
 
 I may build a web site that is a better showcase for my work at some point.
 Today, this is what I want my site to look like.

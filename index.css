@@ -14,10 +14,12 @@ img {
 nav ul {
   background-color: #CCC;
   border: 1px solid black;
+  left: 0;
   list-style-type: none;
   margin: 0;
   padding: 0;
-  width: auto;
+  top: 0;
+  width: 100%;
 }
 nav ul li {
   padding: 0 0.5em;
@@ -62,9 +64,14 @@ div.caption p {
     width: 100%;
   }
   nav ul {
-    left: 2%;
+    border: 0px none transparent;
+    border-right: 1px solid black;
+    height: 100%;
+    left: 0;
+    padding-left: 0.5em;
+    padding-top: 2ex;
     position: fixed;
-    top: 5%;
+    top: 0;
     width: 24%;
   }
 }
