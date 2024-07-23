@@ -31,6 +31,8 @@ In Order of Acquisition
 * [Aristo 868 Studio](#aristo868)
 * [Pickett Model N700 A-2](#pickettN700T)
 * [Post 1447](#post1447)
+* [Halden Calculex](#haldenCalculex)
+* [Pickett Model 800-T](#pickett800T)
 
 ## Wish List
 
@@ -1027,6 +1029,87 @@ However, with its features and its condition, I’m glad I got it.
 
 ---
 
+<a name="haldenCalculex"></a>
+## Halden Calculex
+### [Halden Calculex on ISRM](https://www.sliderulemuseum.com/PocketWatch.shtml#Halden)
+### [This page on “Bob’s Calculators and Slide Rules”](https://sites.google.com/site/bobscalculatorsandsliderules/home/slide-rules/halden) shows restoration of a Halden Calculex
+
+Alyssa got this for me!
+This is a very nice little circular rule that has suffered some sort of catastrophe in its life.
+It is missing its metal outer ring and handle, and one of its two glass pieces.
+The scales look like they may be tarnished.
+The rivets seem to be showing through the faces of the outer scales.
+However, the inner and outer scales move easily, as does the glass.
+
+I think I could make a replacement glass with a hairline out of Plexiglas if I can find the correct thickness.
+The outer ring and handle would be more of a challenge.
+
+Maybe the best part of this is the tiny leather-bound instruction manual.
+The manual is well-written, with lots of operation examples and reference tables.
+They packed a lot of information on its 94 tiny pages.
+The last page, originally blank, has handwritten notes for “Time allowed”, apparently for the number of hours to complete X operations at Y minutes each.
+The note appears to have been written with a fountain pen with green ink.
+The manual has no copyright date.
+
+* Lys got me this!
+* Rough condition
+    * Missing outer ring and handle
+    * Missing Front glass
+    * Intact Rear glass
+    * Glass and Inner and Outer move easily, with occasional roughness
+* Includes leather case 
+    * Nice soft leather folding case with snap
+* Includes instruction book
+    * Leather bound tiny instruction book
+    * Handwritten notes on last page
+
+[Return to Top](#top)
+
+---
+
+<a name="pickett800T"></a>
+## Pickett Model 800-T
+### "MODEL 800-T LOG LOG SYNCHRO-SCALE"
+### [Pickett Page on ISRM](https://www.sliderulemuseum.com/Pickett.htm)
+### ![Pickett Model 800-T](./images/Pickett-800T.jpg)
+
+* Purchased June 5, 2024
+    * Ebay
+    * $32.95 Shipped
+    * Arrived June 10, 2024
+* [Manual on ISRM](https://www.sliderulemuseum.com/Manuals/ISRM_M329_Pickett_HowToUseLogLogSlideRules_N800-N803-N300-N600-N4_EdMillis.pdf)
+* [Pickett Metal Slide Rules Chronology](https://osgalleries.org/journal/displayarticle.cgi?match=1.1/V1.1P5.pdf)
+* Manufactured 1958 - 1960
+    * Aluminum
+        * Shiny edges, not corroded or dark
+    * Front of Slide:
+        * Logo Style 4
+        * “MODEL 800-T LOG LOG”
+        * “SYNCHRO-SCALE”
+        * Artwork Mark 105
+    * Back of Slide:
+        * “PATENTS APPLIED FOR”
+        * “PICKETT & ECKEL, INC. CHICAGO”
+        * Artwork Mark 108
+    * Scales:
+        * Front: LL1+0.01/-0.01, A [ B, ST, T 0., Cot <10.0, S, Cos, C ] D, DI, K
+        * Rear: LL2+0.1/-0.1, DF [ CF, CIF, L, CI, C ] D, LL3+1.0/-1.0
+        * Descending values on CI, CIF, trig, and reciprocal log-log scales in red with right-pointing arrow
+    * Stamped Aluminum Posts
+        * "Grooved Stamped Posts Contoured to Finger Tip"
+    * Grooved Flat Lens
+    * Nylon Cursor Bars
+    * No Grooves in Rails for Cursor
+    * Grooved Slide
+    * Slide Tension Springs
+* Includes Case with plastic insert
+    * Appears that the case used to have a "DYMO Embosser" label applied. Cannot read what it said.
+* Excellent Condition
+
+[Return to Top](#top)
+
+---
+
 # Wish List
 
 ---
@@ -1036,7 +1119,7 @@ However, with its features and its condition, I’m glad I got it.
 
 ### Pickett Model 800 and 803
 
-The Pickett [Model 500](#pickett500), Model 800, Model 803, Model 2, Model 3, and [Model 4](#pickettn4) seem to make up a “spectrum” of Log-Log rules.
+The Pickett [Model 500](#pickett500), [Model 800](#pickett800T), Model 803, Model 2, Model 3, and [Model 4](#pickettn4) seem to make up a “spectrum” of Log-Log rules.
 I probably don’t need ALL of them in my collection.
 Yet, I am strangely compelled…
 
