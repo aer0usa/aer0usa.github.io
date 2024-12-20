@@ -1,0 +1,3 @@
+#!/bin/bash
+./pdallbuild &&\
+    rsync -rvz build/ linode:/home/eric/www/www.arinehart.com/

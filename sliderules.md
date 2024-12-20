@@ -1103,7 +1103,8 @@ The manual has no copyright date.
     * Grooved Slide
     * Slide Tension Springs
 * Includes Case with plastic insert
-    * Appears that the case used to have a "DYMO Embosser" label applied. Cannot read what it said.
+    * “Bill Todd” stamped inside flap
+    * Appears that the case used to have a "DYMO Embosser" label applied. Cannot read what it said, but I would guess “Bill Todd”.
 * Excellent Condition
 
 [Return to Top](#top)
