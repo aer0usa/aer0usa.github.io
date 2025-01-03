@@ -1,7 +1,12 @@
 <a name="top"></a>
-# My Slide Rules
+# Slide Rules
 
-## Table of Contents
+## Journal of the Oughtred Society
+
+I wrote an article for the JOS about the first Slide Rule I bought myself, the Pickett Model 700 USAF Aerial Photography Slide Rule:
+[Pickett USAF Aerial Photography Slide Rules](./USAF-Aerial-Photo-Rule.html)
+
+## My Slide Rule Collection
 
 In Order of Acquisition
 
