@@ -3,8 +3,9 @@
 
 ## Journal of the Oughtred Society
 
-I wrote an article for the JOS about the first Slide Rule I bought myself, the Pickett Model 700 USAF Aerial Photography Slide Rule:
+I wrote an article for the [JOS](https://www.oughtred.org/journal.shtml) about the first Slide Rule I bought myself, the Pickett Model 700 USAF Aerial Photography Slide Rule:
 [Pickett USAF Aerial Photography Slide Rules](./USAF-Aerial-Photo-Rule.html)
+It was published in [JOS Volume 32, No. 1, 2023](http://osgalleries.org/journal/displayarticle.cgi?match=32.1/V32.1P55.pdf).
 
 ## My Slide Rule Collection
 
