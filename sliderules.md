@@ -16,7 +16,7 @@ In Order of Acquisition
 * [Roos Company No. SR-109](#roos109)
 * [Pickett Model 700 A-2](#pickett700)
 * [Pickett Model 520 A-1](#pickett520)
-* [Aristo 0903LL Scholar](#aristo09903ll)
+* [Aristo 0903LL Scholar](#aristo0903ll)
 * [Aristo 867U Darmstadt](#aristo867u)
 * [Pickett N4-ES](#pickettn4)
 * [KL-1 Circular Slide Rule](#kl1)
@@ -39,6 +39,11 @@ In Order of Acquisition
 * [Post 1447](#post1447)
 * [Halden Calculex](#haldenCalculex)
 * [Pickett Model 800-T](#pickett800T)
+* [Dietzgen Redirule 1776](#dietzgen1776)
+* [UTO No. 601](#uto601)
+* [Picket Model 903](#pickett903)
+* [Aristo 0968 Studio](#aristo0968)
+* [Aristo 0903 Scholar](#aristo0903)
 
 ## Wish List
 
@@ -245,7 +250,7 @@ I mentioned all of this to Lys, and she looked on Ebay and found a lot of two sl
 
 ---
 
-<a name="aristo09903ll"></a>
+<a name="aristo0903ll"></a>
 ## Aristo 0903LL Scholar
 ### [Aristo Page on ISRM](https://www.sliderulemuseum.com/Aristo.htm)
 
@@ -259,7 +264,9 @@ I mentioned all of this to Lys, and she looked on Ebay and found a lot of two sl
 * Scales:
     * Front: L, K, A [ B, CI, C ] D, S, ST, T
     * Rear: 25cm [ S, LL2, LL3] 8 inch(bi-directional)
+        * The inch ruler includes one inch past the zero in each direction, one graduated in 1/32", the other in 1/20".
 * Convex Plastic Cursor
+* “ARISTO” logotype molded in braces
 * Manufacturing Code "3LR28"
     * 1971
     * Geretsried
@@ -929,13 +936,16 @@ I like Aristo rules’ design and layout, so this rule is a fun “compare and c
     * Front: LL01, LL02, LL03, A [ B, L, K, C ] D, LL3, LL2, LL1
     * Back: T, ST, DF [ CF, CIF, CI, C ] D, P, S
 * Cursor
-    * Multiple hairlines: PS, KW
+    * Multiple hairlines: PS, KW, “36”, π/4
     * The cursor is installed upside-down:
     The “Aristo” logotype on the cursor bar is upside-down.
     The “kW” and “HP” marks are over C and D scales instead of A and B scales
     * Cursor screws covered in some sort of “gunge”.
     That cleaned up with a spudger.
     * I need to figure out how to remove the cursor so I can clean it and turn it over.
+        * **Update:** I disassembled the cursor and washed it, and the rest of the rule, with mild dish soap and water.
+        The “36” cursor mark washed away partially and is faint now.
+        The mark is visible, and the cursor is oriented correctly now.
 * Includes Leather Case
 * Manufacturing Code Stamp “6013”
     * Oughtred Society Journal Article: [DENNERT & PAPE and ARISTO Slide Rules 1872 - 1978](https://osgalleries.org/journal/displayarticle.cgi?match=6.1/V6.1P4.pdf)
@@ -1111,6 +1121,155 @@ The manual has no copyright date.
 * Includes Case with plastic insert
     * “Bill Todd” stamped inside flap
     * Appears that the case used to have a "DYMO Embosser" label applied. Cannot read what it said, but I would guess “Bill Todd”.
+* Excellent Condition
+
+[Return to Top](#top)
+
+---
+
+<a name="dietzgen1776"></a>
+## Dietzgen Redirule 1776
+
+* Purchased August 7, 2024
+    * Adopted from ISRM
+    * $45 Donation includes shipping
+    * Arrived August 13, 2024
+    * Included UTO No. 601
+* Manufactured Early 1970s
+    * [Dietzgen Catalog Matrix (ISRM)](https://www.sliderulemuseum.com/Manuals/Dietzgen_CatalogMatrix_BruceBabcock1996_3pgs.pdf)
+    * Scales:
+        * Front: K, A [ B, T, ST, S ] D, DI
+        * Rear: DF [ CF, CIF, CI, C ] D, L
+* Includes leather case
+    * Metal clip, grommet, and stamped “Dietzgen” logo on back.
+* Excellent Condition
+
+[Return to Top](#top)
+
+---
+
+<a name="uto601"></a>
+## UTO No. 601
+
+Mike Konshak included this with the Dietzgen 1776 I adopted from ISRM.
+The 601 is a nice Reitz rule that I would compare to a Pickett 200.
+I had been considering getting one of these, so I was glad to see it!
+
+* Arrived August 13, 2024
+    * From ISRM
+    * Included with [Dietzgen Redirule 1776](#dietzgen1776)
+* I don’t know when it was manufactured
+* Scales
+    * Front: K, A [ B, CI, C ] D, L
+    * Rear: [ S, S&T, T ]
+* Includes leather case
+    * “Made in Denmark” printed on front
+    * ALCOA logo printed on back
+* Includes one-sheet instructions for UTO Reitz, Darmstadt, and Electro rules
+* Excellent Condition
+
+[Return to Top](#top)
+
+---
+
+<a name="pickett903"></a>
+## Pickett Model 903
+
+One day, I joined the ISRM Google Meet video call.
+I met Mike Konshak, George, and Mike (I don’t recall his last name), and we had a fun chat about slide rules, home ownership, motorcycles, and other topics.
+We started to talk about replacement parts for Pickett rules, and Mike K showed a Pickett 903 he had that needed a cursor.
+He showed us replacing its cursor with the cursor from a different, later Pickett, and called it a “Frankenrule”.
+He also demonstrated adding a hairline to a Plexiglas reproduction cursor glass he had cut and drilled earlier to match early Pickett pocket rules.
+Since he had just sent me the Dietzgen and UTO recently, he had my address, so he sent me the “Frankenrule” and the reproduction cursor glass he had just marked.
+
+This was a nice, unexpected gift!
+The 903 was not on my radar, but it's a nice compare-and-contrast to my 902, and to the “rear” of the 700/520.
+
+* Arrived September 3, 2024
+    * Gift from Mike Konshak, ISRM
+* Manufactured 1954-1955
+    * Aluminum
+    * “Period 2”
+    * Scales:
+        * Front: K, A, DF [ CF, T Cot, S Cos, CI, C ] D, L
+        * Rear: Unit Conversion Gauge Marks
+            * [Like this unusual 903 on ISRM](https://www.sliderulemuseum.com/Pickett/Pickett_903-T_TrigConversion_TriangleLogo_RoundedBraces_EdMillisCollection.jpg)
+            * “Copyright 1954, C. H. Lynch, Alhambra, California”
+            * Most other 903s have “Equivalents and Instructions”, more like a [Model 902](#pickett902), but not exactly.
+    * Logo Style 3
+        * “47” Above Logo
+    * Stamped Aluminum Posts
+        * “Smooth Stamped Posts Contoured to Finger Tip”
+    * Grooved Rails for Cursor
+    * Not Original Cursor:
+        * Grooved Flat Lens
+        * Extended Nylon Cursor Bars
+        * The original cursor would have been the four-screw Plain Flat Lens with Machined Metal Cursor Bars
+    * No Slide Tension Springs
+* Includes a homemade white fabric case
+* Good Condition
+
+[Return to Top](#top)
+
+---
+
+<a name="aristo0968"></a>
+## Aristo 0968 Studio
+
+Alyssa got me this and the 0903 below for my birthday!
+
+I have been wanting a full-size Studio.
+This one is very nice.
+It has a substantial feel to it, and the slide and cursor move SO smoothly!
+This is a very pleasant slide rule to use.
+
+This 0968 is a great companion to my 868 Studio, and the pair complement my Pickett [Model 800](#pickett800T) and [Model 600](#pickett600) pair well.
+
+* Received on March 15, 2025
+* Scales:
+    * Front: LL01, LL02, LL03, A [ B, L, K, C ] D, LL3, LL2, LL1
+    * Back: T, ST, DF [ CF, CIF, CI, C ] D, P, S
+* Cursor
+    * Multiple hairlines: PS, KW, “36”, π/4
+* Manufacturing Code Stamp “6249”
+    * Oughtred Society Journal Article: [DENNERT & PAPE and ARISTO Slide Rules 1872 - 1978](https://osgalleries.org/journal/displayarticle.cgi?match=6.1/V6.1P4.pdf)
+    * 1962, Lot 49
+* Excellent Condition
+* Includes Cardboard Box
+    * Good condition
+* Includes Nr. 1367 “NZ Scale” Insert
+    * Good condition, with some ink marks on it.
+
+[Return to Top](#top)
+
+---
+
+<a name="aristo0903"></a>
+## Aristo 0903 Scholar
+
+Alyssa got me this and the 0968 above for my birthday!
+
+This is a nice student rule with interesting branding applied.
+
+FEINMESSINSTITUT KLAWUN sold precision measuring and calculating devices, including watches and slide rules.
+They made their own slide rules, but also resold other German slide rules: Aristo, Faber-Castell, Nestler.
+
+* [Manual on ISRM](https://www.sliderulemuseum.com/Manuals/ISRM_M316_Aristo_Scholar_0903LL_VS-2_GiftOfEdwardWright.pdf)
+* Scales:
+    * Front: L, K, A [ B, CI, C ] D, S, ST, T
+    * Rear: 25cm [ ] 10 inch
+* “FEINMESSINSTITUT KLAWUN, Hannover” printed on back
+    * According to [this JOS article](http://osgalleries.org/journal/displayarticle.cgi?match=15.1/V15.1P12.pdf), Klawun resold Aristo slide rules with their own branding added.
+* “S. H.” written on back, faded
+* Flat Plastic Cursor
+* Manufactured Code “G5948”
+    * 1959
+    * Geretsried
+    * Lot 48
+* Includes Cardboard Box
+    * “ARISTO SCHOLAR” Printed on front of box
+    * “FEINMESSINSTITUT KLAWUN, HANNOVER” Printed on front of box
+    * “S. HEZEL” hand-embossed/written on back of box
 * Excellent Condition
 
 [Return to Top](#top)
