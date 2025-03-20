@@ -1130,6 +1130,8 @@ The manual has no copyright date.
 <a name="dietzgen1776"></a>
 ## Dietzgen Redirule 1776
 
+![Dietzgen Redirule 1776 and Pickett N1006-ES](./images/Compare-1776-1006.jpg)
+
 * Purchased August 7, 2024
     * Adopted from ISRM
     * $45 Donation includes shipping
@@ -1150,6 +1152,8 @@ The manual has no copyright date.
 
 <a name="uto601"></a>
 ## UTO No. 601
+
+![UTO No. 601 and Pickett N200-T](./images/Compare-601-N200.jpg)
 
 Mike Konshak included this with the Dietzgen 1776 I adopted from ISRM.
 The 601 is a nice Reitz rule that I would compare to a Pickett 200.
@@ -1216,6 +1220,8 @@ The 903 was not on my radar, but it's a nice compare-and-contrast to my 902, and
 <a name="aristo0968"></a>
 ## Aristo 0968 Studio
 
+![Aristo 0968 Studio](./images/Aristo-0968-Studio.jpg)
+
 Alyssa got me this and the 0903 below for my birthday!
 
 I have been wanting a full-size Studio.
@@ -1246,6 +1252,8 @@ This 0968 is a great companion to my 868 Studio, and the pair complement my Pick
 
 <a name="aristo0903"></a>
 ## Aristo 0903 Scholar
+
+![Aristo 0903 Scholar](./images/Aristo-0903.jpg)
 
 Alyssa got me this and the 0968 above for my birthday!
 
@@ -1295,6 +1303,8 @@ Also, an N3P or an N4P would be great, but are harder to come by.
 
 I enjoy the nice graphic design of Aristo slide rules.
 I also like Aristo’s scale layout, with the trig scales on the body, and the addition of a P scale.
+
+**Update:** I now have an [868 Studio](#aristo868) and an [0968 Studio](#aristo0968)!
 
 ### Nestler 0130 MultiMath
 ### Post Versalog
