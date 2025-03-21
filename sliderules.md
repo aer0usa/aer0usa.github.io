@@ -52,7 +52,7 @@ In Order of Acquisition
 * [Concise Model 270](#concise270)
 * [Concise Model 300](#concise300)
 
-All photos ©2023 A. E. Rinehart unless otherwise noted.
+All photos ©2025 A. E. Rinehart unless otherwise noted.
 
 -----
 
