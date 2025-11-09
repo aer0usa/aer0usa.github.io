@@ -6,4 +6,5 @@ filename="${filename%.*}"
 wd="$PWD"
 echo $wd $filename $extension
 
-pandoc -f gfm -t html5 --standalone --metadata pagetitle="$filename" --include-in-header=$wd/favicon.txt --include-before-body=$wd/head.html --include-after-body=$wd/foot.html --css=./index.css -o $wd/build/$filename.html $1 && echo "success" || echo "fail"
+# pandoc -f gfm -t html5 --standalone --metadata pagetitle="$filename" --include-in-header=$wd/favicon.txt --include-before-body=$wd/head.html --include-after-body=$wd/foot.html --css=./index.css -o $wd/build/$filename.html $1 && echo "success" || echo "fail"
+pandoc -f gfm -t html5 --standalone --metadata pagetitle="$filename" --include-in-header=$wd/favicon.txt --include-before-body=$wd/head.html --include-after-body=$wd/foot.html --css=./index.css -o $wd/$filename.html $1 && echo "success" || echo "fail"
