@@ -1,4 +1,4 @@
-<a name="top"></a>
+
 # Slide Rules
 
 ## Journal of the Oughtred Society
@@ -44,6 +44,13 @@ In Order of Acquisition
 * [Picket Model 903](#pickett903)
 * [Aristo 0968 Studio](#aristo0968)
 * [Aristo 0903 Scholar](#aristo0903)
+* [Sterling Pocket Metric Converter](#sterlingmetric)
+* [Ole Jorgensen Slide Rule Pencil Cup](#sliderulepencilcup)
+* [Kitchen Slide Rule](#kitchensliderule)
+* [Post Versalog](#postversalog)
+* [K & E 4092-3](#ke4092)
+* [Dietzgen Redirule 1771](#dietzgen1771)
+* [Vernon Sterling Slide Rule Tie Bar](#vernontiebar)
 
 ## Wish List
 
@@ -1161,6 +1168,7 @@ I had been considering getting one of these, so I was glad to see it!
 
 * Arrived August 13, 2024
     * From ISRM
+    * 20.04.01.071.X - Hoffman UTO 601 Rietz ALCO promo - to duplicates gift
     * Included with [Dietzgen Redirule 1776](#dietzgen1776)
 * I don’t know when it was manufactured
 * Scales
@@ -1279,6 +1287,117 @@ They made their own slide rules, but also resold other German slide rules: Arist
     * “FEINMESSINSTITUT KLAWUN, HANNOVER” Printed on front of box
     * “S. HEZEL” hand-embossed/written on back of box
 * Excellent Condition
+
+[Return to Top](#top)
+
+---
+
+<a name="sterlingmetric"></a>
+## Sterling Pocket Metric Converter
+
+[Return to Top](#top)
+
+---
+<a name="sliderulepencilcup"></a>
+## Ole Jorgensen Slide Rule Pencil Cup
+
+* Ordered from Ebay July 1, 2025
+    * Delivered July 12, 2025
+
+---
+
+<a name="kitchensliderule"></a>
+## Kitchen Slide Rule
+
+* Ordered from Ebay July 4, 2025
+    * Delivered July 9, 2025
+
+[Return to Top](#top)
+
+---
+
+<a name="postversalog"></a>
+## Post Versalog
+
+Alyssa got me this!
+
+* Scales:
+    * Front: LL/1, LL/2, LL/3 [ T/T, SecT/ST, Cos/S, C ] D, LL3, LL2, LL1
+    * Rear: LL0, LL/0, K, DF [ CF, CIF, CI, C ] D, R1, R2, L
+* Cursor
+* Date Code Stamp: JF, Manufactured in June of 1959, a “Versalog 1A”
+* Serial Number: 008960
+* Excellent Condition
+* Includes Leather Case
+    * Case includes belt loop
+    * Brown case has gold color where the flap closes?
+    * Used to have a Dymo Embosser Label on back: “Dan Musselin” ?
+
+[Return to Top](#top)
+
+---
+
+<a name="ke4092"></a>
+## K & E 4092-3
+
+* Purchased July 23, 2025
+    * Adopted from ISRM
+    * 2014.01.07.02.X - K&E_Standard - Added 4092-3 sn399224 (1932)w/helvetica font scale labels. All glass cursor ISRM Lens.
+    * Arrived July 26, 2025
+* Manufactured 1932
+* Excellent Condition
+    * There is a slight twist in the frame, but it doesn’t seem to affect the operation.
+* Scales:
+    * Front: LL0, A [ B, S, T, C ] LL3, LL2, LL1
+    * Rear: K, DF [ CF, CIF, CI, C ] D, L
+* Cursor:
+    * “All Glass” cursor
+    * Reproduction glass on at least one side; a hairline is scribed and inked, but it isn't straight. I may get another glass from ISRM and try to scribe a line myself.
+    * Original cursor blocks
+* Includes leather (& cardboard?) case
+    * Good condition
+    * Case has MIT decal
+    * Case has Model 4081-3
+
+[Return to Top](#top)
+
+---
+
+<a name="dietzgen1771"></a>
+## Dietzgen Redirule 1771
+
+Mike Konshak included this with the [K & E 4092-3](ke4092) I adopted from ISRM.
+
+* Scales:
+    * Front Scale: 5 inch // A [ B, CI, C ] D, K \\ 12.5 cm
+    * Rear Slider: [S, L, T ]
+* Includes Brown Leather case
+    * Good condition
+    * “R. J. S.” written on case
+
+
+[Return to Top](#top)
+
+---
+
+<a name="vernontiebar"></a>
+## Vernon Sterling Slide Rule Tie Bar
+
+I was getting ready to go to a wedding, so I would be be wearing a suit and tie for the first time in a long time. We went and bought the suit and tie, and I thought, “It's too bad I don't have one of those neat little slide rule tie bars to go with this.”
+
+A couple minutes later, I was browsing eBay.
+
+A couple minutes and thirty dollars later, I had placed an order.
+
+A couple days later, I had a beautiful tiny slide rule tie bar!
+
+The slide and cursor slide, the cursor has a faint hairline printed on it, and it has A, C, and D scales! It’s only good for one or two significant digits, but it works!
+
+[Return to Top](#top)
+
+---
+
+<a name=""></a>
 
 [Return to Top](#top)
 
