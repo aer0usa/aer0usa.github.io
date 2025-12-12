@@ -1,3 +1,5 @@
 #!/bin/bash
-./pdallbuild &&\
-    rsync -rvz build/ linode:/home/eric/www/www.arinehart.com/
+./pdallbuild && \
+    rsync -avz *.html *.css linode:/home/eric/www/www.arinehart.com/ && \
+    rsync -arvz images/ linode:/home/eric/www/www.arinehart.com/images/ && \
+    rsync -arvz UsafImages/ linode:/home/eric/www/www.arinehart.com/UsafImages/
