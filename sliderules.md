@@ -51,6 +51,7 @@ In Order of Acquisition
 * [K & E 4092-3](#ke4092)
 * [Dietzgen Redirule 1771](#dietzgen1771)
 * [Vernon Sterling Slide Rule Tie Bar](#vernontiebar)
+* [Picket Model N803-T](#pickettn803t)
 
 ## Wish List
 
@@ -1057,6 +1058,8 @@ However, with its features and its condition, I’m glad I got it.
 ### [Halden Calculex on ISRM](https://www.sliderulemuseum.com/PocketWatch.shtml#Halden)
 ### [This page on “Bob’s Calculators and Slide Rules”](https://sites.google.com/site/bobscalculatorsandsliderules/home/slide-rules/halden) shows restoration of a Halden Calculex
 
+![Halden Calculex](./images/halden_calculex.jpg)
+
 Alyssa got this for me!
 This is a very nice little circular rule that has suffered some sort of catastrophe in its life.
 It is missing its metal outer ring and handle, and one of its two glass pieces.
@@ -1067,6 +1070,7 @@ However, the inner and outer scales move easily, as does the glass.
 I think I could make a replacement glass with a hairline out of Plexiglas if I can find the correct thickness.
 The outer ring and handle would be more of a challenge.
 
+![Halden Calculex Instruction Manual](./images/halden_calculex_manual.jpg)
 Maybe the best part of this is the tiny leather-bound instruction manual.
 The manual is well-written, with lots of operation examples and reference tables.
 They packed a lot of information on its 94 tiny pages.
@@ -1187,8 +1191,10 @@ I had been considering getting one of these, so I was glad to see it!
 <a name="pickett903"></a>
 ## Pickett Model 903
 
+![Pickett Model 903](./images/Pickett-903.jpg)
+
 One day, I joined the ISRM Google Meet video call.
-I met Mike Konshak, George, and Mike (I don’t recall his last name), and we had a fun chat about slide rules, home ownership, motorcycles, and other topics.
+I met Mike Konshak, George, and Mike (If I recall correctly, it was Mike Syphers of [Following the Rules](https://followingtherules.info/)), and we had a fun chat about slide rules, home ownership, motorcycles, and other topics.
 We started to talk about replacement parts for Pickett rules, and Mike K showed a Pickett 903 he had that needed a cursor.
 He showed us replacing its cursor with the cursor from a different, later Pickett, and called it a “Frankenrule”.
 He also demonstrated adding a hairline to a Plexiglas reproduction cursor glass he had cut and drilled earlier to match early Pickett pocket rules.
@@ -1295,11 +1301,17 @@ They made their own slide rules, but also resold other German slide rules: Arist
 <a name="sterlingmetric"></a>
 ## Sterling Pocket Metric Converter
 
+![Sterling Pocket Metric Converter](./images/Sterling-Converter.jpg)
+
+* Alyssa got this for me!
+
 [Return to Top](#top)
 
 ---
 <a name="sliderulepencilcup"></a>
 ## Ole Jorgensen Slide Rule Pencil Cup
+
+![Ole Jorgensen Slide Rule Pencil Cup](./images/Pencil-Cup.jpg)
 
 * Ordered from Ebay July 1, 2025
     * Delivered July 12, 2025
@@ -1308,6 +1320,8 @@ They made their own slide rules, but also resold other German slide rules: Arist
 
 <a name="kitchensliderule"></a>
 ## Kitchen Slide Rule
+
+![Kitchen Slide Rule](./images/Kitchen-Slide-Rule.jpg)
 
 * Ordered from Ebay July 4, 2025
     * Delivered July 9, 2025
@@ -1318,6 +1332,8 @@ They made their own slide rules, but also resold other German slide rules: Arist
 
 <a name="postversalog"></a>
 ## Post Versalog
+
+![Post Versalog](./images/Post-Versalog.jpg)
 
 Alyssa got me this!
 
@@ -1340,9 +1356,18 @@ Alyssa got me this!
 <a name="ke4092"></a>
 ## K & E 4092-3
 
+![K & E 4092-3](./images/KE-4092-3.jpg)
+
+This is an interesting older-style Log-Log rule.
+It has one LL0 scale for e^-x, indexed to A. 
+LL0 is folded so that e^-3 and e^-0.03 correspond to 30 on the A scale.
+
+Its S scale is in DMS (“TrigInMinutes”, instead of “DeciTrig”), and is also indexed to A.
+
 * Purchased July 23, 2025
     * Adopted from ISRM
     * 2014.01.07.02.X - K&E_Standard - Added 4092-3 sn399224 (1932)w/helvetica font scale labels. All glass cursor ISRM Lens.
+    * I had asked for 23.03.01.03, but Mike K substituted this one. I’m all right with that!
     * Arrived July 26, 2025
 * Manufactured 1932
 * Excellent Condition
@@ -1366,6 +1391,8 @@ Alyssa got me this!
 <a name="dietzgen1771"></a>
 ## Dietzgen Redirule 1771
 
+![Dietzgen Redirule 1771](./images/Dietzgen-1771.jpg)
+
 Mike Konshak included this with the [K & E 4092-3](ke4092) I adopted from ISRM.
 
 * Scales:
@@ -1383,6 +1410,8 @@ Mike Konshak included this with the [K & E 4092-3](ke4092) I adopted from ISRM.
 <a name="vernontiebar"></a>
 ## Vernon Sterling Slide Rule Tie Bar
 
+![Vernon Sterling Slide Rule Tie Bar](./images/Vernon-Tie-Bar.jpg)
+
 I was getting ready to go to a wedding, so I would be be wearing a suit and tie for the first time in a long time. We went and bought the suit and tie, and I thought, “It's too bad I don't have one of those neat little slide rule tie bars to go with this.”
 
 A couple minutes later, I was browsing eBay.
@@ -1397,7 +1426,44 @@ The slide and cursor slide, the cursor has a faint hairline printed on it, and i
 
 ---
 
-<a name=""></a>
+<a name="pickettn803t"></a>
+## Pickett N803-T
+
+![Pickett N803-T](./images/Pickett-N803-T.jpg)
+
+This was a Hanukkah gift from Ben!
+
+* Received on December 17, 2025.
+* Manufactured 1962 - 1966
+    * Aluminum
+        * Shiny edges, not corroded or dark
+    * Front of Slide:
+        * “MODEL N803-T LOG LOG”
+        * “SPEED RULE”
+        * “DUAL BASE”
+        * “Negative” of Logo Style 4
+        * “SYNCHRO-SCALE”
+        * Artwork Mark 109
+    * Back of Slide:
+        * “PATENTS APPLIED FOR”
+        * “PICKETT & ECKEL, INC. CHICAGO”
+        * Artwork Mark 110
+    * Scales:
+        * Front: LL0+0.001/-0.001, LL1+0.01/-0.01, DF [ CF, CIF, L, CI, C ] D, LL2+0.1/-0.1, LL3+1.0/-1.0
+        * Rear: √ #1, √ #2, K, A [ B, S Cos, ST, T Cot, CI, C ] D, DI, DFₘ
+        * Descending values on CI, CIF, trig, and reciprocal log-log scales in red with right-pointing arrow
+        * The scales are faint in places, like they have been rubbed off. Red text seems less rubbed off than black.
+    * Stamped Aluminum Posts
+        * "Grooved Stamped Posts Contoured to Finger Tip"
+    * Grooved Convex Lens
+    * Nylon Cursor Bars
+    * No Grooves in Rails for Cursor
+    * Grooved Slide
+    * Slide Tension Springs
+    * Includes Original Box
+        * Price Tag: “DYKEMA OFFICE SUPPLY 21.50”
+    * Good condition
+
 
 [Return to Top](#top)
 
@@ -1405,14 +1471,16 @@ The slide and cursor slide, the cursor has a faint hairline printed on it, and i
 
 # Wish List
 
+My “Wish List” keeps getting shorter!
+
 ---
 
 <a name="loglogrules"></a>
 ## Log-Log Rules
 
-### Pickett Model 800 and 803
+### Pickett Model Log-Log Rules
 
-The Pickett [Model 500](#pickett500), [Model 800](#pickett800T), Model 803, Model 2, Model 3, and [Model 4](#pickettn4) seem to make up a “spectrum” of Log-Log rules.
+The Pickett [Model 500](#pickett500), [Model 800](#pickett800T), [Model 803](#pickettn803t), Model 2, Model 3, and [Model 4](#pickettn4) seem to make up a “spectrum” of Log-Log rules.
 I probably don’t need ALL of them in my collection.
 Yet, I am strangely compelled…
 
@@ -1427,6 +1495,9 @@ I also like Aristo’s scale layout, with the trig scales on the body, and the a
 
 ### Nestler 0130 MultiMath
 ### Post Versalog
+
+Lys got me a lovely [Post Versalog](#postversalog)!
+
 ### K&E Log-Log Rules
 
 I have lumped the K&E rules together because there are a lot of K&E Log-Log rules, and I am not well-versed in the differences between all of them.
@@ -1434,7 +1505,7 @@ The 4081-3s seem to be the “classic” K&E Log-Log rules.
 I like the 4181-1 pocket-size Log-Log rules.
 The 68-1100 “Deci-Lon” seems to be the flagship, like the [Pickett N4](#pickettn4).
 
-I would need to study them a bit more before I started shopping for K&Es.
+I have started by adopting a [K & E 4092-3](#ke4092), which is an earlier-style Log-Log rule, with one LL0 scale indexed to A.
 
 <a name="misc"></a>
 ## Misc
