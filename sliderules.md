@@ -512,7 +512,7 @@ I mentioned all of this to Lys, and she looked on Ebay and found a lot of two sl
 
 <a name="ke4058"></a>
 ## K&E N4058W Beginner’s Slide Rule
-## [_K&E's Beginner's Slide Rule Line_ on Following the Rules site](https://followingtherules.substack.com/p/k-and-es-beginners-slide-rule-line)
+### [_K&E's Beginner's Slide Rule Line_ on Following the Rules site](https://followingtherules.substack.com/p/k-and-es-beginners-slide-rule-line)
 ### [K&E Page on ISRM](https://www.sliderulemuseum.com/KE_Standard.htm)
 ### [Clark McCoy's K&E N4058W Page](https://www.mccoys-kecatalogs.com/KEModels/ke4058family.htm)
 ### [K&E N4058W on Smithsonian Museum web page](https://americanhistory.si.edu/collections/search/object/nmah_1214624)
