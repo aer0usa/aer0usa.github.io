@@ -522,23 +522,25 @@ I mentioned all of this to Lys, and she looked on Ebay and found a lot of two sl
 * Sent to me accidentally when I ordered the [Pickett Model 200](#pickett200), so the seller let me keep it!
     * Arrived January 18, 2021
 * [Manual on Clark McCoy’s Site](https://www.mccoys-kecatalogs.com/KEManuals/4058-1944/4058manual.pdf)
-* Includes leather case
-* Manufactured 1954-1960
+* [_K&E's Beginner's Slide Rule Line_ on Following the Rules site](https://followingtherules.substack.com/p/k-and-es-beginners-slide-rule-line)
+* Includes “leather” case
+* Manufactured 1956-1958
     * One-piece clear plastic cursor
+    * “Equivalents and Settings” table on back 1954-1958
+    * Shallow thumb indentation rather than larger window on right end of the rear (See Tarantolo collection note below): 1956-1959
 * Scales:
     * Front: A [ B, CI, C ] D, K
-    * Back: Equivalents [ S, L, T ]
+    * Back of Slide: [ S, L, T ]
+    * Back of Rule: Equivalents and Settings table
 * Fair condition
     * Printing at right end of scales is worn
     * Smooth operation
     * "V.L.M" written on back
 * Unusual?
-    * Does not have the "window" on the back of the rule to read the S, L, and T scales.
-    * There is a rounded finger cutout at the right end of the back of the rule, but no window.
-    * Rounded cutout seems irregular. Added by an owner?
-    * Clearly labeled "N4058W" on back. The model without the window that is closest is labeled "4058D"
-    * Emailed Clark McCoy
+    * Does not have the deeper “window” cutout on the back of the rule to read the S, L, and T scales.
+    * There is a shallow rounded finger cutout at the right end of the back of the rule, but no window.
     * Same as [K&E N4058W on Smithsonian Museum web page](https://americanhistory.si.edu/collections/search/object/nmah_1214624)
+    * Same as [1956 N4058W in the Paul Tarantolo Collection on Oughtred Society site](https://osgalleries.org/collectors/tarantolo/kande4058_info_and_image.cgi?string=KEU378)
 
 [Return to Top](#top)
 
