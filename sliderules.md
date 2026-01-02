@@ -512,6 +512,7 @@ I mentioned all of this to Lys, and she looked on Ebay and found a lot of two sl
 
 <a name="ke4058"></a>
 ## K&E N4058W Beginner’s Slide Rule
+## [_K&E's Beginner's Slide Rule Line_ on Following the Rules site](https://followingtherules.substack.com/p/k-and-es-beginners-slide-rule-line)
 ### [K&E Page on ISRM](https://www.sliderulemuseum.com/KE_Standard.htm)
 ### [Clark McCoy's K&E N4058W Page](https://www.mccoys-kecatalogs.com/KEModels/ke4058family.htm)
 ### [K&E N4058W on Smithsonian Museum web page](https://americanhistory.si.edu/collections/search/object/nmah_1214624)
@@ -522,7 +523,6 @@ I mentioned all of this to Lys, and she looked on Ebay and found a lot of two sl
 * Sent to me accidentally when I ordered the [Pickett Model 200](#pickett200), so the seller let me keep it!
     * Arrived January 18, 2021
 * [Manual on Clark McCoy’s Site](https://www.mccoys-kecatalogs.com/KEManuals/4058-1944/4058manual.pdf)
-* [_K&E's Beginner's Slide Rule Line_ on Following the Rules site](https://followingtherules.substack.com/p/k-and-es-beginners-slide-rule-line)
 * Includes “leather” case
 * Manufactured 1956-1958
     * One-piece clear plastic cursor
@@ -559,7 +559,7 @@ I mentioned all of this to Lys, and she looked on Ebay and found a lot of two sl
         * "138" written on one side and one end of box
     * Leather case with slot for instruction slip
         * "US" embossed in gold on front, partly worn off
-        * "138" writtin inside flap
+        * "138" written inside flap
     * Plastic instruction slip
     * Belt loop
     * Slide Rule Guarantee Registration Card
