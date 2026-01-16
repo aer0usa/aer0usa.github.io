@@ -7,6 +7,8 @@ I wrote an article for the [JOS](https://www.oughtred.org/journal.shtml) about t
 [Pickett USAF Aerial Photography Slide Rules](./USAF-Aerial-Photo-Rule.html)
 It was published in [JOS Volume 32, No. 1, 2023](http://osgalleries.org/journal/displayarticle.cgi?match=32.1/V32.1P55.pdf).
 
+I have referred to the JOS articles [_Pickett Metal Slide Rules_](https://osgalleries.org/journal/displayarticle.cgi?match=1.1/V1.1P5.pdf) and [_A Catalog of Pickett Metal Slide Rules_](https://osgalleries.org/journal/pdf_files/33.1/V33.1P21.pdf) for help in dating Pickett slide rules, as well as [the ISRM _Pickett Slide Rule Chronology Chart_](https://www.sliderulemuseum.com/Manuals/Pickett_Chronology.jpg).
+
 ## My Slide Rule Collection
 
 In Order of Acquisition
@@ -51,7 +53,8 @@ In Order of Acquisition
 * [K & E 4092-3](#ke4092)
 * [Dietzgen Redirule 1771](#dietzgen1771)
 * [Vernon Sterling Slide Rule Tie Bar](#vernontiebar)
-* [Picket Model N803-T](#pickettn803t)
+* [Pickett Model N803-T](#pickettn803t)
+* [Pickett Model No. 3 Deci Multiphase Log Log](#pickettmodel3)
 
 ## Wish List
 
@@ -610,7 +613,7 @@ I mentioned all of this to Lys, and she looked on Ebay and found a lot of two sl
     * Magnesium
         * Edges corroded and dark
         * Slide and Cursor slide easily and smoothly
-    * Logo Style 1 "P&E"
+    * Logo Style 1 "P&E-TM"
         * This logo used 1945-1950
     * "U.S.A. COPYRIGHT 1948" on back of slide, left end.
         * So, Manufactured 1948-1950 ?
@@ -1443,7 +1446,7 @@ This was a Hanukkah gift from Ben!
         * “MODEL N803-T LOG LOG”
         * “SPEED RULE”
         * “DUAL BASE”
-        * “Negative” of Logo Style 4
+        * “Negative” of Logo Style 4 / “O-Script”
         * “SYNCHRO-SCALE”
         * Artwork Mark 109
     * Back of Slide:
@@ -1471,6 +1474,50 @@ This was a Hanukkah gift from Ben!
 
 ---
 
+<a name="pickettmodel3"></a>
+## Pickett Model No. 3 Deci Multiphase Log Log
+
+![Pickett Model No. 3 Deci Multiphase Log Log](./images/Pickett-Model3.jpg)
+
+* Purchased January 4, 2026
+    * Won Ebay auction
+    * $41.76 shipped
+    * Arrived January 13, 2026
+* Scales
+    * Front Scale (artwork: 301): ³√ #1, ³√ #2, ³√ #3, DF [ CF, T Cot, ST, S Cos, CI, C ] D, DI,√ #1, √ #2
+    * Back Scale (artwork: 253): 1/N1, 1/N2, 1/N3, 1/N4, DF/M [ CF/M, Digits, CI, C] Co/D, N1, N2, N3, N4
+        * Handwritten notes etched around Digits tables. See Pictures.
+        * Left end: 
+            > INTERNATIONAL AND U.S.A. COPYRIGHT 1947 R. C. PICKETT, A. F. ECKEL ALHAMBRA, CALIF., U.S.A.
+        * Right end:
+            > PATENTS PENDING MADE IN U. S. A. PICKETT & ECKEL ALHAMBRA, CALIF. 253
+    * Inverse scales marked with white numbers inside black dots
+    * No dot, circle, or arrow to indicate descending values on trig scales
+* Manufactured about 1950
+    * Design M1B
+    * Magnesium
+        * Edges corroded
+        * Slide slides easily
+        * Cursor slides roughly
+    * Logo Style 3 / “Triangle”
+        * Pickett script without “Trade Mark” text
+    * Stamped Aluminum Posts (?)
+    * Plain Flat Lens
+    * Machined Metal Cursor Bars
+        * Stainless Steel?
+        * Serial Number Stamped on top bar: 01D1064
+    * Grooved Rails
+    * Male Slide
+    * No Slide Tension Springs
+* Includes original manual
+    * “How to Use the Deci Log Log Slide Rule, Model No. 3 by Maurice L. Hartung”
+* Felt slip cover
+    * Worn
+
+[Return to Top](#top)
+
+---
+
 # Wish List
 
 My “Wish List” keeps getting shorter!
@@ -1482,7 +1529,7 @@ My “Wish List” keeps getting shorter!
 
 ### Pickett Model Log-Log Rules
 
-The Pickett [Model 500](#pickett500), [Model 800](#pickett800T), [Model 803](#pickettn803t), Model 2, Model 3, and [Model 4](#pickettn4) seem to make up a “spectrum” of Log-Log rules.
+The Pickett [Model 500](#pickett500), [Model 800](#pickett800T), [Model 803](#pickettn803t), Model 2, [Model 3](#pickettmodel3), and [Model 4](#pickettn4) seem to make up a “spectrum” of Log-Log rules.
 I probably don’t need ALL of them in my collection.
 Yet, I am strangely compelled…
 
