@@ -55,6 +55,7 @@ In Order of Acquisition
 * [Vernon Sterling Slide Rule Tie Bar](#vernontiebar)
 * [Pickett Model N803-T](#pickettn803t)
 * [Pickett Model No. 3 Deci Multiphase Log Log](#pickettmodel3)
+* [Nestler No 21 Darmstadt](#nestler21)
 
 ## Wish List
 
@@ -457,11 +458,12 @@ I mentioned all of this to Lys, and she looked on Ebay and found a lot of two sl
     * Arrived December 3, 2020
 * Scales:
     * Front: 27cm || L, K, A [B, CI, C] D, P || S, T
+        * “Railroad track” scale divisions
         * Scales not labeled except for D (SIN) and P (COS)
         * S and T on front edge as SIN / COS and tg / Ctg
         * Reverse scales (CI, COS, Ctg, but not P) in Red
-    * Rear: [L, LL1, LL2, LL3]
-        * [lg x, e^0.01x, e^0.1x, e^x]
+    * Rear:  [LL1, LL2, LL3]
+        * Only label is eˣ
     * Back: Conversions
 * Date Code "OC"
     * Manufactured March 1964
@@ -1513,6 +1515,46 @@ This was a Hanukkah gift from Ben!
     * “How to Use the Deci Log Log Slide Rule, Model No. 3 by Maurice L. Hartung”
 * Felt slip cover
     * Worn
+
+[Return to Top](#top)
+
+---
+
+<a name="nestler21"></a>
+
+## Nestler No 21 Darmstadt
+
+![Nestler No 21 Darmstadt](./images/Nestler%2021.webp)
+
+* Alyssa got me this for my 2026 birthday!
+* Manufactured 1938, 1939?
+    * No21 Darmstadt first appeared in 1938 catalog
+    * Screws on front face, up to 1938
+    * Text in valley includes D.R.G.M.; Format 8?
+    * Rear text, Paper on Plastic, after 1938
+* Scales
+    * Front: 27cm, lg || K, A [B, CI, C] D, P || S, T
+        * “Railroad track” scale divisions
+        * Scales not labeled except for D (sin) and P (cos)
+        * S and T on bottom edge as sin / cos and tg / ctg
+        * Reverse scales (CI, COS, Ctg, but not P) in Red
+    * Rear:  [LL1, LL2, LL3]
+        * Only label is eˣ
+        * Slide has slight delamination on rear at left end
+    * Valley:
+        * Cm scale
+        * “No21 „Darmstadt‟ ALBERT NESTLER A-G LAHR I/B D.R.G.M. D.R.PATENT”
+* Cursor
+    * Aluminum?
+    * Three lines: kW, q, PSd
+    * Yellowed window
+    * Groove at top to read L scale on top edge
+    * Extension at bottom to read Sin and Tan scales on bottom edge
+* Includes cardboard box/case
+    * “Albert Nestler A.G.”
+    * “D.R.P. „Darmstadt‟ No21”
+    * Good condition, corners worn
+
 
 [Return to Top](#top)
 
