@@ -56,6 +56,7 @@ In Order of Acquisition
 * [Pickett Model N803-T](#pickettn803t)
 * [Pickett Model No. 3 Deci Multiphase Log Log](#pickettmodel3)
 * [Nestler No 21 Darmstadt](#nestler21)
+* [Marabu System Rietz](#marabuSystemRietz)
 
 ## Wish List
 
@@ -1548,6 +1549,7 @@ This was a Hanukkah gift from Ben!
     * Aluminum?
     * Three lines: kW, q, PSd
     * Yellowed window
+    * Plastic
     * Groove at top to read L scale on top edge
     * Extension at bottom to read Sin and Tan scales on bottom edge
 * Includes cardboard box/case
@@ -1555,6 +1557,39 @@ This was a Hanukkah gift from Ben!
     * “D.R.P. „Darmstadt‟ No21”
     * Good condition, corners worn
 
+[Return to Top](#top)
+
+---
+<a name="marabuSystemRietz"></a>
+
+## Marabu System Rietz
+
+![Marabu System Rietz](./images/Marabu%20Composite.webp)
+
+* Alyssa got me this for my 2026 birthday!
+* Made by Faber-Castell
+    * A lot like **ISRM 14.05.01.02** on the [ISRM Faber page](https://www.sliderulemuseum.com/Faber.shtml)
+    * It seems like a Faber Model 375, but it has no model number printed on it
+    * Dowels to locate scales
+    * Metal Inserts in body and slide
+* Scales
+    * Front Scale: 27cm // K, A [ B, C ] D, L || 27cm
+        * Scales not labeled
+        * “Quot. + 1” and “Prod. - 1” at ends of D
+    * Back Slide: [ S, S&T, T]
+        * Trig in Degrees, Minutes, Seconds
+    * Back: Conversions (German)
+* Aluminum Frame Cursor
+    * Clear window
+    * Single hairline
+* Date codes:
+    * Year: 3
+    * Month: 6
+    * Manufactured June 1923
+* Includes cardboard box/case
+    * No Branding or Label on box
+* Good condition
+    * Slight warp, but the slide and cursor move easily
 
 [Return to Top](#top)
 
