@@ -1127,8 +1127,8 @@ The manual has no copyright date.
         * “PICKETT & ECKEL, INC. CHICAGO”
         * Artwork Mark 108
     * Scales:
-        * Front: LL1+0.01/-0.01, A [ B, ST, T 0., Cot <10.0, S, Cos, C ] D, DI, K
-        * Rear: LL2+0.1/-0.1, DF [ CF, CIF, L, CI, C ] D, LL3+1.0/-1.0
+        * Front: LL1, A [ B, ST, T, S, C ] D, DI, K
+        * Rear: LL2, DF [ CF, CIF, L, CI, C ] D, LL3
         * Descending values on CI, CIF, trig, and reciprocal log-log scales in red with right-pointing arrow
     * Stamped Aluminum Posts
         * "Grooved Stamped Posts Contoured to Finger Tip"
@@ -1457,7 +1457,7 @@ This was a Hanukkah gift from Ben!
         * “PICKETT & ECKEL, INC. CHICAGO”
         * Artwork Mark 110
     * Scales:
-        * Front: LL0+0.001/-0.001, LL1+0.01/-0.01, DF [ CF, CIF, L, CI, C ] D, LL2+0.1/-0.1, LL3+1.0/-1.0
+        * Front: LL0, LL1, DF [ CF, CIF, L, CI, C ] D, LL2, LL3
         * Rear: √ #1, √ #2, K, A [ B, S Cos, ST, T Cot, CI, C ] D, DI, DFₘ
         * Descending values on CI, CIF, trig, and reciprocal log-log scales in red with right-pointing arrow
         * The scales are faint in places, like they have been rubbed off. Red text seems less rubbed off than black.
