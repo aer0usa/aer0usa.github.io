@@ -66,8 +66,8 @@ div.caption p {
   /* For desktop: */
   body {
     margin-bottom: 0;
-    margin-left: 30%;
-    margin-right: 5%;
+    margin-left: 15em;
+    margin-right: 2em;
     margin-top: 0;
     width: 65%;
   }
@@ -92,6 +92,6 @@ div.caption p {
     padding-top: 2ex;
     position: fixed;
     top: 0;
-    width: 24%;
+    width: 12em;
   }
 }

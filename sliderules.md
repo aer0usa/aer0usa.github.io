@@ -43,7 +43,7 @@ In Order of Acquisition
 * [Pickett Model 800-T](#pickett800T)
 * [Dietzgen Redirule 1776](#dietzgen1776)
 * [UTO No. 601](#uto601)
-* [Picket Model 903](#pickett903)
+* [Pickett Model 903](#pickett903)
 * [Aristo 0968 Studio](#aristo0968)
 * [Aristo 0903 Scholar](#aristo0903)
 * [Sterling Pocket Metric Converter](#sterlingmetric)
@@ -922,7 +922,7 @@ I found the manual on Amazon as a Kindle book.
     * Douglas Sky Rule logo embossed in middle of each side
     * “Major J. F. Buniowski” written on one side
 * Includes instruction booklet
-    * Smaller than standard Picket instruction book
+    * Smaller than standard Pickett instruction book
     * Folded up and inserted in the leather case along with the rule
     * Good condition
     * Written by A. A. Mahoff
